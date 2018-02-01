@@ -5,7 +5,7 @@ Authors: m157q
 Category: Life  
 Tags: Job, 2018 iT 邦幫忙鐵人賽  
 Summary: 離開了人生第 1 份全職工作，2016/01/21 ~ 2017/11/30 將近兩年的時間，想藉這篇文章紀錄一下，一方面也是給自己日後檢視用。  
-Modified: 2018-02-02 00:02:30  
+Modified: 2018-02-02 00:15:30  
   
   
 ## 前言  
@@ -108,6 +108,10 @@ Modified: 2018-02-02 00:02:30
         + Generic Template 10 個 element 都放圖片的話，即便已經用了 cache 快速回應給 Facebook 的伺服器，訊息仍舊非常慢才在 client 端被 render 出來，主要都是卡在圖片。  
         + 沒有完善的測試環境，基本上大家都是開一個 production bot、一個 testing bot 分開維護。  
         + API 常常沒在管 backward compability，major version 都還在 1 的時候常常 API 行為突然就改了。  
++ 貢獻 [travis-ci/dpl](https://github.com/travis-ci/dpl)  
+    + 這算是在職期間覺得比較有貢獻給 Open Source 的部份吧，因為 Travis CI 上要 deploy 到 Google App Engine 的 plugin 壞掉了，所以跑去看，發現是用 Ruby 寫的，雖然不會寫 Ruby 但還硬著頭皮改了，不同的兩個問題各發了 1 個 PR，最後也都成功被 merge 了：  
+        + [Fix Google Cloud SDK v114.0.0 GAE deploy error by M157q · Pull Request #463 · travis-ci/dpl · GitHub](https://github.com/travis-ci/dpl/pull/463)  
+        + [Fix GAE deployment version error in gcloud sdk v138.0.0. by M157q · Pull Request #549 · travis-ci/dpl · GitHub](https://github.com/travis-ci/dpl/pull/549)  
   
 ---  
   

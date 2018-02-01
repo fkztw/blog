@@ -5,7 +5,7 @@ Authors: m157q
 Category: Life  
 Tags: Job, 2018 iT 邦幫忙鐵人賽  
 Summary: 離開了人生第 1 份全職工作，2016/01/21 ~ 2017/11/30 將近兩年的時間，想藉這篇文章紀錄一下，一方面也是給自己日後檢視用。  
-Modified: 2018-02-01 23:03:30  
+Modified: 2018-02-02 00:02:30  
   
   
 ## 前言  
@@ -71,6 +71,7 @@ Modified: 2018-02-01 23:03:30
     + 當然也還把一些確定沒用到的服務都一併暫停了。  
 + 到職四個月  
     + 已經把有在跑的服務大致上都搞懂了，可以修改並加上新功能，只剩下一些非常久遠的 legacy package 沒有去動它。  
+        + 從以前的 Legacy code 中瞭解了 MapReduce 以及 [Luigi 這套由 Spotify 公司開發，用 Python 撰寫的 Task Scheduler](https://github.com/spotify/luigi)。（貌似有個專有名詞叫 Orchestration）  
     + 開始撰寫新文件，因為對服務都大致瞭解了，所以也從舊的文件中篩選出還有用的部份，將其獨立出來，並儘量完整補充。  
     + 因為之前的團隊把服務都集中在某台 Google Compute Engine 上，所以開始跟約聘的 Web Back-end Engineer 同事討論計劃把服務拆分出來，以避免之後「一個掛、全部掛」的狀況。  
     + 剛好同事有用過 Docker 跟 Kubernetes，也是我當時想學的新技術之一，於是就開始計劃把現有的服務都拆分成 microservices。  

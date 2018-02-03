@@ -5,7 +5,7 @@ Authors: m157q
 Category: Life  
 Tags: Job, 2018 iT 邦幫忙鐵人賽  
 Summary: 離開了人生第 1 份全職工作，2016/01/21 ~ 2017/11/30 將近兩年的時間，想藉這篇文章紀錄一下，一方面也是給自己日後檢視用。  
-Modified: 2018-02-03 14:47:30  
+Modified: 2018-02-03 15:17:30  
   
   
 ## 前言  
@@ -102,6 +102,12 @@ Modified: 2018-02-03 14:47:30
     + 後來當然是沒有域名立案，因為根本沒時間，而是老闆先跟同行借了中國的伺服器，但要佈署服務很麻煩，畢竟不是自己的伺服器，再加上狀況其實不太好，所以最後還是用了中國的雲端服務平台。  
     + 加了三天晚上的班，吃老闆請的披薩等等速食晚餐，總算是弄出了個能用的東西。但效果不太好，即便是在中國牆內的網路，還是被擋的很慘，不然就是 latency 太高，而且還被同行合作的程式碼雷到。XD  
     + 之後大概又來來回回折騰了一個多月，仍舊無法完全克服 Google Tag Manager 部份被擋的狀況。折衷弄了一個全由自己獨立開發的 Django server，撰寫爬蟲定時去抓取資訊，並提供 API，做到確保能載入 Google Tag Manager 的 `gtm.js` 時才載入，不能載入的時候就不載入。當然也有把 request 資訊紀錄到資料庫裏面，方便之後拉資料出來觀察狀況。詳細紀錄在這篇文章：[中國網路相關筆記 | Just for noting](https://blog.m157q.tw/posts/2018/01/11/dealing-with-china-network/)  
++ 瞭解整個使用者資料追蹤的流程、改進並新增不同行為的資料。  
+    + 改進自有的 tracking pixel 系統  
+    + 瞭解 Legacy Code 如何在 Google App Engine 上執行 MapReduce  
+    + 透過 JavaScript, Logging, Google App Engine, Google Cloud Storage, Google BigQuery 來達成資料的追蹤。  
+    + 修改程式碼以新種類的使用者追蹤資料到 BigQuery 以供分析。  
+    + 老實說這部份一直改用 Google Cloud Dataflow，但因為公司著重方向不同，沒機會做到。  
 + 2016 梅竹黑客松  
     + 回交大當評審，其他評審看起來都至少大我 5~10 歲以上，也不乏年紀明顯比我大一輪以上的。  
     + 第一次當程式相關的評審，然後參賽者年紀其實跟我差不多，老實說有點抖。  

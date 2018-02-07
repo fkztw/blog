@@ -36,7 +36,7 @@ Sometimes writing some small utilities for personal usage.
         + Seperate services on one virtual machine to several API microservices running with Docker to avoid the single point of failure.  
         + Reorganize the service architecture to make the data flow be unified and more easy to be traced when error happens.  
         + Help colleagues (engineer and non-engineer) solve problems and make one know what the other is talking about.  
-        + Draw a picture of whole services and let other engineer colleagues know the purpose of these services, the relations between them and the code repository each one used.  
+        + Draw a picture of all web services and let other engineer colleagues know the purpose of these services, the relations between them and the code repository each one used.  
         + [Fixed the bug of travis-ci/dpl (written in Ruby) to make it able to deploy to Google App Engine again.](https://github.com/travis-ci/dpl/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclose+author%3AM157q)  
         + Tech Stacks: Python: [Django, Flask, webapp2], Google Cloud Platform: [Google App Engine (Standard + Flexible, Python), Google Container Engine, Google Compute Engine, BigQuery, CloudSQL(MySQL), Memcache, Blobstore, Datastore, Google Cloud Storage, Stackdriver], Docker, Kubernetes, Travis CI, Git, GitHub, Trello, Slack, CloudFlare, JavaScript.  
 + System Administrator  

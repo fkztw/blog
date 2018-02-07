@@ -33,7 +33,7 @@ Sometimes writing some small utilities for personal usage.
         + Improve the process of taking down the advertisement when customers' product been sold out to nearly realtime.  
         + Add an auto deployment process of web-frontend assets to CDN for every active project.  
         + Improve the process of collecting user tracking data which uses Google App Engine running with MapReduce and saved the data into Google BigQuery up to 33% faster.  
-        + Seperate services  on one virtual machine to several API microservices running with Docker to avoid the single point of failure.  
+        + Seperate services on one virtual machine to several API microservices running with Docker to avoid the single point of failure.  
         + Reorganize the service architecture to make the data flow be unified and more easy to be traced when error happens.  
         + Help colleagues (engineer and non-engineer) solve problems and make one know what the other is talking about.  
         + Draw a picture of whole services and let other engineer colleagues know the purpose of these services, the relations between them and the code repository each one used.  

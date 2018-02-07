@@ -15,7 +15,7 @@ Encountered this error of one build on Travis CI of some project.
   
 ## Solution  
   
-Downgrade node to 6.11 which is LTS version can solved this problem.  
+Downgrade node to 6.11 which is LTS version can solve this problem.  
   
 ```  
 - nvm install v6.11.2  

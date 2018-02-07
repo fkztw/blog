@@ -26,7 +26,7 @@ Sometimes writing some small utilities for personal usage.
     + [Tagtoo, Taipei City, Taiwan](https://www.linkedin.com/company/2865361)  
     + Jan 2016 - Nov 2017 (1 year 11 months)  
     + Description  
-        + Save 70% cloud platform service fee.  
+        + Save 70% cloud platform service fee in 3 months after onsite.  
         + Speed up testings on Travis CI up to 6 times faster. (90 mins to 15 mins)  
         + Dealing with China network to make current services work in China within 3 days. (using Alibaba Cloud)  
         + Zero downtime database migration.  

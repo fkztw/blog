@@ -4,12 +4,15 @@ Author: m157q
 Category: Note  
 Tags: CLI, bash, Cheat Sheet  
 Slug: bash-cheat-sheet  
-Modified: 2015-10-28 14:17  
+Modified: 2018-02-13 15:48  
   
   
-# Bash Hotkey Cheat Sheet  
+Always forget these shortcuts, so I wrote them down.  
   
-<!--more-->  
+---  
+  
+> ![moving_cli.png](/files/bash-cheat-sheet/moving_cli.png)  
+source: <https://clementc.github.io/blog/2018/01/25/moving_cli/>  
   
 ## Moving the cursor  
   
@@ -93,6 +96,7 @@ Set Emacs Mode in bash:
 	+ [Bash Keyboard Shortcuts](http://ss64.com/bash/syntax-keyboard.html)  
 	+ [Bash shell shortcuts that every system administrator must know](http://www.slashroot.in/bash-shell-shortcuts-every-system-administrator-must-know)  
 	+ [Bash Shortcuts For Maximum Productivity](http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/)  
+    + [Moving efficiently in the CLI](https://clementc.github.io/blog/2018/01/25/moving_cli/)  
 + Chinese  
 	+ [Bash Shell 快速鍵](http://blog.longwin.com.tw/2006/09/bash_hot_key_2006/)  
 	+ [休息五分钟，学几个bash快捷键](http://roclinux.cn/?p=864)  

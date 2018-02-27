@@ -5,7 +5,7 @@ Category: Life
 Tags: Life  
 Slug: goals-and-records  
 Pin: true  
-Modified: 2018-01-24 17:46  
+Modified: 2018-02-27 17:16  
 Summary: Records for what I want to do and when I've done since 2015.  
   
   
@@ -14,6 +14,8 @@ Summary: Records for what I want to do and when I've done since 2015.
 - 2018  
     - [o] [《軟技能：代碼之外的生存指南》](/posts/2018/01/14/soft-skiils-the-software-developers-life-manual/) (2018/01/14)  
     - [o] [《程序员修炼之道:从小工到专家》](/posts/2018/01/15/the-pragmatic-programmer-from-journeyman-to-master/) (2018/01/15)  
+    - [o] 《美麗新世界》(Brave New World) (2018/01/15)  
+        + 覺得有點無聊，看得有點久，相比之下比較喜歡《一九八四》  
     - [ ] C Programming: A Modern Approach  
     - [ ] UNIX and Linux System Administration Handbook  
     - [ ] Python Essential Reference  

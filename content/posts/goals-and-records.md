@@ -5,7 +5,7 @@ Category: Life
 Tags: Life  
 Slug: goals-and-records  
 Pin: true  
-Modified: 2018-02-27 17:16  
+Modified: 2018-03-10 23:41  
 Summary: Records for what I want to do and when I've done since 2015.  
   
   
@@ -234,6 +234,13 @@ Summary: Records for what I want to do and when I've done since 2015.
   
 ## Movies  
   
+- 2018  
+    - [o] [《并：控制》](https://www.youtube.com/watch?v=ozlVdidEH_I)  
+        - 都忘了我有在 flyingV 上贊助這部紀錄片了  
+        - 講這幾年來中共控制香港和台灣的事實  
+        - 看到開頭這幕眼淚不爭氣得湧入眼眶中含著  
+        - 究竟有多少台灣人意識到自由民主的價值呢  
+        - 一直不知道為什麼片名叫做《并：控制》，原來是因為并倒過來看是共啊。  
 - 2017  
     - [o] [La La Land (2016) - IMDb](http://www.imdb.com/title/tt3783958/) (2017/01/10)  
         - 會讓人想起往事的一部電影啊。也許一部好的音樂劇電影的要素，除了音樂和舞蹈的渲染力以外，就是要在完美中加上一點不完美，從而更貼近現實，進而觸動觀眾心靈深處某個已經上鎖的回憶吧。  

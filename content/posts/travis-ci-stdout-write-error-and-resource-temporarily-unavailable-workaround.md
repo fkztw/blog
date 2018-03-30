@@ -5,11 +5,14 @@ Authors: m157q
 Category: Note  
 Tags: Travis CI, non-blocking  
 Summary: A workaround for Travis CI stdout "write error" or "Resource temporarily unavailable"  
+Modified: 2018-03-30 11:07:48  
   
   
 ## TL;DR  
   
-`python3 -c 'import os,sys; os.set_blocking(sys.stdout.fileno(), True)'`  
+```sh  
+python2 -c 'import os,sys,fcntl; flags = fcntl.fcntl(sys.stdout, fcntl.F_GETFL); fcntl.fcntl(sys.stdout, fcntl.F_SETFL, flags&~os.O_NONBLOCK);'  
+```  
   
 Add the line above at `before_install` section of your `.travis.yml` file.  
 Specifically, add this line before the line in your `.travis.yml` which causes the error.  
@@ -40,11 +43,15 @@ These CLI tools (tar, make, ...) didn't handle `EAGAIN` error well. (Should retr
 Add the line below before the line in your `.travis.yml` which causes error.  
 You can also add it at `before_install` section of your `.travis.yml`.  
   
-`python2 -c 'import os,sys,fcntl; flags = fcntl.fcntl(sys.stdout, fcntl.F_GETFL); fcntl.fcntl(sys.stdout, fcntl.F_SETFL, flags&~os.O_NONBLOCK);'`  
+```sh  
+python2 -c 'import os,sys,fcntl; flags = fcntl.fcntl(sys.stdout, fcntl.F_GETFL); fcntl.fcntl(sys.stdout, fcntl.F_SETFL, flags&~os.O_NONBLOCK);'  
+```  
   
 For Python 3.5+:  
   
-`python3 -c 'import os,sys; os.set_blocking(sys.stdout.fileno(), True)'`  
+```sh  
+python3 -c 'import os,sys; os.set_blocking(sys.stdout.fileno(), True)'  
+```  
   
 This will turn off the non-blocking mode for stdout.  
   

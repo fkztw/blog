@@ -5,7 +5,7 @@ Authors: m157q
 Category: Life  
 Tags: Job, 2018 iT 邦幫忙鐵人賽  
 Summary: 離開了人生第 1 份全職工作，2016/01/21 ~ 2017/11/30 將近兩年的時間，想藉這篇文章紀錄一下，一方面也是給自己日後檢視用。  
-Modified: 2018-02-03 15:17:30  
+Modified: 2018-04-27 02:02:30  
   
   
 ## 前言  
@@ -101,7 +101,7 @@ Modified: 2018-02-03 15:17:30
     + 中國網路環境特殊，要使用 GCP 的服務直接提供根本不可能，因為會被擋光光，但老闆談這筆生意的時候又很急著上線，所以根本來不及把所有的服務都複製到中國的雲端平台上使用，更別說可能還有域名得立案的問題。  
     + 後來當然是沒有域名立案，因為根本沒時間，而是老闆先跟同行借了中國的伺服器，但要佈署服務很麻煩，畢竟不是自己的伺服器，再加上狀況其實不太好，所以最後還是用了中國的雲端服務平台。  
     + 加了三天晚上的班，吃老闆請的披薩等等速食晚餐，總算是弄出了個能用的東西。但效果不太好，即便是在中國牆內的網路，還是被擋的很慘，不然就是 latency 太高，而且還被同行合作的程式碼雷到。XD  
-    + 之後大概又來來回回折騰了一個多月，仍舊無法完全克服 Google Tag Manager 部份被擋的狀況。折衷弄了一個全由自己獨立開發的 Django server，撰寫爬蟲定時去抓取資訊，並提供 API，做到確保能載入 Google Tag Manager 的 `gtm.js` 時才載入，不能載入的時候就不載入。當然也有把 request 資訊紀錄到資料庫裏面，方便之後拉資料出來觀察狀況。詳細紀錄在這篇文章：[中國網路相關筆記 | Just for noting](https://blog.m157q.tw/posts/2018/01/11/dealing-with-china-network/)  
+    + 之後大概又來來回回折騰了一個多月，仍舊無法完全克服 Google Tag Manager 部份被擋的狀況。折衷弄了一個全由自己獨立開發的 Django server，撰寫爬蟲定時去抓取資訊，並提供 API，做到確保能載入 Google Tag Manager 的 `gtm.js` 時才載入，不能載入的時候就不載入。當然也有把 request 資訊紀錄到資料庫裏面，方便之後拉資料出來觀察狀況。詳細紀錄在這篇文章：[中國網路相關筆記 | Just for noting](/posts/2018/01/11/dealing-with-china-network/)  
 + 瞭解整個使用者資料追蹤的流程、改進並新增不同行為的資料。  
     + 改進自有的 tracking pixel 系統  
     + 瞭解 Legacy Code 如何在 Google App Engine 上執行 MapReduce  
@@ -111,7 +111,7 @@ Modified: 2018-02-03 15:17:30
 + 2016 梅竹黑客松  
     + 回交大當評審，其他評審看起來都至少大我 5~10 歲以上，也不乏年紀明顯比我大一輪以上的。  
     + 第一次當程式相關的評審，然後參賽者年紀其實跟我差不多，老實說有點抖。  
-    + 為此弄了一個 Django server，搭配 Django REST framework 和 Django REST framework Docs 提供 API 給參加者撈出 BigQuery 裡頭的資料。詳細紀錄在這篇文章：[關於 Django REST framework 的一些筆記 | Just for noting](https://blog.m157q.tw/posts/2018/01/07/django-rest-framework-note/)  
+    + 為此弄了一個 Django server，搭配 Django REST framework 和 Django REST framework Docs 提供 API 給參加者撈出 BigQuery 裡頭的資料。詳細紀錄在這篇文章：[關於 Django REST framework 的一些筆記 | Just for noting](/posts/2018/01/07/django-rest-framework-note/)  
 + 開始開發 Facebook Messenger Bot  
     + 用 Google App Engine 搭配 `webapp2` 開發，因為 Facebook 官方沒有 SDK，所以啥都得自己接。  
     + 也踩到了不少雷，例如：  
@@ -131,7 +131,7 @@ Modified: 2018-02-03 15:17:30
 + 繼續開發 Facebook Messenger Bot  
     + 2017 上半年時間幾乎都在弄 Facebook Messenger Bot，主要是功能需求其實有點違反 Facebook 的 policy，所以在實作上為了不要觸犯 policy，一直在花時間想要怎麼繞路。  
     + 主要是需求沒有確定下來，PM 是個初心者，所以浪費了不少時間在做重複的事，導致之後要儲存使用者行為及分析的流程延宕了很久。  
-    + 為了更加瞭解 Facbeook Messenger Bot，2017 年 6 月參加了 [Facebook Developer Circle: Taipei - Meetup #2](https://fdctaipei.kktix.cc/events/fdc201706)，有篇筆記文：[Facebook Developer Circle: Taipei - Meetup #2 | Just for noting](https://blog.m157q.tw/posts/2017/06/22/facebook-developer-circle-taipei-meetup-2/)  
+    + 為了更加瞭解 Facbeook Messenger Bot，2017 年 6 月參加了 [Facebook Developer Circle: Taipei - Meetup #2](https://fdctaipei.kktix.cc/events/fdc201706)，有篇筆記文：[Facebook Developer Circle: Taipei - Meetup #2 | Just for noting](/posts/2017/06/22/facebook-developer-circle-taipei-meetup-2/)  
 + 支援同事  
     + 這反而是我這段時間做得比較有成就感的，實在是因為 Messenger Bot 的開發沒規劃好，讓我覺得有點厭煩了。  
     + 幫忙解決了一些數字落差的問題，有點像是網站方面的 debug，除了更加熟悉架構與細節以外，有時候也挺享受確定問題的發生的原因跟自己思考出來的結果是相同的那種成就感。  
@@ -147,8 +147,8 @@ Modified: 2018-02-03 15:17:30
     + 並設定兩個月的觀察期，期間順便把工作相關的部份逐步交接給同事，如果不行的話就 2017 的 9 月底離職。  
 + 開始做 data cleaning 和接觸 Machine Learning  
     + 參加了幾場資料科學年會辦的活動，學到了不少東西：  
-        + [台灣資料科學年會之系列活動：深入淺出深度學習 (Dive into Deep Learning) | Just for noting](https://blog.m157q.tw/posts/2017/08/12/dive-into-deep-learning-datasci-tw/)  
-        + [台灣資料科學年會之系列活動：手把手的深度學習實務 | Just for noting](https://blog.m157q.tw/posts/2017/08/13/deep-learning-hands-on-step-by-step-datasci-tw/)  
+        + [台灣資料科學年會之系列活動：深入淺出深度學習 (Dive into Deep Learning) | Just for noting](/posts/2017/08/12/dive-into-deep-learning-datasci-tw/)  
+        + [台灣資料科學年會之系列活動：手把手的深度學習實務 | Just for noting](/posts/2017/08/13/deep-learning-hands-on-step-by-step-datasci-tw/)  
     + 這期間真的是比較多時間在碰 Machine Learing 和 Deep Learning，但花在上面的時間沒有很多，因為還有其他事情得做，而且主要負責機器學習相關專案的開發者不是我，所以自己覺得只學了點皮毛。  
 + 儘量把文件補齊全  
     + 花最多時間的應該是用 draw.io 畫出了整個公司的伺服器架構圖。  
@@ -213,7 +213,7 @@ Modified: 2018-02-03 15:17:30
     + 週末晚上會約去唱歌、吃飯、喝酒，還有自己揪團的小旅行。  
 + 用中文和技術職或非技術職的同事溝通的能力算是有長進吧  
     + 獲得了「會講人話的工程師」的稱號  
-    + 關於回答問題的部份，最近翻譯的這篇文章算是把我想講的話都講出來了：[《回答的智慧》 | Just for noting](https://blog.m157q.tw/posts/2017/12/21/how-to-answer-questions-in-a-helpful-way-zh-tw/)  
+    + 關於回答問題的部份，最近翻譯的這篇文章算是把我想講的話都講出來了：[《回答的智慧》 | Just for noting](/posts/2017/12/21/how-to-answer-questions-in-a-helpful-way-zh-tw/)  
 + Docker 和 Kubernetes 還有 Google Cloud Platform 算是這份工作學到比較多的吧  
     + 雖然自己覺得對於 Docker 和 Kubernetes 的實作還是不夠瞭解，如果要進行效能方面的改善的話應該還是會有問題就是。  
     +  Google Cloud Platform 老實說就是用以前修計算機系統管理和計算機網路管理的底子去瞭解到底這些大公司把這些東西包裝成什麼樣的服務，然後要如何使用這些服務。  

@@ -82,7 +82,7 @@ TWITTER_USERNAME = 'M157q'
 
 SOCIAL = (
     ('GitHub', 'https://github.com/{}'.format(GITHUB_USERNAME)),
-    ('Twitter', 'https://www.twitter.com/{}'.format(TWITTER_USERNAME)),
+    ('Twitter', 'https://twitter.com/{}'.format(TWITTER_USERNAME)),
 )
 
 # Debug

@@ -5,6 +5,7 @@ Authors: m157q
 Category: Note  
 Tags: Arch Linux, pacman, gcc, gcc-libs  
 Summary: A solution to save your ass if you broke pacman after force removed `gcc-multilib` and `gcc-libs-multilib` on your Arch Linux  
+Modified: 2018-07-24 22:04:32  
   
   
 ### Preface  
@@ -14,7 +15,7 @@ you might cannot `$ sudo pacman -Syu` because sometimes they will conflict with 
   
 You have two choices:  
   
-1. Don't install `gcc` and `gcc-libs` to avoid the conflict, and wait until `gcc-multilib` and `gcc-libs-multilib` have new verisons.  
+1. Don't install `gcc` and `gcc-libs` to avoid the conflict, and wait until `gcc-multilib` and `gcc-libs-multilib` have new version.  
     + Remove them from the list of packaged to install of this packages upgrade.  
 2. Force remove `gcc-multilib` and `gcc-libs-multilib` with `$ sudo pacman -Rdd gcc-multilib gcc-libs-multilib`.  
   

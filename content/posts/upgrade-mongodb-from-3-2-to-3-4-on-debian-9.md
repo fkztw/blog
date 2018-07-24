@@ -1,10 +1,10 @@
 Title: Upgrade MongoDB from 3.2 to 3.4 on Debian 9  
 Slug: upgrade-mongodb-from-3-2-to-3-4-on-debian-9  
-Date: 2018-07-24 21:51:32  
+Date: 2018-07-24 21:59:32  
 Authors: m157q  
 Category: Note  
 Tags: MongoDB, Debian, Debian 9  
-Summary: How to install (upgrade to) MongoDB 3.4 on Debian Strech (Debian 9)  
+Summary: How to install (from MongoDB 3.2 upgrade to) MongoDB 3.4 on Debian Strech (Debian 9)  
   
   
 ## TL;DR  

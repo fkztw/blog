@@ -116,7 +116,7 @@ FEED_ALL_RSS = 'feeds/all.feed.rss.xml'
 DONATIONS = {
     'btc': '3PpJHALguhGcA3An3GDyQb6x7yDwm9K38B',
     'eth': '0xf6414a9245f88484046448bb204111941b0d3fec',
-    'ltc': 'LXrgT5JMW6vrua7BbkhHbeyip1HnXH6WKg',
+    'ltc': 'LQLLq44ykpnXzoXnbgeV2xiDvfqwyXKkbN',
     'paypalme': 'm157q',
     'opay-broadcaster-donate': '4E163AAE10E448A30DB244CF85527271',
 }

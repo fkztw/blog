@@ -58,7 +58,7 @@ MySQL 協定上的瑕疵
   
 - <https://mobile.twitter.com/gwillem/status/1086275952915533828>  
 - [MySQL client allows MySQL server to request any local file by default : programming](https://www.reddit.com/r/programming/comments/ahspfv/mysql_client_allows_mysql_server_to_request_any/)  
-- 結果後來原作者得知有其他人在去年 8 月就寫了一樣的東西了，而且還有精美的圖文 PoC。  
+- 結果後來原作者得知有其他人在去年 8 月就寫了一樣的東西了，而且還有精美的圖文 writeup。  
     - [Adminer Script Results to Pwning Server?, Private Bug Bounty Program](https://medium.com/bugbountywriteup/adminer-script-results-to-pwning-server-private-bug-bounty-program-fe6d8a43fe6f)  
   
   

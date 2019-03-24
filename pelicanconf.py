@@ -117,7 +117,7 @@ DONATIONS = {
     'btc': '3PpJHALguhGcA3An3GDyQb6x7yDwm9K38B',
     'eth': '0xf6414a9245f88484046448bb204111941b0d3fec',
     'ltc': 'LQLLq44ykpnXzoXnbgeV2xiDvfqwyXKkbN',
-    'paypalme': 'm157q',
+    'paypalme': {'id': 'm157q', 'currency': 'USD', 'amount': 2},
     'opay-broadcaster-donate': '4E163AAE10E448A30DB244CF85527271',
 }
 

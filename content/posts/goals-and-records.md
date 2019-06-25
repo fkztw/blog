@@ -12,6 +12,15 @@ Summary: Records for what I want to do and when I've done since 2015.
 ## Reading  
   
 - 2019  
+    - [o] [Hackers and Painters](https://www.tenlong.com.tw/products/9789867794697) (2019/06/20)  
+        - <http://www.paulgraham.com/hp.html>  
+        - 鼎鼎大名的矽谷創業加速器 YCombinator 創辦人 Paul Graham 在 2004 年出的書。  
+        - 基本上算是一本科技預言書了，很多裡面當時提到的事後來都發生了，包含智慧型手機。  
+        - 裡面很多觀念都滿認同的，尤其是關於創業和理想團隊成員的部份。  
+        - 看完真的想好好學一下 Lisp 了，大學的時候修課有寫過，但沒有花時間好好瞭解啊。  
+    - [o] [Legal Highs](https://www.goodreads.com/en/book/show/681010.Legal_Highs) (2019/06/21)  
+        - 去清邁逛書店的時候覺得有趣買的，原來是 1973 年的書...  
+        - 比較像是一本食譜，記載著可以用什麼原料做出娛樂用藥物。  
     - [ ] C Programming: A Modern Approach  
     - [ ] UNIX and Linux System Administration Handbook  
     - [ ] Python Essential Reference  

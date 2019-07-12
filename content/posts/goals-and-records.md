@@ -5,7 +5,7 @@ Category: Life
 Tags: Life  
 Slug: goals-and-records  
 Pin: true  
-Modified: 2019-06-25 15:52  
+Modified: 2019-07-12 13:31  
 Summary: Records for what I want to do and when I've done since 2015.  
   
   
@@ -21,6 +21,9 @@ Summary: Records for what I want to do and when I've done since 2015.
     - [o] [Legal Highs](https://www.goodreads.com/en/book/show/681010.Legal_Highs) (2019/06/21)  
         - 去清邁逛書店的時候覺得有趣買的，原來是 1973 年的書...  
         - 比較像是一本食譜，記載著可以用什麼原料做出娛樂用藥物。  
+    - [o] [《螢火蟲》村上春樹短篇文選](https://www.books.com.tw/products/0010061497) (2019/07/09)  
+        - 比較愛這兩篇：《跳舞的小矮人》、《隨著盲柳入眠的女人》  
+        - 《燒掉柴房》反而沒什麼感覺，但聽說改編的電影《燃燒烈愛》滿好看的。  
 - 2018  
     - [o] [《軟技能：代碼之外的生存指南》](/posts/2018/01/14/soft-skiils-the-software-developers-life-manual/) (2018/01/14)  
     - [o] [《程序员修炼之道:从小工到专家》](/posts/2018/01/15/the-pragmatic-programmer-from-journeyman-to-master/) (2018/01/15)  

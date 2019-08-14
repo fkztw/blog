@@ -4,7 +4,7 @@ Author: m157q
 Category: Note  
 Tags: CLI, WireShark, pcap, tcpdump, tcpick, tcpxtract  
 Slug: print-pcap-file-in-friendly-format  
-Modified: 2015-10-28 13:55  
+Modified: 2019-08-14 19:46  
   
   
 ## Usage  
@@ -17,6 +17,11 @@ Modified: 2015-10-28 13:55
     + `$ tcpick -C -yP -r ${pcap_file}`  
 4. [tcpxtract](http://tcpxtract.sourceforge.net/) (CLI)  
     + `$ tcpxtract -f ${pcap_file} -o {output_path}`  
+  
+## Addtional Resource  
+  
++ [tcpdump Cheat Sheet - Comparitech](https://www.comparitech.com/net-admin/tcpdump-cheat-sheet/)  
+  
   
 ## References  
   

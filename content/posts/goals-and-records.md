@@ -4,10 +4,20 @@ Author: m157q
 Category: Life  
 Tags: Life  
 Slug: goals-and-records  
-Pin: true  
-Modified: 2019-12-19 00:38  
+Modified: 2019-12-19 03:29  
 Summary: Records for what I've done.  
   
+  
+# 決定之後都記錄在 Trello 不另外花時間記錄在這裡了  
+  
+一忙起來就沒有時間額外打字  
+加上每次一更新這篇文章  
+RSS Feed 也會跟著更新  
+有點懶得處理這個問題  
+也只有這篇文章會頻繁更新而已  
+可以持續更新四年多也是挺有毅力的  
+  
+---  
   
 ## Reading  
   

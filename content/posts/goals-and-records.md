@@ -5,8 +5,8 @@ Category: Life
 Tags: Life  
 Slug: goals-and-records  
 Pin: true  
-Modified: 2019-07-12 13:31  
-Summary: Records for what I want to do and when I've done since 2015.  
+Modified: 2019-12-19 00:38  
+Summary: Records for what I've done.  
   
   
 ## Reading  
@@ -89,10 +89,6 @@ Summary: Records for what I want to do and when I've done since 2015.
   
 ## Health  
   
-- 2018  
-    - [ ] Lose weight to 65 kg  
-    - [ ] Lose body fat to 10%  
-    - [ ] Muscle Training for six-pack abs  
 - 2017  
     - [o] Lose weight to 80 kg  
     - [o] Lose body fat to 28%  
@@ -117,17 +113,6 @@ Summary: Records for what I want to do and when I've done since 2015.
   
 - 2018  
     - [o] [Fix README for using GitHub tokens while running via Docker locally by M157q · Pull Request #66 · tipsy/github-profile-summary · GitHub](https://github.com/tipsy/github-profile-summary/pull/66) (2018/01/08)  
-    - [ ] Send PR back to [imageme](https://github.com/M157q/imageme)  
-    - [ ] <https://github.com/passcod/twd>  
-        - Height is wrong  
-        - Need package on AUR  
-    - [ ] <https://github.com/Guake/guake>  
-        - [shortcut for toggling transparency · Issue #117 · Guake/guake · GitHub](https://github.com/Guake/guake/issues/117)  
-        - [Add shortcut for transparency (fix #481) · Guake/guake@b2fd530 · GitHub](https://github.com/Guake/guake/commit/b2fd53053b0ff61757ca8fac2f97b3fa10d0be30)  
-    - [ ] <https://github.com/wdv4758h/LTCC>  
-    - [ ] <https://datecloud.hackpad.com/>  
-    - [ ] xrandr - cannot detect MacBook Air thunderbolt hotplug  
-    - [ ] wicd - add proxy setting functionality  
 - 2017  
     - [o] [Fix #24 by M157q · Pull Request #25 · fntsrlike/slack-irc-syncbot · GitHub](https://github.com/fntsrlike/slack-irc-syncbot/pull/25) (2017/01/04)  
     - [o] [Add TrumpScript by M157q · Pull Request #1 · fukuball/Trump-Driven-Development · GitHub](https://github.com/fukuball/Trump-Driven-Development/pull/1) (2017/03/07)  

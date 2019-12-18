@@ -114,11 +114,14 @@ FEED_ALL_RSS = 'feeds/all.feed.rss.xml'
 
 # Donation section for article.html of my forked plumage theme
 DONATIONS = {
-    'btc': '3PpJHALguhGcA3An3GDyQb6x7yDwm9K38B',
-    'eth': '0xbC278C5c3149b4e814414eD8A6b5D1C26ec95490',
-    'ltc': 'LQLLq44ykpnXzoXnbgeV2xiDvfqwyXKkbN',
-    'paypalme': {'id': 'm157q', 'currency': 'USD', 'amount': 2},
     'opay-broadcaster-donate': '4E163AAE10E448A30DB244CF85527271',
+    'paypalme': {'id': 'm157q', 'currency': 'USD', 'amount': 2},
+    'btc': '3QZy3cHvoZcszuqWK5CdCutLEJLeAX5ip6',
+    'usdt-omni': '3QZy3cHvoZcszuqWK5CdCutLEJLeAX5ip6',
+    'eth': '0x926bf92b29de4C6E15CbCE99e0a7aB053877181b',
+    'usdt-erc20': '0x926bf92b29de4C6E15CbCE99e0a7aB053877181b',
+    'dai': '0x926bf92b29de4C6E15CbCE99e0a7aB053877181b',
+    'ltc': 'MD26bUR4VsykGp8Ky2QbstejoFGJaj3hpM',
 }
 
 # =============================================================================

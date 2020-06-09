@@ -39,7 +39,7 @@ Accroding to the "Rationale" section of `PEP 518`:
 
 ## Pros
 
-- It locks the dependency and generate `poetry.lock` file just like `pipenv`
+- It locks the dependency and generates `poetry.lock` file just like `pipenv`
 - The reason why I use `poetry` instead of `pipenv`:
     - During my last job, we use `pipenv` at first.
     - One day, we encountered a strange bug which only showed on the production machine.

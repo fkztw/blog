@@ -21,6 +21,7 @@ plugins/*
 *.py[cod]
 __pycache__/*
 venv
+.python-version
 
 # C extensions
 *.so

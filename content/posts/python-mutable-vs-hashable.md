@@ -2,7 +2,7 @@ Title: [Python] Mutable v.s Hashable
 Date: 2013-06-05 09:31  
 Author: m157q  
 Category: Note  
-Tags: Python, Python3, mutable, hashable  
+Tags: Python, Python 3, mutable, hashable  
 Slug: python-mutable-vs-hashable  
   
   

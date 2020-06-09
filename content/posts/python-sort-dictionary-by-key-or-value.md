@@ -1,9 +1,9 @@
-Title: [Python] Sort dictionary by key or value  
-Date: 2013-05-10 16:33  
-Author: m157q  
-Category: Note  
-Tags: Python, Sort, Python3  
-Slug: python-sort-dictionary-by-key-or-value  
+Title: [Python] Sort dictionary by key or value
+Date: 2013-05-10 16:33
+Author: m157q
+Category: Note
+Tags: Python, Sort, Python 3
+Slug: python-sort-dictionary-by-key-or-value
   
   
 #in python3.3  

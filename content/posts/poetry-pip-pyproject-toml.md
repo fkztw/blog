@@ -1,6 +1,6 @@
 Title: Poetry, pip, pyproject.toml  
 Slug: poetry-pip-pyproject-toml  
-Date: 2020-06-09 21:18:20  
+Date: 2020-06-09 21:23:20  
 Authors: m157q  
 Category: Note
 Tags: Python, Poetry, Pip, pyproject.toml
@@ -11,8 +11,8 @@ Summary: Things between Poetry, pip and pyproject according to my own reviews.
 
 - Projects only have `pyproject.toml` (No `setup.py`)
     - Just use `pip >= 19.0`
-- `pip >= 10.0` start to support [PEP 518](https://www.python.org/dev/peps/pep-0518/)
-- `pip >= 19.0` start to support [PEP 517](https://www.python.org/dev/peps/pep-0517/)
+- `pip >= 10.0` starts to support [PEP 518](https://www.python.org/dev/peps/pep-0518/)
+- `pip >= 19.0` starts to support [PEP 517](https://www.python.org/dev/peps/pep-0517/)
 
 ---
 

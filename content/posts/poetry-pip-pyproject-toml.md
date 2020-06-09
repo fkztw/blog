@@ -1,10 +1,10 @@
 Title: Poetry, pip, pyproject.toml  
 Slug: poetry-pip-pyproject-toml  
-Date: 2020-06-09 21:23:20  
+Date: 2020-06-09 21:32:20  
 Authors: m157q  
 Category: Note
 Tags: Python, Poetry, Pip, pyproject.toml
-Summary: Things between Poetry, pip and pyproject according to my own reviews.
+Summary: Things between Poetry, pip and pyproject.toml according to my own reviews.
 
 
 # TL;DR

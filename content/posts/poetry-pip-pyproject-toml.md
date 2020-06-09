@@ -49,7 +49,7 @@ Accroding to the "Rationale" section of `PEP 518`:
     - It fixed the problem.
 - Other reasons why you should consider not using `pipenv` in 2020 can be found in this blog post: [Pipenv: promises a lot, delivers very little | Chris Warrick](https://chriswarrick.com/blog/2018/07/17/pipenv-promises-a-lot-delivers-very-little/#a-2020-update-updated)
 - Poetry is not the first package manager accepts `pyproject.toml`.
-    - I use [`flit`](https://github.com/takluyver/flit) 1.0 back in Apirl, 2018, which support `pyproject.toml`
+    - I use [`flit`](https://github.com/takluyver/flit) 1.0 back in Apirl, 2018, which supports `pyproject.toml`
     - And that's the time I know `pyproject.toml`
     - `flit` is still being developed and it's lastest version is 2.3.0 now.
     - But, Poetry has more features.

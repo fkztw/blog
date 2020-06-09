@@ -5,6 +5,7 @@ Authors: m157q
 Category: Note  
 Tags: podman, docker  
 Summary: Started to use Podman recently. Got stucked on the non-root user environment for hours. Write down some notices here.  
+Modified: 2020-06-09 19:57:31  
   
   
 # Error Messages  
@@ -18,16 +19,16 @@ Summary: Started to use Podman recently. Got stucked on the non-root user enviro
     - Can use `sudo usermod --add-subuids 100000-165536 --add-subgids 100000-165536 ${YOUR_USERNAME}` to modify these two files.  
 2. `podman system migrate`  
     - **THIS IS VERY IMPORTANT!**  
-    - Lots of resources didn't tell you that you should execute this command after modifying `/etc/subuid` and `/etc/subgid` to make it works for Podman. (Or maybe the problem is I should read the tutoril for Podman first. Anyway.)  
+    - Lots of resources didn't tell you that you should execute this command after modifying `/etc/subuid` and `/etc/subgid` to make it works for Podman. (Or maybe the problem is I should read the tutorial for Podman first. Anyway.)  
     - If you have built the images before executing `podman system migarte`, you should re-build those images again without using image cache. Or, you can just use `podman rmi` to delete those images and re-build them.  
         - Including the base image like Ubuntu, Debian, Arch Linux which you pulled from somewhere. Yes, you should delete it and re-build. Otherwise, you will still get the error.  
 3. `podman unshare cat /proc/self/uid_map` to check if it works.  
     - Should be like this:  
-```  
-$ podman unshare cat /proc/self/uid_map  
-         0       1000          1  
-         1     100000      65536  
-```  
+    ```  
+    $ podman unshare cat /proc/self/uid_map  
+             0       1000          1  
+             1     100000      65536  
+    ```  
 4. `podman build` with existing Dockerfile  
   
 ---  

@@ -36,8 +36,8 @@ jobs:
     - name: Commit and push if changed
       run: |-
         git diff
-        git config --global user.email "m157q.tw@gmail.com"
-        git config --global user.name "Frank Jheng"
+        git config --global user.email "M157q.tw@gmail.com"
+        git config --global user.name "M157q - GitHub Actions"
         git add -A
         git commit -m "Generate New Weekly Post" || exit 0
         git push

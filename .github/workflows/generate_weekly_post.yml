@@ -28,7 +28,7 @@ jobs:
     - name: Install Python dependencies
       run: |
         python -m pip install -r .github/workflows/requirements.txt
-    - name: Update README
+    - name: Generate Weekly Post
       env:
         GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
       run: |-

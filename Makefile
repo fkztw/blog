@@ -125,11 +125,11 @@ cf_upload: publish
 github: publish
 	git push $(GITHUB_REMOTE_NAME) $(GITHUB_SOURCE_CODES_BRANCH)
 
-travis: publish
-	git config --global user.name "M157q - Travis"
-	git config --global user.email M157q.tw@gmail.com
+ci: publish
+	git config --global user.name "M157q - CI"
+	git config --global user.email "M157q.tw@gmail.com"
 	ghp-import -n -m "$(GITHUB_COMMIT_MSG)" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
-	@git push -fq https://${GH_TOKEN}@github.com/$(GITHUB_REPO_SLUG).git $(GITHUB_PAGES_BRANCH):$(GITHUB_PAGES_BRANCH) > /dev/null
+	@git push -fq https://${GITHUB_TOKEN}@github.com/$(GITHUB_REPO_SLUG).git $(GITHUB_PAGES_BRANCH):$(GITHUB_PAGES_BRANCH) > /dev/null
 
 newdraft:
 ifdef NAME

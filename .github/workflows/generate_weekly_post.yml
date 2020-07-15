@@ -1,0 +1,43 @@
+name: Generate Weekly Post
+
+on:
+  workflow_dispatch:
+      # For manually trigger:
+      # https://github.blog/changelog/2020-07-06-github-actions-manual-triggers-with-workflow_dispatch/
+  schedule:
+      # Every Monday at 10:00 AM (UTC+8) just like CodeTengu
+    - cron:  '0 2 * * 1'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - uses: actions/cache@v2
+      name: Configure pip caching
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('.github/workflows/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name: Install Python dependencies
+      run: |
+        python -m pip install -r .github/workflows/requirements.txt
+    - name: Update README
+      env:
+        GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+      run: |-
+        python .github/workflows/generate_weekly_post.py
+    - name: Commit and push if changed
+      run: |-
+        git diff
+        git config --global user.email "m157q.tw@gmail.com"
+        git config --global user.name "Frank Jheng"
+        git add -A
+        git commit -m "Generate New Weekly Post" || exit 0
+        git push

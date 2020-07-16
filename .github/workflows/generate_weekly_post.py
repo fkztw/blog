@@ -160,22 +160,21 @@ if __name__ == "__main__":
 
     post['content'] = ''
     for tag, post_data in sorted(tils.items()):
-        post['content'] += f"### {tag}\n"
+        post['content'] += f"## {tag}  \n"
 
         for post_datum in post_data:
             if post_datum['title'] and post_datum['url']:
-                post['content'] += '+ [{}]({})\n'.format(
+                post['content'] += '- [{}]({})  \n'.format(
                     post_datum['title'], post_datum['url'],
                 )
             if post_datum['text_lines']:
                 for line in post_datum['text_lines']:
                     if line and post_datum['title'] and post_datum['url']:
-                        post['content'] += ' ' * 4
                         post['content'] += (
-                            '+ {}\n'
+                            '{}  \n'
                         ).format(line.strip())
-
-        post['content'] += "\n"
+                post['content'] += "\n"
+        post['content'] += "---\n\n"
 
     # Write a new blog post
     new_post_filename = f"{post['slug']}.md"
@@ -187,6 +186,7 @@ Authors: {authors}
 Category: {category}
 Tags: {tags}
 Summary: {summary}
+
 
 {content}
 """

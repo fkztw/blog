@@ -169,12 +169,11 @@ if __name__ == "__main__":
                 )
             if post_datum['text_lines']:
                 for line in post_datum['text_lines']:
-                    if post_datum['title'] and post_datum['url']:
+                    if line and post_datum['title'] and post_datum['url']:
                         post['content'] += ' ' * 4
-
-                    post['content'] += (
-                        '+ {}\n'
-                    ).format(line.strip())
+                        post['content'] += (
+                            '+ {}\n'
+                        ).format(line.strip())
 
         post['content'] += "\n"
 

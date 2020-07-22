@@ -151,6 +151,11 @@ if __name__ == "__main__":
 
     # Fetch TILs from GitHub
     tils = fetch_tils(GITHUB_TOKEN, start_time, end_time)
+
+    if len(tils) == 0:
+        print("No TIL in this period.")
+        exit()
+
     print()
     print(f"len of tils: {len(tils)}")
     print(f"tils: {tils}")

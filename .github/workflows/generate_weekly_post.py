@@ -91,16 +91,29 @@ def fetch_tils(oauth_token, start_time, end_time):
 
             # til["body"]
             """
-            <url>
+            (<url>) (Maybe has url maybe not.)
 
             text
             text
             ...
             """
+
+            # If this comment has URL
             # Get first line and strip '<' and '>' to get url
-            url = til["body"].split('\n')[0].strip()[1:-1]
-            # til["body"].split('\n')[1] is an empty string
-            text_lines = til["body"].split('\n')[2:]
+            #
+            # If this comment has no URL
+            # Just use whole text
+            m = re.match(
+                r"\<(?P<url>https?://.+)\>",
+                til["body"].split('\n')[0].strip(),
+            )
+            if m:
+                url = m.group("url")
+                # til["body"].split('\n')[1] is an empty string
+                text_lines = til["body"].split('\n')[2:]
+            else:
+                url = None
+                text_lines = til["body"].split('\n')
 
             tils[category].append(
                 {
@@ -168,13 +181,18 @@ if __name__ == "__main__":
         post['content'] += f"## {tag}  \n"
 
         for post_datum in post_data:
-            if post_datum['title'] and post_datum['url']:
-                post['content'] += '- [{}]({})  \n'.format(
-                    post_datum['title'], post_datum['url'],
-                )
+            if post_datum['title']:
+                if post_datum['url']:
+                    post['content'] += '- [{}]({})  \n'.format(
+                        post_datum['title'], post_datum['url'],
+                    )
+                else:
+                    post['content'] += '- {}  \n'.format(
+                        post_datum['title']
+                    )
             if post_datum['text_lines']:
                 for line in post_datum['text_lines']:
-                    if line and post_datum['title'] and post_datum['url']:
+                    if line and post_datum['title']:
                         post['content'] += (
                             '{}  \n'
                         ).format(line.strip())

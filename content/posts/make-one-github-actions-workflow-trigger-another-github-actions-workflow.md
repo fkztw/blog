@@ -5,13 +5,13 @@ Authors: m157q
 Category: Note
 Tags: GitHub, GitHub Actions
 Summary: GitHub Actions restricts one workflow trigger another workflow in order to prevent users from accidentally creating recursive workflow. I spent some time on figuring how to do it.
-
+Modified: 2020-09-07 01:15:20
 
 # Preface
 
 According to GitHub: [Users have to use Personal Access Token on the workflow which wants to trigger another GitHub Actions workflow.](make-one-github-action-workflow-trigger-another-github-action-workflow)
 
-> When you use the repository's `GITHUB_TOKEN` to perform tasks on behalf of the GitHub Actions app, events triggered by the `GITHUB_TOKEN` will not create a new workflow run. This prevents you from accidentally creating recursive workflow runs. For example, if a workflow run pushes code using the repository's `GITHUB_TOKEN`, a new workflow will not run even when the repository contains a workflow configured to run when push events occur."
+> When you use the repository's `GITHUB_TOKEN` to perform tasks on behalf of the GitHub Actions app, events triggered by the `GITHUB_TOKEN` will not create a new workflow run. This prevents you from accidentally creating recursive workflow runs. For example, if a workflow pushes code using the repository's `GITHUB_TOKEN`, a new workflow will not run even if that workflow in the same repository is configured to be executed when push events occur."
 
 It looks easily, but there are lots of traps while doing so actually. I tried many different ways to achieve this and finally made it work.
 
@@ -27,10 +27,10 @@ But this post will only focus on using your own Personal Access Token.
 
 - Create a GitHub Personal Access Token with `repo` permissons at <https://github.com/settings/tokens>
 - Copy that access token and paste it in the `Secrets - Settings` page of the target repo with the name `MY_GITHUB_TOKEN`
-    - You can name the Secret with a different name. Just maek sure you write the name right later.
+    - You can name the Secret with a different name. Just make sure you type the name right later.
     - CAUTION: You cannot name your Secret starts with `GITHUB_` [because its preserve for GitHub Actions internal usage](https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets#naming-your-secrets).
     - Every GitHub Actions workflow has `GITHUB_TOKEN` in default.
-- In the `yml` file of the workflow you want to trigger another workflow, you have to write these line in the **CHECKOUT** step:
+- In the `yml` file of the workflow you want to trigger another workflow, you have to write these lines in the **CHECKOUT** step:
 
 ```
     - name: Check out repo
@@ -41,7 +41,7 @@ But this post will only focus on using your own Personal Access Token.
         fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
 ```
 
-- In the `yml` file of the workflow you want to trigger another workflow, you have to write these line in the **PUSH** step:
+- In the `yml` file of the workflow you want to trigger another workflow, you have to write these lines in the **PUSH** step:
 
 ```
     - name: Push changes

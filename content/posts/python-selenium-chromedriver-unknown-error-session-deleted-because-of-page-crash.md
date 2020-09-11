@@ -9,7 +9,7 @@ Summary: Encountered this error while using Selenium with ChromeDriver on Heroku
 
 # Error Message
 
-```
+```text
 selenium.common.exceptions.WebDriverException: Message: unknown error: session deleted because of page crash
 from unknown error: cannot determine loading status
 from tab crashed
@@ -21,7 +21,7 @@ from tab crashed
 
 Added these two arguments for Selenium ChromeOptions solved my problem.
 
-```
+```python
 chrome_options.add_argument('--no-sandbox')
 chrome_options.add_argument('--disable-dev-shm-usage')
 ```

@@ -9,7 +9,7 @@ Summary: I was blocked by Cloudflare while scraping some websites and this saved
 
 # TL;DR
 
-```
+```python
 options.add_experimental_option("excludeSwitches", ["enable-automation"])
 options.add_experimental_option('useAutomationExtension', False)
 ```
@@ -18,7 +18,7 @@ options.add_experimental_option('useAutomationExtension', False)
 
 # Complete Code Example
 
-```
+```python
 from selenium import webdriver
 
 options = webdriver.ChromeOptions()

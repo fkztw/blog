@@ -103,12 +103,12 @@ TAG_FEED_ATOM = 'feeds/tag.%s.atom.xml'
 FEED_ALL_ATOM = 'feeds/all.feed.atom.xml'
 
 # rss feed
-FEED_RSS = 'feeds/rss.xml'
-CATEGORY_FEED_RSS = 'feeds/category.%s.rss.xml'
-AUTHOR_FEED_RSS = 'feeds/author.%s.rss.xml'
-TRANSLATION_FEED_RSS = 'feeds/translation.%s.rss.xml'
-TAG_FEED_RSS = 'feeds/tag.%s.rss.xml'
-FEED_ALL_RSS = 'feeds/all.feed.rss.xml'
+# FEED_RSS = 'feeds/rss.xml'
+# CATEGORY_FEED_RSS = 'feeds/category.%s.rss.xml'
+# AUTHOR_FEED_RSS = 'feeds/author.%s.rss.xml'
+# TRANSLATION_FEED_RSS = 'feeds/translation.%s.rss.xml'
+# TAG_FEED_RSS = 'feeds/tag.%s.rss.xml'
+# FEED_ALL_RSS = 'feeds/all.feed.rss.xml'
 
 # =============================================================================
 

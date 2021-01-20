@@ -5,6 +5,7 @@ Authors: m157q
 Category: Reading  
 Tags: 資訊游俠列傳, 台灣
 Summary: 好幾年前就想拜讀這本西元 1995 年出版的書了，最近因緣際會看到 [ddaa 一年前在 iThome 鐵人賽的其中一篇文章有提到](https://ithelp.ithome.com.tw/m/articles/10227864)，於是決定要找來看。看完後覺得意猶未盡，而且書本的排版與文字敘述都很棒，閱讀起來非常輕鬆，決定紀錄一下。（好想把 PC Magazine 當年的資訊游俠列傳專欄文章都找出來看啊啊啊啊）
+Modified: 2021-01-20 19:16:37  
 
 ![Book Cover](/files/the-legends-of-informationists/cover.jpg)
 
@@ -27,6 +28,7 @@ Summary: 好幾年前就想拜讀這本西元 1995 年出版的書了，最近�
 ---
 
 書中提到的每個人各自的學習方法時至今日仍然適用，科技日新月異，但人類學習的本質與方式還是沒有太大的差別，這些人的共通點大概就是自學與不被傳統教育的框架限制住，覺得滿認同的，特此紀錄一下：
+（Apple II 真的造就了很多 Geek 啊，不得不在此向 Steve Wozniak 致敬，畢竟現在的 Apple 已經不是當時那個可以讓你自由改動硬體的 Apple 了。）
 ![Learning 1](/files/the-legends-of-informationists/learning_1.jpg)
 ![Learning 2](/files/the-legends-of-informationists/learning_2.jpg)
 ![Learning 3](/files/the-legends-of-informationists/learning_3.jpg)

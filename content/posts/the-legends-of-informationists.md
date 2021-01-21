@@ -5,7 +5,7 @@ Authors: m157q
 Category: Reading  
 Tags: 資訊游俠列傳, 台灣
 Summary: 好幾年前就想拜讀這本西元 1995 年出版的書了，最近因緣際會看到 [ddaa 一年前在 iThome 鐵人賽的其中一篇文章有提到](https://ithelp.ithome.com.tw/m/articles/10227864)，於是決定要找來看。看完後覺得意猶未盡，而且書本的排版與文字敘述都很棒，閱讀起來非常輕鬆，決定紀錄一下。（好想把 PC Magazine 當年的資訊游俠列傳專欄文章都找出來看啊啊啊啊）
-Modified: 2021-01-20 19:16:37  
+Modified: 2021-01-21 15:46:37  
 
 ![Book Cover](/files/the-legends-of-informationists/cover.jpg)
 
@@ -52,6 +52,7 @@ Modified: 2021-01-20 19:16:37
 ---
 
 看了這本書才知道原來以前 BBS 有兩種意思：
+（不過椰林風情沒記錯的話應該是台大的 BBS 站，交大資工應該是鳳凰城？不知道這邊是不是筆誤還是有什麼其他我不知道的歷史因素。）
 
 ![BBS](/files/the-legends-of-informationists/BBS.jpg)
 

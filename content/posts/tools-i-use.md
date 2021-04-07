@@ -24,13 +24,13 @@ Modified: 2018-02-02 18:17:55
     + 從 2012 年用到現在，算一算也有個 5~6 年了，真的覺得是個很棒的作業系統。（在這之前是使用 Ubuntu。）  
     + 預設乾乾淨淨，想要裝什麼都自己決定，可以用 pre-compiled package 也可以自己編譯，自訂性挺高的。  
     + 最棒的還是 Rolling Update 的特性，遇到一些安全性的更新都可以馬上更新，雖然剛開始用的時候會遇到升上去就爛掉的問題，但這幾年已經很少遇到了。  
-    + [2015 年 9 月後，直接把 Arch Linux 安裝在 MacBook Air Mid 2013 上使用。](https://blog.m157q.tw/posts/2015/09/10/install-arch-linux-on-macbook-air-mid-2013/)  
+    + [2015 年 9 月後，直接把 Arch Linux 安裝在 MacBook Air Mid 2013 上使用。](/posts/2015/09/10/install-arch-linux-on-macbook-air-mid-2013/)  
 + [Virtual Box](https://www.virtualbox.org/)  
     + 也是個用了很久的 Virtual Machine Manager，支援 Linux 使用，但近幾年開始使用 VPS 之後就沒那麼常用了。  
     + 以前在使用的時候有遇到些問題，分別寫了幾篇文章紀錄：  
-        + [Boot LiveUSB in VirtualBox 4.3.18 | Just for noting](https://blog.m157q.tw/posts/2014/12/04/boot-liveusb-in-virtualbox-4-3-18/)  
-        + [VirtualBox Guest additions upgrade: install_x11_startup_app: no script given | Just for noting](https://blog.m157q.tw/posts/2014/11/10/virtualbox-guest-additions-upgrade-install_x11_startup_app-no-script-given/)  
-        + [Solution for the Failure to Attach USB Device in VirtualBox | Just for noting](https://blog.m157q.tw/posts/2014/10/16/solution-for-the-failure-to-attach-usb-device-in-virtualbox/)  
+        + [Boot LiveUSB in VirtualBox 4.3.18 | Just for noting](/posts/2014/12/04/boot-liveusb-in-virtualbox-4-3-18/)  
+        + [VirtualBox Guest additions upgrade: install_x11_startup_app: no script given | Just for noting](/posts/2014/11/10/virtualbox-guest-additions-upgrade-install_x11_startup_app-no-script-given/)  
+        + [Solution for the Failure to Attach USB Device in VirtualBox | Just for noting](/posts/2014/10/16/solution-for-the-failure-to-attach-usb-device-in-virtualbox/)  
             + 這篇不知道為什麼流量莫名的高，可能很多人都有遇到這問題？  
 + [Kali Linux](https://www.kali.org/)  
     + 從它以前還叫作 [BackTrack Linux](https://backtrack-linux.org/) 的時候就有在用了。  
@@ -208,11 +208,11 @@ Modified: 2018-02-02 18:17:55
     + 最近這幾天開始使用 KanbanFlow 這套類似的工具，好處應該就是多了個番茄鐘可以幫你紀錄時間，如果是番茄鐘的愛好者且還沒使用過 Trello 的話，可以直接試試看 KanbanFlow。我自己是因為 Trello 已經紀錄不少東西了，要搬挺麻煩了，所以目前是兩個搭配使用。  
 + [Travis CI](https://travis-ci.org)  
     + 一個僅和 GitHub 作整合的 Continuous Integration 平台，目前還是 GitHub 上市佔率最大的 CI 平台。可以參考這篇 2017 年 11 月的文章：[GitHub welcomes all CI tools · GitHub](https://github.com/blog/2463-github-welcomes-all-ci-tools)，列出了 GitHub 上使用的 CI 平台市佔率由多至少依序為：Travis CI, Circle Ci, Jenkins, AppVeyor, CodeShip, Drone, Semaphore CI, Buildkite, Wercker, TeamCity。  
-    + 好處是所有 Public repo 都可以免費使用，而且搜尋一下就有很多設定檔可以參考。我目前是用來自動 build 並發佈我的個人部落格：[用 Travis CI 自動化發佈 Pelican blog 到 GitHub Pages 上 | Just for noting](https://blog.m157q.tw/posts/2016/05/08/use-travis-ci-to-publish-pelican-blog-on-github-pages-automatically/)  
+    + 好處是所有 Public repo 都可以免費使用，而且搜尋一下就有很多設定檔可以參考。我目前是用來自動 build 並發佈我的個人部落格：[用 Travis CI 自動化發佈 Pelican blog 到 GitHub Pages 上 | Just for noting](/posts/2016/05/08/use-travis-ci-to-publish-pelican-blog-on-github-pages-automatically/)  
 + [CloudFlare](https://www.cloudflare.com)  
     + 2016 年 6 月租了自己的 domain 之後，就拿來個人使用。在這之前是因為公司的服務有在使用，所以才接觸到，覺得設計的很簡單易用且功能又很強大。  
     + DNS 代管設定很方便，而且加上 proxy 之後就有免費的 CDN 和 HTTPS 可以使用。有很多其他的功能，可以設定 Cache、簡單的流量分析、免費的網站資安防護等等等。  
-    + 詳細一點的介紹可以參考這篇文章：[買了一個叫作 m157q.tw 的域名 | Just for noting](https://blog.m157q.tw/posts/2016/09/06/i-bought-my-first-domain-name/)  
+    + 詳細一點的介紹可以參考這篇文章：[買了一個叫作 m157q.tw 的域名 | Just for noting](/posts/2016/09/06/i-bought-my-first-domain-name/)  
     + 不過 2017 年 2 月的時候也有出過 CloudBleed 這個大包就是：[Incident report on memory leak caused by Cloudflare parser bug](https://blog.cloudflare.com/incident-report-on-memory-leak-caused-by-cloudflare-parser-bug/)  
 + [Gandi](https://www.gandi.net)  
     + 因為很常出現在台灣的社群會議，所以就在上面租了域名。  

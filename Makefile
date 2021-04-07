@@ -127,7 +127,7 @@ github: publish
 
 ci: publish
 	git config --global user.name "M157q - CI"
-	git config --global user.email "M157q.tw@gmail.com"
+	git config --global user.email "github@m157q.tw"
 	ghp-import -n -m "$(GITHUB_COMMIT_MSG)" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	@git push -fq https://${GITHUB_TOKEN}@github.com/$(GITHUB_REPO_SLUG).git $(GITHUB_PAGES_BRANCH):$(GITHUB_PAGES_BRANCH) > /dev/null
 

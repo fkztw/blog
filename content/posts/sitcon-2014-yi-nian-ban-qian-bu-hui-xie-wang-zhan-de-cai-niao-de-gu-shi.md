@@ -4,12 +4,17 @@ Author: m157q
 Category: Talk  
 Tags: Conf, Web, SITCON  
 Slug: sitcon-2014-yi-nian-ban-qian-bu-hui-xie-wang-zhan-de-cai-niao-de-gu-shi  
-Modified: 2015-10-28 12:56  
+Modified: 2021-05-12 13:59  
   
-  
-  
-## Slides on Speaker Deck  
-  
+我在 SITCON 2014 年的演講，當時的演講介紹如下：
+
+> 我的演講會分享我從 2012 年 8 月中旬至今為止，自不會寫網站、不會系統及網路管理，開始學習如何管理 Arch Linux 主機、QEMU 中的 BBS 系統、Postfix Mail Server、vsftpd FTP Server及使用 Yii 架設網站的過程。還有接任組長後，使我儼然置身小型企業的奇聞軼事。
+
+---
+
+Video: <https://www.youtube.com/watch?v=BvFIX2durPk&list=PLemTXpRsr740js7e5vjdYBtglt6CQ6M_0&index=5>
+
+Slides:  
 <script async class="speakerdeck-embed" data-id="45b691608e54013146051a945ae20cc0" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>  
   
 ---  

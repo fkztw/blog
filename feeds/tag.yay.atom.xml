@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - yay</title><link href="https://blog.m157q.tw/" rel="alternate"></link><link href="https://blog.m157q.tw/feeds/tag.yay.atom.xml" rel="self"></link><id>https://blog.m157q.tw/</id><updated>2021-09-01T23:02:14+08:00</updated><subtitle></subtitle><entry><title>[Arch Linux] Failed to commit transaction (invalid or corrupted package) error</title><link href="https://blog.m157q.tw/posts/2021/09/01/arch-linux-failed-to-commit-transaction-invalid-or-corrupted-package-error/" rel="alternate"></link><published>2021-09-01T23:02:14+08:00</published><updated>2021-09-01T23:02:14+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2021-09-01:/posts/2021/09/01/arch-linux-failed-to-commit-transaction-invalid-or-corrupted-package-error/</id><summary type="html">&lt;p&gt;Got really annoyed when I run &lt;code&gt;yay -Syu&lt;/code&gt; and encounter this error. And MORE HATE FOR MYSELF because I always forget how to fix this. That's the reason why I am here typing on my keyboard writing this post. I HAVE TO WRITE IT DOWN!&lt;/p&gt;</summary><content type="html">&lt;h1&gt;TL;DR&lt;/h1&gt;
+&lt;p&gt;&lt;code&gt;# find /var/cache/pacman/pkg/ -iname "*.part" -delete&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;And...
+WHALA!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;Detail&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Look for .part files (partially downloaded packages) in /var/cache/pacman/pkg/ and remove them (often caused by usage of a custom XferCommand in pacman.conf).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h1&gt;Some commands might help&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;pacman -Sy archlinux-keyring&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;pacman-key --refresh-keys&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1&gt;References&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://bbs.archlinux.org/viewtopic.php?id=233480"&gt;[SOLVED] Invalid or Corrupted package (PGP signature) / Pacman &amp;amp; Package Upgrade Issues / Arch Linux Forums&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://wiki.archlinux.org/title/Pacman#.22Failed_to_commit_transaction_.28invalid_or_corrupted_package.29.22_error"&gt;pacman - ArchWiki&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Note"></category><category term="Arch Linux"></category><category term="yay"></category><category term="pacman"></category></entry></feed>

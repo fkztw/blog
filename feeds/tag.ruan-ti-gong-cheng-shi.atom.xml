@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - 軟體工程師</title><link href="https://blog.m157q.tw/" rel="alternate"></link><link href="https://blog.m157q.tw/feeds/tag.ruan-ti-gong-cheng-shi.atom.xml" rel="self"></link><id>https://blog.m157q.tw/</id><updated>2021-07-26T10:24:23+08:00</updated><subtitle></subtitle><entry><title>Y2021W29</title><link href="https://blog.m157q.tw/posts/2021/07/26/y2021w29/" rel="alternate"></link><published>2021-07-26T10:24:23+08:00</published><updated>2021-07-26T10:24:23+08:00</updated><author><name>M157q</name></author><id>tag:blog.m157q.tw,2021-07-26:/posts/2021/07/26/y2021w29/</id><summary type="html">&lt;p&gt;Collections of Y2021W29 (2021-07-19 Mon 00:00:00+0800 ~ 2021-07-26 Mon 00:00:00+0800)&lt;/p&gt;</summary><content type="html">&lt;h2&gt;CircleCI&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://circleci.com/blog/safely-changing-critical-systems-without-downtime/"&gt;How to change critical systems without downtime | CircleCI&lt;/a&gt;&lt;br&gt;
+真的好多要注意的地方&lt;br&gt;
+光是這樣搬就搬了一年啊  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;ai&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://machinelearning.apple.com/research/complex-spatial-datasets"&gt;Trinity: A No-Code AI platform for complex spatial datasets - Apple Machine Learning Research&lt;/a&gt;&lt;br&gt;
+最近的 AI platform 都進化到不用寫程式碼了啊  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;專案管理&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://yurenju.medium.com/%E9%80%99%E5%80%8B%E5%8A%9F%E8%83%BD%E8%A9%B2%E4%B8%8D%E8%A9%B2%E6%8E%92%E5%88%B0%E9%80%99%E5%80%8B-sprint-%E5%81%9A-%E5%A6%82%E4%BD%95%E6%AC%8A%E8%A1%A1%E4%B8%80%E5%80%8B%E5%B7%A5%E4%BD%9C%E4%BA%8B%E9%A0%85-d932e8be02f8"&gt;這個功能該不該排到這個 Sprint 做？如何權衡一個工作事項. 同事推薦了我一篇文章 New Feature Validation… | by Yuren Ju | Jul, 2021 | Medium&lt;/a&gt;  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;軟體工程師&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://blog.frost.tw/posts/2021/07/21/the-look-forward-to-the-programmer-self-in-2021/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+aotoki-blog+%28%E5%BC%A6%E8%80%8C%E6%99%82%E7%BF%92%E4%B9%8B%29"&gt;在 2021 年工程師該對自己的期待 - 弦而時習之&lt;/a&gt;  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</content><category term="CircleCI"></category><category term="ai"></category><category term="專案管理"></category><category term="軟體工程師"></category></entry></feed>

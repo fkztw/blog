@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - covid19</title><link href="https://blog.m157q.tw/" rel="alternate"></link><link href="https://blog.m157q.tw/feeds/tag.covid19.atom.xml" rel="self"></link><id>https://blog.m157q.tw/</id><updated>2021-09-06T10:24:13+08:00</updated><subtitle></subtitle><entry><title>Y2021W35</title><link href="https://blog.m157q.tw/posts/2021/09/06/y2021w35/" rel="alternate"></link><published>2021-09-06T10:24:13+08:00</published><updated>2021-09-06T10:24:13+08:00</updated><author><name>M157q</name></author><id>tag:blog.m157q.tw,2021-09-06:/posts/2021/09/06/y2021w35/</id><summary type="html">&lt;p&gt;Collections of Y2021W35 (2021-08-30 Mon 00:00:00+0800 ~ 2021-09-06 Mon 00:00:00+0800)&lt;/p&gt;</summary><content type="html">&lt;h2&gt;covid19&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://pansci.asia/archives/329062"&gt;高端疫苗的原理是什麼？可能會有哪些副作用？——接種前後你該知道的注意事項 - PanSci 泛科學&lt;/a&gt;  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;kubernetes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://itnext.io/introducing-kubectl-warp-live-develop-code-in-kubernetes-9846c16d4bec"&gt;Introducing kubectl warp — live develop code in Kubernetes! | by Erno Aapa | ITNEXT&lt;/a&gt;&lt;br&gt;
+拿來在 canary production 快速測個東西好像很方便&lt;br&gt;
+雖然是兩年多前的專案&lt;br&gt;
+不過看來還能用  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;life&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.neelnanda.io/blog/35-standards"&gt;Post 35: Your Standards are Too High — Neel Nanda&lt;/a&gt;&lt;br&gt;
+有完美主義、拖延症或冒牌者症候群三者其一的人&lt;br&gt;
+不妨看一下這篇文章&lt;br&gt;
+雖然字體有點奇怪（建議用閱讀模式）&lt;br&gt;
+而且個人覺得沒有詳細提到解法&lt;br&gt;
+但至少給了一個非常重要的核心觀念&lt;br&gt;
+那就是「降低你的標準」&lt;br&gt;
+學著去接受不完美  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;python&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://blog.gslin.org/archives/2021/09/02/10304/%e5%9c%a8%e6%9c%ac%e6%a9%9f%e7%94%a8-pip-%e7%9b%b4%e6%8e%a5%e5%ae%89%e8%a3%9d-postgresql-server/"&gt;在本機用 pip 直接安裝 PostgreSQL server&lt;/a&gt;  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</content><category term="covid19"></category><category term="kubernetes"></category><category term="life"></category><category term="python"></category></entry></feed>

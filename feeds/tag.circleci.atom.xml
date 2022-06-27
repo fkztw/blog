@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - CircleCI</title><link href="https://blog.m157q.tw/" rel="alternate"></link><link href="https://blog.m157q.tw/feeds/tag.circleci.atom.xml" rel="self"></link><id>https://blog.m157q.tw/</id><updated>2021-07-26T10:24:23+08:00</updated><subtitle></subtitle><entry><title>Y2021W29</title><link href="https://blog.m157q.tw/posts/2021/07/26/y2021w29/" rel="alternate"></link><published>2021-07-26T10:24:23+08:00</published><updated>2021-07-26T10:24:23+08:00</updated><author><name>M157q</name></author><id>tag:blog.m157q.tw,2021-07-26:/posts/2021/07/26/y2021w29/</id><summary type="html">&lt;p&gt;Collections of Y2021W29 (2021-07-19 Mon 00:00:00+0800 ~ 2021-07-26 Mon 00:00:00+0800)&lt;/p&gt;</summary><content type="html">&lt;h2&gt;CircleCI&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://circleci.com/blog/safely-changing-critical-systems-without-downtime/"&gt;How to change critical systems without downtime | CircleCI&lt;/a&gt;&lt;br&gt;
+真的好多要注意的地方&lt;br&gt;
+光是這樣搬就搬了一年啊  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;ai&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://machinelearning.apple.com/research/complex-spatial-datasets"&gt;Trinity: A No-Code AI platform for complex spatial datasets - Apple Machine Learning Research&lt;/a&gt;&lt;br&gt;
+最近的 AI platform 都進化到不用寫程式碼了啊  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;專案管理&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://yurenju.medium.com/%E9%80%99%E5%80%8B%E5%8A%9F%E8%83%BD%E8%A9%B2%E4%B8%8D%E8%A9%B2%E6%8E%92%E5%88%B0%E9%80%99%E5%80%8B-sprint-%E5%81%9A-%E5%A6%82%E4%BD%95%E6%AC%8A%E8%A1%A1%E4%B8%80%E5%80%8B%E5%B7%A5%E4%BD%9C%E4%BA%8B%E9%A0%85-d932e8be02f8"&gt;這個功能該不該排到這個 Sprint 做？如何權衡一個工作事項. 同事推薦了我一篇文章 New Feature Validation… | by Yuren Ju | Jul, 2021 | Medium&lt;/a&gt;  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;軟體工程師&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://blog.frost.tw/posts/2021/07/21/the-look-forward-to-the-programmer-self-in-2021/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+aotoki-blog+%28%E5%BC%A6%E8%80%8C%E6%99%82%E7%BF%92%E4%B9%8B%29"&gt;在 2021 年工程師該對自己的期待 - 弦而時習之&lt;/a&gt;  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</content><category term="CircleCI"></category><category term="ai"></category><category term="專案管理"></category><category term="軟體工程師"></category></entry><entry><title>Be careful when using grep on CircleCI</title><link href="https://blog.m157q.tw/posts/2021/06/09/be-careful-when-using-grep-on-circleci/" rel="alternate"></link><published>2021-06-09T22:09:43+08:00</published><updated>2021-06-09T22:09:43+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2021-06-09:/posts/2021/06/09/be-careful-when-using-grep-on-circleci/</id><summary type="html">&lt;p&gt;&lt;code&gt;grep&lt;/code&gt; will exit 1 when no matching could be found. You won't notice this until you run it on CircleCI and the build job exit 1 with no error message at all.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Quote from the man page of &lt;code&gt;grep&lt;/code&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;EXIT STATUS&lt;br&gt;
+     Normally the exit status is 0 if a line is selected,&lt;br&gt;
+     1 if no lines were selected, and 2 if an error occurred.&lt;br&gt;
+     However, if the  -q  or  --quiet  or --silent is used and a line is selected,&lt;br&gt;
+     the exit status is 0 even if an error occurred.  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;TL;DR&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;(grep $something || true)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;To force grep exit 0 when no mathing could be found.
+This also works with &lt;code&gt;grep -v&lt;/code&gt; when you want to find the invert matching result.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Details&lt;/h2&gt;
+&lt;p&gt;If your &lt;code&gt;grep&lt;/code&gt; command might be ends with no matching,
+and you need the output of &lt;code&gt;grep&lt;/code&gt; to combine with &lt;code&gt;awk&lt;/code&gt;, &lt;code&gt;cut&lt;/code&gt;, &lt;code&gt;xargs&lt;/code&gt;, ...
+you should use &lt;code&gt;grep&lt;/code&gt; on CircleCI like this:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;grep ... &lt;span class="o"&gt;||&lt;/span&gt; &lt;span class="nb"&gt;true&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;grep ... &lt;span class="o"&gt;||&lt;/span&gt; :&lt;span class="o"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;This &lt;code&gt;()&lt;/code&gt; syntax works for bash, sh, zsh&lt;/p&gt;
+&lt;p&gt;For example:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="nv"&gt;COMMAND_WITH_UNSURE_OUTPUT&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;grep &lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="nv"&gt;TARGET_STRING&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt; &lt;span class="o"&gt;||&lt;/span&gt; &lt;span class="nb"&gt;true&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; cut -d &lt;span class="s1"&gt;&amp;#39; &amp;#39;&lt;/span&gt; -f &lt;span class="m"&gt;1&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; xargs ...
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;This will force grep return 0 even if no matching,
+and you could still pipe the output to another command.
+Unlike &lt;code&gt;grep -q&lt;/code&gt; which returns 0 but no output could be used.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Alternatives&lt;/h2&gt;
+&lt;p&gt;These commands do not have same effect.
+Might vary from different shells, use at your own risk and make sure you know what you are doing.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;grep &lt;span class="nv"&gt;$something&lt;/span&gt; &lt;span class="o"&gt;||&lt;/span&gt; &lt;span class="nb"&gt;true&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;
+&lt;span class="o"&gt;{&lt;/span&gt;grep &lt;span class="nv"&gt;$something&lt;/span&gt; &lt;span class="o"&gt;||&lt;/span&gt; true&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="o"&gt;}&lt;/span&gt;
+
+&lt;span class="o"&gt;(&lt;/span&gt;grep &lt;span class="nv"&gt;$something&lt;/span&gt; &lt;span class="o"&gt;||&lt;/span&gt; &lt;span class="nb"&gt;test&lt;/span&gt; &lt;span class="nv"&gt;$?&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;
+&lt;span class="o"&gt;{&lt;/span&gt;grep &lt;span class="nv"&gt;$something&lt;/span&gt; &lt;span class="o"&gt;||&lt;/span&gt; &lt;span class="nb"&gt;test&lt;/span&gt; &lt;span class="nv"&gt;$?&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="o"&gt;}&lt;/span&gt;
+
+&lt;span class="o"&gt;(&lt;/span&gt;grep &lt;span class="nv"&gt;$something&lt;/span&gt; &lt;span class="o"&gt;||&lt;/span&gt; &lt;span class="o"&gt;[[&lt;/span&gt; &lt;span class="nv"&gt;$?&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="m"&gt;1&lt;/span&gt; &lt;span class="o"&gt;]])&lt;/span&gt;
+&lt;span class="o"&gt;{&lt;/span&gt;grep &lt;span class="nv"&gt;$something&lt;/span&gt; &lt;span class="o"&gt;||&lt;/span&gt; &lt;span class="o"&gt;[[&lt;/span&gt; &lt;span class="nv"&gt;$?&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="m"&gt;1&lt;/span&gt; &lt;span class="o"&gt;]]&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="o"&gt;}&lt;/span&gt;
+
+&lt;span class="o"&gt;(&lt;/span&gt;grep &lt;span class="nv"&gt;$something&lt;/span&gt; &lt;span class="o"&gt;||&lt;/span&gt; :&lt;span class="o"&gt;)&lt;/span&gt;
+&lt;span class="o"&gt;{&lt;/span&gt;grep &lt;span class="nv"&gt;$something&lt;/span&gt; &lt;span class="o"&gt;||&lt;/span&gt; :&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="o"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;:&lt;/code&gt; Do nothing beyond expanding arguments and performing redirections. The return status is zero.&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gnu.org/software/bash/manual/html_node/Bourne-Shell-Builtins.html#Bourne-Shell-Builtins"&gt;https://www.gnu.org/software/bash/manual/html_node/Bourne-Shell-Builtins.html#Bourne-Shell-Builtins&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More discussions in here: &lt;a href="https://unix.stackexchange.com/questions/330660/prevent-grep-from-exiting-in-case-of-nomatch"&gt;https://unix.stackexchange.com/questions/330660/prevent-grep-from-exiting-in-case-of-nomatch&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Things about CircleCI&lt;/h2&gt;
+&lt;p&gt;You might want to ask:
+"But, I pipe the output to another command and the result of &lt;code&gt;echo $?&lt;/code&gt; is 0."&lt;/p&gt;
+&lt;p&gt;According to &lt;a href="https://circleci.com/docs/2.0/configuration-reference/#default-shell-options"&gt;https://circleci.com/docs/2.0/configuration-reference/#default-shell-options&lt;/a&gt;
+CircleCI uses &lt;code&gt;/bin/bash -eo pipefail&lt;/code&gt; for linux job.
+It will check the exit code of every command between pipes,
+not just the &lt;code&gt;$?&lt;/code&gt; after the whole line of commands exectued.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;-e&lt;/code&gt;&lt;br&gt;
+Exit immediately if a pipeline (which may consist of a single simple command), a subshell command enclosed in parentheses, or one of the commands executed as part of a command list enclosed by braces exits with a non-zero status.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;-o pipefail&lt;/code&gt;&lt;br&gt;
+If pipefail is enabled, the pipeline’s return status is the value of the last (rightmost) command to exit with a non-zero status, or zero if all commands exit successfully. The shell waits for all commands in the pipeline to terminate before returning a value.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Once your &lt;code&gt;grep&lt;/code&gt; doesn't find any matching,
+You will get this error on CircleCI:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Exited with code exit status 1
+CircleCI received exit code 1
+&lt;/pre&gt;&lt;/div&gt;</content><category term="CircleCI"></category><category term="grep"></category><category term="shell"></category></entry><entry><title>CircleCI Python docker image cannot connet to website uses TLSv1.0</title><link href="https://blog.m157q.tw/posts/2020/07/11/circleci-python-docker-image-cannot-connet-to-website-uses-tlsv1-0/" rel="alternate"></link><published>2020-07-11T16:51:46+08:00</published><updated>2020-07-11T16:51:46+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2020-07-11:/posts/2020/07/11/circleci-python-docker-image-cannot-connet-to-website-uses-tlsv1-0/</id><summary type="html">&lt;p&gt;While writing the test for my side project, I encountered a problem which didn't happen while using Travis CI but CircleCI.&lt;/p&gt;</summary><content type="html">&lt;h1&gt;TL;DR&lt;/h1&gt;
+&lt;p&gt;Add&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;sudo sed -i -E 's/MinProtocol[=\ ]+.*/MinProtocol = TLSv1.0/g' /etc/ssl/openssl.cnf&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;in &lt;code&gt;.circleci/config.yml&lt;/code&gt; before running the test which will connect to the website uses TLSv1.0.&lt;/p&gt;
+&lt;h1&gt;Exception&lt;/h1&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="err"&gt;Traceback (most recent call last):&lt;/span&gt;
+&lt;span class="err"&gt;  File &amp;quot;/home/circleci/repo/venv/lib/python3.5/site-packages/urllib3/connectionpool.py&amp;quot;, line 677, in urlopen&lt;/span&gt;
+&lt;span class="err"&gt;    chunked=chunked,&lt;/span&gt;
+&lt;span class="err"&gt;  File &amp;quot;/home/circleci/repo/venv/lib/python3.5/site-packages/urllib3/connectionpool.py&amp;quot;, line 381, in _make_request&lt;/span&gt;
+&lt;span class="err"&gt;    self._validate_conn(conn)&lt;/span&gt;
+&lt;span class="err"&gt;  File &amp;quot;/home/circleci/repo/venv/lib/python3.5/site-packages/urllib3/connectionpool.py&amp;quot;, line 976, in _validate_conn&lt;/span&gt;
+&lt;span class="err"&gt;    conn.connect()&lt;/span&gt;
+&lt;span class="err"&gt;  File &amp;quot;/home/circleci/repo/venv/lib/python3.5/site-packages/urllib3/connection.py&amp;quot;, line 370, in connect&lt;/span&gt;
+&lt;span class="err"&gt;    ssl_context=context,&lt;/span&gt;
+&lt;span class="err"&gt;  File &amp;quot;/home/circleci/repo/venv/lib/python3.5/site-packages/urllib3/util/ssl_.py&amp;quot;, line 377, in ssl_wrap_socket&lt;/span&gt;
+&lt;span class="err"&gt;    return context.wrap_socket(sock, server_hostname=server_hostname)&lt;/span&gt;
+&lt;span class="err"&gt;  File &amp;quot;/usr/local/lib/python3.5/ssl.py&amp;quot;, line 385, in wrap_socket&lt;/span&gt;
+&lt;span class="err"&gt;    _context=self)&lt;/span&gt;
+&lt;span class="err"&gt;  File &amp;quot;/usr/local/lib/python3.5/ssl.py&amp;quot;, line 760, in __init__&lt;/span&gt;
+&lt;span class="err"&gt;    self.do_handshake()&lt;/span&gt;
+&lt;span class="err"&gt;  File &amp;quot;/usr/local/lib/python3.5/ssl.py&amp;quot;, line 996, in do_handshake&lt;/span&gt;
+&lt;span class="err"&gt;    self._sslobj.do_handshake()&lt;/span&gt;
+&lt;span class="err"&gt;  File &amp;quot;/usr/local/lib/python3.5/ssl.py&amp;quot;, line 641, in do_handshake&lt;/span&gt;
+&lt;span class="err"&gt;    self._sslobj.do_handshake()&lt;/span&gt;
+&lt;span class="err"&gt;ssl.SSLError: [SSL: UNSUPPORTED_PROTOCOL] unsupported protocol (_ssl.c:728)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h1&gt;Another solution which DIDN'T work for me&lt;/h1&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;requests&lt;/span&gt;
+&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;ssl&lt;/span&gt;
+
+&lt;span class="n"&gt;requests&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;get&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;verify&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;ssl&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;CERT_NONE&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h1&gt;References&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://pywbem.readthedocs.io/en/latest/appendix.html#connectionerror-raised-with-ssl-unsupported-protocol"&gt;12. Appendix — pywbem 1.0.0b3.dev1 documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://stackoverflow.com/questions/59408646/ssl-sslerror-ssl-unsupported-protocol-unsupported-protocol-ssl-c852-in-d"&gt;ssl.SSLError: [SSL: UNSUPPORTED_PROTOCOL] unsupported protocol (_ssl.c:852) in Docker Python:3.6-slim - Stack Overflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://stackoverflow.com/questions/54829759/in-python3-6-5-requests-getting-ssl-certificate-error"&gt;web scraping - In Python3.6.5 Requests getting SSL Certificate Error - Stack Overflow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Python"></category><category term="CircleCI"></category><category term="Docker"></category><category term="SSL"></category><category term="TLSv1.0"></category></entry></feed>

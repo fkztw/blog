@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - AirPods</title><link href="https://blog.m157q.tw/" rel="alternate"></link><link href="https://blog.m157q.tw/feeds/tag.airpods.atom.xml" rel="self"></link><id>https://blog.m157q.tw/</id><updated>2021-08-23T10:18:45+08:00</updated><subtitle></subtitle><entry><title>Y2021W33</title><link href="https://blog.m157q.tw/posts/2021/08/23/y2021w33/" rel="alternate"></link><published>2021-08-23T10:18:45+08:00</published><updated>2021-08-23T10:18:45+08:00</updated><author><name>M157q</name></author><id>tag:blog.m157q.tw,2021-08-23:/posts/2021/08/23/y2021w33/</id><summary type="html">&lt;p&gt;Collections of Y2021W33 (2021-08-16 Mon 00:00:00+0800 ~ 2021-08-23 Mon 00:00:00+0800)&lt;/p&gt;</summary><content type="html">&lt;h2&gt;AirPods&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.pairplayapp.com/"&gt;PairPlay&lt;/a&gt;&lt;br&gt;
+把 #AirPods 變成遊戲耶&lt;br&gt;
+太酷了吧  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;TIL&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hawala&lt;br&gt;
+哈瓦拉&lt;br&gt;
+在阿拉伯語裡頭是「錢」的意思  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;database&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://blog.gslin.org/archives/2021/08/21/10285/2019-%e5%b9%b4-percona-%e5%b0%8d-uuid-%e7%95%b6%e4%bd%9c-primary-key-%e7%9a%84%e7%9c%8b%e6%b3%95/"&gt;2019 年 Percona 對 UUID 當作 Primary Key 的看法&lt;/a&gt;&lt;br&gt;
+用 UUID 當 primary key 會有效能隱憂  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</content><category term="AirPods"></category><category term="TIL"></category><category term="database"></category></entry></feed>

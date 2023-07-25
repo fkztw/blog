@@ -10,7 +10,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
     - name: Check out repo
       uses: actions/checkout@v3
@@ -18,7 +18,7 @@ jobs:
         submodules: 'recursive'
     - uses: actions/setup-python@v4
       with:
-        python-version: '3.5.10'
+        python-version: '3.5.4'
         cache: 'pip' # caching pip dependencies
     - name: Install Python dependencies
       run: |

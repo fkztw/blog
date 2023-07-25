@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - opensource</title><link href="https://blog.m157q.tw/" rel="alternate"></link><link href="https://blog.m157q.tw/feeds/tag.opensource.atom.xml" rel="self"></link><id>https://blog.m157q.tw/</id><updated>2020-11-23T10:08:02+08:00</updated><subtitle></subtitle><entry><title>Y2020W47</title><link href="https://blog.m157q.tw/posts/2020/11/23/y2020w47/" rel="alternate"></link><published>2020-11-23T10:08:02+08:00</published><updated>2020-11-23T10:08:02+08:00</updated><author><name>M157q</name></author><id>tag:blog.m157q.tw,2020-11-23:/posts/2020/11/23/y2020w47/</id><summary type="html">&lt;p&gt;Collections of Y2020W47 (2020-11-16 Mon 00:00:00+0800 ~ 2020-11-23 Mon 00:00:00+0800)&lt;/p&gt;</summary><content type="html">&lt;h2&gt;life&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - opensource</title><link href="https://blog.fkz.tw/" rel="alternate"></link><link href="https://blog.fkz.tw/feeds/tag.opensource.atom.xml" rel="self"></link><id>https://blog.fkz.tw/</id><updated>2020-11-23T10:08:02+08:00</updated><subtitle></subtitle><entry><title>Y2020W47</title><link href="https://blog.fkz.tw/posts/2020/11/23/y2020w47/" rel="alternate"></link><published>2020-11-23T10:08:02+08:00</published><updated>2020-11-23T10:08:02+08:00</updated><author><name>M157q</name></author><id>tag:blog.fkz.tw,2020-11-23:/posts/2020/11/23/y2020w47/</id><summary type="html">&lt;p&gt;Collections of Y2020W47 (2020-11-16 Mon 00:00:00+0800 ~ 2020-11-23 Mon 00:00:00+0800)&lt;/p&gt;</summary><content type="html">&lt;h2&gt;life&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://femalepowersv.com/2020/11/14/1093/"&gt;矽谷資深女工程師 Lucy-千萬台幣的金手銬：矽谷工程師永無止盡的老鼠賽跑&lt;/a&gt;&lt;br&gt;
@@ -93,7 +93,7 @@ Rust 的開發團隊正在嘗試建立一個基金會&lt;br&gt;
 熱情終究得燃燒金錢&lt;br&gt;
 這是很現實的問題  &lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;</content><category term="life"></category><category term="opensource"></category></entry><entry><title>Y2020W37</title><link href="https://blog.m157q.tw/posts/2020/09/14/y2020w37/" rel="alternate"></link><published>2020-09-14T10:07:41+08:00</published><updated>2020-09-14T10:07:41+08:00</updated><author><name>M157q</name></author><id>tag:blog.m157q.tw,2020-09-14:/posts/2020/09/14/y2020w37/</id><summary type="html">&lt;p&gt;Collections of Y2020W37 (2020-09-07 Mon 00:00:00+0800 ~ 2020-09-14 Mon 00:00:00+0800)&lt;/p&gt;</summary><content type="html">&lt;h2&gt;blockchain&lt;/h2&gt;
+&lt;hr&gt;</content><category term="life"></category><category term="opensource"></category></entry><entry><title>Y2020W37</title><link href="https://blog.fkz.tw/posts/2020/09/14/y2020w37/" rel="alternate"></link><published>2020-09-14T10:07:41+08:00</published><updated>2020-09-14T10:07:41+08:00</updated><author><name>M157q</name></author><id>tag:blog.fkz.tw,2020-09-14:/posts/2020/09/14/y2020w37/</id><summary type="html">&lt;p&gt;Collections of Y2020W37 (2020-09-07 Mon 00:00:00+0800 ~ 2020-09-14 Mon 00:00:00+0800)&lt;/p&gt;</summary><content type="html">&lt;h2&gt;blockchain&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.techbang.com/posts/81157-blockchain"&gt;區塊鏈是一個不知道要解決什麼問題的解決方案 | T客邦&lt;/a&gt;&lt;br&gt;
 真的&lt;br&gt;
@@ -223,7 +223,7 @@ PDCAAS（蛋白質消化率矯正胺基酸評分）  &lt;/p&gt;
 然後工程師就做出這種重新包裝的無廣告網站練練網頁前端技術？  &lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;</content><category term="blockchain"></category><category term="devops"></category><category term="life"></category><category term="news"></category><category term="opensource"></category><category term="reading"></category><category term="security"></category><category term="software_development"></category><category term="taiwan"></category><category term="web"></category></entry><entry><title>Y2017W05</title><link href="https://blog.m157q.tw/posts/2017/02/06/y2017w05/" rel="alternate"></link><published>2017-02-06T03:16:10+08:00</published><updated>2017-02-06T22:43:10+08:00</updated><author><name>M157q</name></author><id>tag:blog.m157q.tw,2017-02-06:/posts/2017/02/06/y2017w05/</id><summary type="html">&lt;p&gt;Collection for Y2017W05 (2017-01-30 Mon 00:00:00 +0800 ~ 2017-02-06 Mon 00:00:00 +0800)&lt;/p&gt;</summary><content type="html">&lt;h3&gt;cli&lt;/h3&gt;
+&lt;hr&gt;</content><category term="blockchain"></category><category term="devops"></category><category term="life"></category><category term="news"></category><category term="opensource"></category><category term="reading"></category><category term="security"></category><category term="software_development"></category><category term="taiwan"></category><category term="web"></category></entry><entry><title>Y2017W05</title><link href="https://blog.fkz.tw/posts/2017/02/06/y2017w05/" rel="alternate"></link><published>2017-02-06T03:16:10+08:00</published><updated>2017-02-06T22:43:10+08:00</updated><author><name>M157q</name></author><id>tag:blog.fkz.tw,2017-02-06:/posts/2017/02/06/y2017w05/</id><summary type="html">&lt;p&gt;Collection for Y2017W05 (2017-01-30 Mon 00:00:00 +0800 ~ 2017-02-06 Mon 00:00:00 +0800)&lt;/p&gt;</summary><content type="html">&lt;h3&gt;cli&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/rg3/youtube-dl/tree/master/youtube_dl/extractor"&gt;youtube-dl/youtube_dl/extractor at master · rg3/youtube-dl · GitHub&lt;/a&gt;  &lt;ul&gt;
 &lt;li&gt;原來 youtube-dl 支援 600 多種網站...  &lt;/li&gt;
@@ -370,7 +370,7 @@ PDCAAS（蛋白質消化率矯正胺基酸評分）  &lt;/p&gt;
 &lt;li&gt;&lt;code&gt;篳ㄅㄧˋbì 篥ㄌㄧˋlì&lt;/code&gt;  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="car"></category><category term="cli"></category><category term="gcp"></category><category term="github"></category><category term="gitlab"></category><category term="misc"></category><category term="opensource"></category><category term="programmer"></category><category term="taiwan"></category><category term="trivia"></category><category term="web"></category></entry><entry><title>Y2016W52</title><link href="https://blog.m157q.tw/posts/2017/01/02/y2016w52/" rel="alternate"></link><published>2017-01-02T03:47:17+08:00</published><updated>2017-02-06T02:57:17+08:00</updated><author><name>M157q</name></author><id>tag:blog.m157q.tw,2017-01-02:/posts/2017/01/02/y2016w52/</id><summary type="html">&lt;p&gt;Collection for Y2016W52 (2016-12-26 Mon 00:00:00 +0800 ~ 2017-01-02 Mon 00:00:00 +0800)&lt;/p&gt;</summary><content type="html">&lt;h3&gt;conf&lt;/h3&gt;
+&lt;/ul&gt;</content><category term="car"></category><category term="cli"></category><category term="gcp"></category><category term="github"></category><category term="gitlab"></category><category term="misc"></category><category term="opensource"></category><category term="programmer"></category><category term="taiwan"></category><category term="trivia"></category><category term="web"></category></entry><entry><title>Y2016W52</title><link href="https://blog.fkz.tw/posts/2017/01/02/y2016w52/" rel="alternate"></link><published>2017-01-02T03:47:17+08:00</published><updated>2017-02-06T02:57:17+08:00</updated><author><name>M157q</name></author><id>tag:blog.fkz.tw,2017-01-02:/posts/2017/01/02/y2016w52/</id><summary type="html">&lt;p&gt;Collection for Y2016W52 (2016-12-26 Mon 00:00:00 +0800 ~ 2017-01-02 Mon 00:00:00 +0800)&lt;/p&gt;</summary><content type="html">&lt;h3&gt;conf&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://hackaday.com/2016/12/30/33c3-works-for-me/"&gt;33C3: Works for Me | Hackaday&lt;/a&gt;  &lt;ul&gt;
 &lt;li&gt;
@@ -403,7 +403,7 @@ PDCAAS（蛋白質消化率矯正胺基酸評分）  &lt;/p&gt;
 &lt;li&gt;但，沒有講到 GIL，沒錯，沒有講到 GIL，通常看到說 Python 效能差的文章，幾乎一定會講到 GIL，也可能是作者覺得這個已經講到爛掉了吧。  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="conf"></category><category term="opensource"></category><category term="programmer"></category><category term="python"></category></entry><entry><title>Y2016W45</title><link href="https://blog.m157q.tw/posts/2016/11/14/y2016w45/" rel="alternate"></link><published>2016-11-14T18:03:32+08:00</published><updated>2016-11-26T09:38:32+08:00</updated><author><name>M157q</name></author><id>tag:blog.m157q.tw,2016-11-14:/posts/2016/11/14/y2016w45/</id><summary type="html">&lt;p&gt;Collection for Y2016W45 (2016-11-07 Mon 00:00:00 +0800 ~ 2016-11-14 Mon 00:00:00 +0800)&lt;/p&gt;</summary><content type="html">&lt;h3&gt;interview&lt;/h3&gt;
+&lt;/ul&gt;</content><category term="conf"></category><category term="opensource"></category><category term="programmer"></category><category term="python"></category></entry><entry><title>Y2016W45</title><link href="https://blog.fkz.tw/posts/2016/11/14/y2016w45/" rel="alternate"></link><published>2016-11-14T18:03:32+08:00</published><updated>2016-11-26T09:38:32+08:00</updated><author><name>M157q</name></author><id>tag:blog.fkz.tw,2016-11-14:/posts/2016/11/14/y2016w45/</id><summary type="html">&lt;p&gt;Collection for Y2016W45 (2016-11-07 Mon 00:00:00 +0800 ~ 2016-11-14 Mon 00:00:00 +0800)&lt;/p&gt;</summary><content type="html">&lt;h3&gt;interview&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.ptt.cc/bbs/Soft_Job/M.1478073114.A.177.html"&gt;[心得]研替(QNAP/群暉/HTC/Garmin/宇匯/appier) - 看板 Soft_Job - 批踢踢實業坊&lt;/a&gt;  &lt;ul&gt;
 &lt;li&gt;啊 每次看別人的面試心得都覺得自己好廢啊 QQ  &lt;/li&gt;
@@ -483,15 +483,15 @@ PDCAAS（蛋白質消化率矯正胺基酸評分）  &lt;/p&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ httpstat blog.m157q.tw/get  
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ httpstat blog.fkz.tw/get  
 Connected to &lt;span class="m"&gt;104&lt;/span&gt;.18.38.201:80 from &lt;span class="m"&gt;192&lt;/span&gt;.168.43.139:44650  
 
 HTTP/1.1 &lt;span class="m"&gt;301&lt;/span&gt; Moved Permanently  
 Date: Sat, &lt;span class="m"&gt;26&lt;/span&gt; Nov &lt;span class="m"&gt;2016&lt;/span&gt; &lt;span class="m"&gt;01&lt;/span&gt;:01:00 GMT  
 Transfer-Encoding: chunked  
 Connection: keep-alive  
-Set-Cookie: &lt;span class="nv"&gt;__cfduid&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;d090501284dc193137b69492e0e58d8801480122059&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="nv"&gt;expires&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;Sun, &lt;span class="m"&gt;26&lt;/span&gt;-Nov-17 &lt;span class="m"&gt;01&lt;/span&gt;:00:59 GMT&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="nv"&gt;path&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;/&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="nv"&gt;domain&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;.m157q.tw&lt;span class="p"&gt;;&lt;/span&gt; HttpOnly  
-Location: https://blog.m157q.tw/get  
+Set-Cookie: &lt;span class="nv"&gt;__cfduid&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;d090501284dc193137b69492e0e58d8801480122059&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="nv"&gt;expires&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;Sun, &lt;span class="m"&gt;26&lt;/span&gt;-Nov-17 &lt;span class="m"&gt;01&lt;/span&gt;:00:59 GMT&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="nv"&gt;path&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;/&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="nv"&gt;domain&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;.fkz.tw&lt;span class="p"&gt;;&lt;/span&gt; HttpOnly  
+Location: https://blog.fkz.tw/get  
 Server: cloudflare-nginx  
 CF-RAY: 3079681ae007538a-LAX  
 
@@ -614,7 +614,7 @@ Body stored in: /tmp/tmpn6p4a94e
 &lt;/li&gt;
 &lt;li&gt;其實，鼻胃管是一個很棒的發明，讓暫時無法由口進食的病人（如外科病人）能夠短暫地借助管子持續得到營養。畢竟，由腸胃道吸收營養，依然是比較優先的選擇。只是很多時候，它可能被濫用了。  &lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;</content><category term="django"></category><category term="interview"></category><category term="javascript"></category><category term="joke"></category><category term="math"></category><category term="misc"></category><category term="news"></category><category term="opensource"></category><category term="programmer"></category><category term="programming"></category><category term="python"></category><category term="security"></category><category term="skating"></category><category term="taiwan"></category><category term="vim"></category></entry><entry><title>Y2016W28</title><link href="https://blog.m157q.tw/posts/2016/07/17/y2016w28/" rel="alternate"></link><published>2016-07-17T23:48:03+08:00</published><updated>2016-07-17T23:48:03+08:00</updated><author><name>M157q</name></author><id>tag:blog.m157q.tw,2016-07-17:/posts/2016/07/17/y2016w28/</id><summary type="html">&lt;p&gt;Collection for Y2016W28&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Android&lt;/h3&gt;
+&lt;/blockquote&gt;</content><category term="django"></category><category term="interview"></category><category term="javascript"></category><category term="joke"></category><category term="math"></category><category term="misc"></category><category term="news"></category><category term="opensource"></category><category term="programmer"></category><category term="programming"></category><category term="python"></category><category term="security"></category><category term="skating"></category><category term="taiwan"></category><category term="vim"></category></entry><entry><title>Y2016W28</title><link href="https://blog.fkz.tw/posts/2016/07/17/y2016w28/" rel="alternate"></link><published>2016-07-17T23:48:03+08:00</published><updated>2016-07-17T23:48:03+08:00</updated><author><name>M157q</name></author><id>tag:blog.fkz.tw,2016-07-17:/posts/2016/07/17/y2016w28/</id><summary type="html">&lt;p&gt;Collection for Y2016W28&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Android&lt;/h3&gt;
 &lt;p&gt;昨天把手上的 ZenFone 2 (ZE551ML) 刷成 CM，第一次刷機，收集了一些資料。  &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://wiki.cyanogenmod.org/w/Doc:_fastboot_intro"&gt;Doc: fastboot intro - CyanogenMod&lt;/a&gt;  &lt;/li&gt;

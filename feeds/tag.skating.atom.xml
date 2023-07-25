@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - skating</title><link href="https://blog.m157q.tw/" rel="alternate"></link><link href="https://blog.m157q.tw/feeds/tag.skating.atom.xml" rel="self"></link><id>https://blog.m157q.tw/</id><updated>2016-11-26T09:38:32+08:00</updated><subtitle></subtitle><entry><title>Y2016W45</title><link href="https://blog.m157q.tw/posts/2016/11/14/y2016w45/" rel="alternate"></link><published>2016-11-14T18:03:32+08:00</published><updated>2016-11-26T09:38:32+08:00</updated><author><name>M157q</name></author><id>tag:blog.m157q.tw,2016-11-14:/posts/2016/11/14/y2016w45/</id><summary type="html">&lt;p&gt;Collection for Y2016W45 (2016-11-07 Mon 00:00:00 +0800 ~ 2016-11-14 Mon 00:00:00 +0800)&lt;/p&gt;</summary><content type="html">&lt;h3&gt;interview&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - skating</title><link href="https://blog.fkz.tw/" rel="alternate"></link><link href="https://blog.fkz.tw/feeds/tag.skating.atom.xml" rel="self"></link><id>https://blog.fkz.tw/</id><updated>2016-11-26T09:38:32+08:00</updated><subtitle></subtitle><entry><title>Y2016W45</title><link href="https://blog.fkz.tw/posts/2016/11/14/y2016w45/" rel="alternate"></link><published>2016-11-14T18:03:32+08:00</published><updated>2016-11-26T09:38:32+08:00</updated><author><name>M157q</name></author><id>tag:blog.fkz.tw,2016-11-14:/posts/2016/11/14/y2016w45/</id><summary type="html">&lt;p&gt;Collection for Y2016W45 (2016-11-07 Mon 00:00:00 +0800 ~ 2016-11-14 Mon 00:00:00 +0800)&lt;/p&gt;</summary><content type="html">&lt;h3&gt;interview&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.ptt.cc/bbs/Soft_Job/M.1478073114.A.177.html"&gt;[心得]研替(QNAP/群暉/HTC/Garmin/宇匯/appier) - 看板 Soft_Job - 批踢踢實業坊&lt;/a&gt;  &lt;ul&gt;
 &lt;li&gt;啊 每次看別人的面試心得都覺得自己好廢啊 QQ  &lt;/li&gt;
@@ -79,15 +79,15 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ httpstat blog.m157q.tw/get  
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ httpstat blog.fkz.tw/get  
 Connected to &lt;span class="m"&gt;104&lt;/span&gt;.18.38.201:80 from &lt;span class="m"&gt;192&lt;/span&gt;.168.43.139:44650  
 
 HTTP/1.1 &lt;span class="m"&gt;301&lt;/span&gt; Moved Permanently  
 Date: Sat, &lt;span class="m"&gt;26&lt;/span&gt; Nov &lt;span class="m"&gt;2016&lt;/span&gt; &lt;span class="m"&gt;01&lt;/span&gt;:01:00 GMT  
 Transfer-Encoding: chunked  
 Connection: keep-alive  
-Set-Cookie: &lt;span class="nv"&gt;__cfduid&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;d090501284dc193137b69492e0e58d8801480122059&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="nv"&gt;expires&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;Sun, &lt;span class="m"&gt;26&lt;/span&gt;-Nov-17 &lt;span class="m"&gt;01&lt;/span&gt;:00:59 GMT&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="nv"&gt;path&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;/&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="nv"&gt;domain&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;.m157q.tw&lt;span class="p"&gt;;&lt;/span&gt; HttpOnly  
-Location: https://blog.m157q.tw/get  
+Set-Cookie: &lt;span class="nv"&gt;__cfduid&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;d090501284dc193137b69492e0e58d8801480122059&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="nv"&gt;expires&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;Sun, &lt;span class="m"&gt;26&lt;/span&gt;-Nov-17 &lt;span class="m"&gt;01&lt;/span&gt;:00:59 GMT&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="nv"&gt;path&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;/&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="nv"&gt;domain&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;.fkz.tw&lt;span class="p"&gt;;&lt;/span&gt; HttpOnly  
+Location: https://blog.fkz.tw/get  
 Server: cloudflare-nginx  
 CF-RAY: 3079681ae007538a-LAX  
 

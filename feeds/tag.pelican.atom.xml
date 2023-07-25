@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - Pelican</title><link href="https://blog.m157q.tw/" rel="alternate"></link><link href="https://blog.m157q.tw/feeds/tag.pelican.atom.xml" rel="self"></link><id>https://blog.m157q.tw/</id><updated>2016-05-08T13:00:07+08:00</updated><subtitle></subtitle><entry><title>用 Travis CI 自動化發佈 Pelican blog 到 GitHub Pages 上</title><link href="https://blog.m157q.tw/posts/2016/05/08/use-travis-ci-to-publish-pelican-blog-on-github-pages-automatically/" rel="alternate"></link><published>2016-05-08T13:00:07+08:00</published><updated>2016-05-08T13:00:07+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2016-05-08:/posts/2016/05/08/use-travis-ci-to-publish-pelican-blog-on-github-pages-automatically/</id><summary type="html">&lt;p&gt;因為總文章數已經累積到約 150 篇，所以每次 build Pelican 的時候都差不多要十秒，覺得每次都要等這十秒實在是很浪費時間，所以幾個月前想到可以用 Travis CI 來自動幫我完成這件事，但直到前幾天才花一個晚上的時間成功設定完，紀錄一下。&lt;/p&gt;</summary><content type="html">&lt;h1&gt;前言&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - Pelican</title><link href="https://blog.fkz.tw/" rel="alternate"></link><link href="https://blog.fkz.tw/feeds/tag.pelican.atom.xml" rel="self"></link><id>https://blog.fkz.tw/</id><updated>2016-05-08T13:00:07+08:00</updated><subtitle></subtitle><entry><title>用 Travis CI 自動化發佈 Pelican blog 到 GitHub Pages 上</title><link href="https://blog.fkz.tw/posts/2016/05/08/use-travis-ci-to-publish-pelican-blog-on-github-pages-automatically/" rel="alternate"></link><published>2016-05-08T13:00:07+08:00</published><updated>2016-05-08T13:00:07+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2016-05-08:/posts/2016/05/08/use-travis-ci-to-publish-pelican-blog-on-github-pages-automatically/</id><summary type="html">&lt;p&gt;因為總文章數已經累積到約 150 篇，所以每次 build Pelican 的時候都差不多要十秒，覺得每次都要等這十秒實在是很浪費時間，所以幾個月前想到可以用 Travis CI 來自動幫我完成這件事，但直到前幾天才花一個晚上的時間成功設定完，紀錄一下。&lt;/p&gt;</summary><content type="html">&lt;h1&gt;前言&lt;/h1&gt;
 &lt;p&gt;主要的設定都是參考這篇：&lt;a href="http://blog.mathieu-leplatre.info/publish-your-pelican-blog-on-github-pages-via-travis-ci.html"&gt;Publish your Pelican blog on Github pages via Travis-CI&lt;/a&gt;&lt;br&gt;
 不過因為這篇寫於 2014 年的 1 月，&lt;br&gt;
 有些內容已經有點過時了，跟我實際操作起來上有些差異，&lt;br&gt;
 我有在底下留言給作者了，我自己這邊也順便紀錄一下作法。  &lt;/p&gt;
 &lt;p&gt;先把最終的設定檔放上來好了  &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/M157q/m157q.github.io/blob/source/.travis.yml"&gt;.travis.yml&lt;/a&gt;  &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/M157q/m157q.github.io/blob/source/requirements.txt"&gt;requirements.txt&lt;/a&gt;  &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/M157q/m157q.github.io/blob/source/Makefile"&gt;Makefile&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/M157q/fkz.github.io/blob/source/.travis.yml"&gt;.travis.yml&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/M157q/fkz.github.io/blob/source/requirements.txt"&gt;requirements.txt&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/M157q/fkz.github.io/blob/source/Makefile"&gt;Makefile&lt;/a&gt;  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h1&gt;作法&lt;/h1&gt;
@@ -41,7 +41,7 @@
 
 &lt;h2&gt;設定 &lt;code&gt;Makefile&lt;/code&gt;&lt;/h2&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nv"&gt;OUTPUTDIR&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="k"&gt;$(&lt;/span&gt;BASEDIR&lt;span class="k"&gt;)&lt;/span&gt;/output  
-&lt;span class="nv"&gt;GITHUB_REPO_SLUG&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;M157q/m157q.github.io  
+&lt;span class="nv"&gt;GITHUB_REPO_SLUG&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;M157q/fkz.github.io  
 &lt;span class="nv"&gt;GITHUB_REMOTE_NAME&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;origin  
 &lt;span class="nv"&gt;GITHUB_PAGES_BRANCH&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;master  
 &lt;span class="c"&gt;# 以上參數請根據需求自行替換  &lt;/span&gt;
@@ -118,7 +118,7 @@ Travis CI 就會自動 build blog 啦~  &lt;/p&gt;
 &lt;h1&gt;Reference&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://blog.mathieu-leplatre.info/publish-your-pelican-blog-on-github-pages-via-travis-ci.html"&gt;Publish your Pelican blog on Github pages via Travis-CI&lt;/a&gt;  &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Python"></category><category term="Pelican"></category><category term="Travis CI"></category><category term="GitHub Pages"></category><category term="Blog"></category></entry><entry><title>pip install lxml fail in Mac</title><link href="https://blog.m157q.tw/posts/2015/02/04/pip-install-lxml-fail-in-mac/" rel="alternate"></link><published>2015-02-04T15:39:08+08:00</published><updated>2015-02-11T04:25:05+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2015-02-04:/posts/2015/02/04/pip-install-lxml-fail-in-mac/</id><summary type="html">&lt;p&gt;A brief solution to solve this problem&lt;/p&gt;</summary><content type="html">&lt;p&gt;While I built up the develope environment for &lt;code&gt;Pelican&lt;/code&gt; on my Mac OSX 10.9,&lt;br&gt;
+&lt;/ul&gt;</content><category term="Python"></category><category term="Pelican"></category><category term="Travis CI"></category><category term="GitHub Pages"></category><category term="Blog"></category></entry><entry><title>pip install lxml fail in Mac</title><link href="https://blog.fkz.tw/posts/2015/02/04/pip-install-lxml-fail-in-mac/" rel="alternate"></link><published>2015-02-04T15:39:08+08:00</published><updated>2015-02-11T04:25:05+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2015-02-04:/posts/2015/02/04/pip-install-lxml-fail-in-mac/</id><summary type="html">&lt;p&gt;A brief solution to solve this problem&lt;/p&gt;</summary><content type="html">&lt;p&gt;While I built up the develope environment for &lt;code&gt;Pelican&lt;/code&gt; on my Mac OSX 10.9,&lt;br&gt;
 I encounterd this problem below:  &lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;In&lt;/span&gt; &lt;span class="n"&gt;file&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;src&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;lxml&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;lxml&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;etree&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nl"&gt;c&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;239&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;  
 

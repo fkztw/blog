@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - M157q</title><link href="https://blog.m157q.tw/" rel="alternate"></link><link href="https://blog.m157q.tw/feeds/tag.m157q.atom.xml" rel="self"></link><id>https://blog.m157q.tw/</id><updated>2018-02-02T18:17:55+08:00</updated><subtitle></subtitle><entry><title>我平常在電腦上用了哪些程式</title><link href="https://blog.m157q.tw/posts/2018/01/09/tools-i-use/" rel="alternate"></link><published>2018-01-09T22:09:55+08:00</published><updated>2018-02-02T18:17:55+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2018-01-09:/posts/2018/01/09/tools-i-use/</id><summary type="html">&lt;p&gt;紀錄一下自己平常使用了哪些工具，給自己之後檢視用。&lt;/p&gt;</summary><content type="html">&lt;h2&gt;前言&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - M157q</title><link href="https://blog.fkz.tw/" rel="alternate"></link><link href="https://blog.fkz.tw/feeds/tag.fkz.atom.xml" rel="self"></link><id>https://blog.fkz.tw/</id><updated>2018-02-02T18:17:55+08:00</updated><subtitle></subtitle><entry><title>我平常在電腦上用了哪些程式</title><link href="https://blog.fkz.tw/posts/2018/01/09/tools-i-use/" rel="alternate"></link><published>2018-01-09T22:09:55+08:00</published><updated>2018-02-02T18:17:55+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2018-01-09:/posts/2018/01/09/tools-i-use/</id><summary type="html">&lt;p&gt;紀錄一下自己平常使用了哪些工具，給自己之後檢視用。&lt;/p&gt;</summary><content type="html">&lt;h2&gt;前言&lt;/h2&gt;
 &lt;p&gt;身為一個懶人，不喜歡做重複的事情，所以愛寫程式來把重複的事情解決掉，也因為這樣，所以很常用一些工具來幫助自己節省時間，以提高自己的生產力。  &lt;/p&gt;
 &lt;p&gt;想說利用待業這段比較有空的時間，拿這篇文章來詳細紀錄一下自己目前到底用了哪些工具，留個紀錄，之後也可以用來追蹤比較，看看自己之後換了工具的原因，以及是不是真的有比較好。也有可能會變成歷史文，見證什麼時代的眼淚之類的吧（？）  &lt;/p&gt;
 &lt;p&gt;身為一個寫程式的阿宅，平常都是用電腦居多，所以這篇只會以電腦用到的部份為主。格式分類參考自一年多前看到的這篇文章：&lt;a href="https://medium.com/hungys-blog/my-software-stack-2a406c1c57c1"&gt;My Software Stack – Hungys.blog() – Medium&lt;/a&gt;  &lt;/p&gt;
@@ -257,7 +257,7 @@
 &lt;li&gt;IFTTT 的意思是："If it, then that."  &lt;/li&gt;
 &lt;li&gt;和多家公司合作，可以很簡單設定一些跨服務的觸發條件，除了 API 提供的觸發條件以外，還可以在這之上自己撰寫 JavaScript 做一些彈性化的設定。  &lt;/li&gt;
 &lt;li&gt;每個人也可以分享自己設定的腳本供他人使用，大多數都是用來做一些提醒或是自動備份的事。  &lt;/li&gt;
-&lt;li&gt;我目前是拿來把我在 Twitter 分享或在 Pocket 儲存一些我覺得不錯的文章時，會幫我自動在：&lt;a href="https://github.com/M157q/m157q.github.io/issues"&gt;Issues · M157q/m157q.github.io · GitHub&lt;/a&gt; 開個新的 Issue 紀錄，以方便我日後查詢，解決常常和人分享時想起看過某篇不錯的文章卻搜尋不到的問題。  &lt;/li&gt;
+&lt;li&gt;我目前是拿來把我在 Twitter 分享或在 Pocket 儲存一些我覺得不錯的文章時，會幫我自動在：&lt;a href="https://github.com/M157q/fkz.github.io/issues"&gt;Issues · M157q/fkz.github.io · GitHub&lt;/a&gt; 開個新的 Issue 紀錄，以方便我日後查詢，解決常常和人分享時想起看過某篇不錯的文章卻搜尋不到的問題。  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href="https://getpocket.com"&gt;Pocket&lt;/a&gt;  &lt;ul&gt;
@@ -292,7 +292,7 @@
 &lt;li&gt;&lt;a href="https://www.cloudflare.com"&gt;CloudFlare&lt;/a&gt;  &lt;ul&gt;
 &lt;li&gt;2016 年 6 月租了自己的 domain 之後，就拿來個人使用。在這之前是因為公司的服務有在使用，所以才接觸到，覺得設計的很簡單易用且功能又很強大。  &lt;/li&gt;
 &lt;li&gt;DNS 代管設定很方便，而且加上 proxy 之後就有免費的 CDN 和 HTTPS 可以使用。有很多其他的功能，可以設定 Cache、簡單的流量分析、免費的網站資安防護等等等。  &lt;/li&gt;
-&lt;li&gt;詳細一點的介紹可以參考這篇文章：&lt;a href="/posts/2016/09/06/i-bought-my-first-domain-name/"&gt;買了一個叫作 m157q.tw 的域名 | Just for noting&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;詳細一點的介紹可以參考這篇文章：&lt;a href="/posts/2016/09/06/i-bought-my-first-domain-name/"&gt;買了一個叫作 fkz.tw 的域名 | Just for noting&lt;/a&gt;  &lt;/li&gt;
 &lt;li&gt;不過 2017 年 2 月的時候也有出過 CloudBleed 這個大包就是：&lt;a href="https://blog.cloudflare.com/incident-report-on-memory-leak-caused-by-cloudflare-parser-bug/"&gt;Incident report on memory leak caused by Cloudflare parser bug&lt;/a&gt;  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;

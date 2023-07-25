@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - Operating System</title><link href="https://blog.m157q.tw/" rel="alternate"></link><link href="https://blog.m157q.tw/feeds/tag.operating-system.atom.xml" rel="self"></link><id>https://blog.m157q.tw/</id><updated>2015-10-26T15:30:00+08:00</updated><subtitle></subtitle><entry><title>OS Ch8 - Memory Management</title><link href="https://blog.m157q.tw/posts/2013/11/26/os-ch8-memory-management/" rel="alternate"></link><published>2013-11-26T03:25:00+08:00</published><updated>2013-11-26T03:25:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-26:/posts/2013/11/26/os-ch8-memory-management/</id><summary type="html">&lt;h2&gt;NCTUCS 2013-Fall Introduction to Operating …&lt;/h2&gt;</summary><content type="html">&lt;h2&gt;NCTUCS 2013-Fall Introduction to Operating System by Hank Wu&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - Operating System</title><link href="https://blog.fkz.tw/" rel="alternate"></link><link href="https://blog.fkz.tw/feeds/tag.operating-system.atom.xml" rel="self"></link><id>https://blog.fkz.tw/</id><updated>2015-10-26T15:30:00+08:00</updated><subtitle></subtitle><entry><title>OS Ch8 - Memory Management</title><link href="https://blog.fkz.tw/posts/2013/11/26/os-ch8-memory-management/" rel="alternate"></link><published>2013-11-26T03:25:00+08:00</published><updated>2013-11-26T03:25:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-26:/posts/2013/11/26/os-ch8-memory-management/</id><summary type="html">&lt;h2&gt;NCTUCS 2013-Fall Introduction to Operating …&lt;/h2&gt;</summary><content type="html">&lt;h2&gt;NCTUCS 2013-Fall Introduction to Operating System by Hank Wu&lt;/h2&gt;
 &lt;h2&gt;Ch8 - Memory Management&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;To provide a detailed description of various ways of organizing memory hardware  &lt;/li&gt;
@@ -257,7 +257,7 @@ Segmentation 就是在規劃這些 Address Space 分成不同的 Segment&lt;br&g
 &lt;/blockquote&gt;
 &lt;h3&gt;Three-level Paging in Linux&lt;/h3&gt;
 &lt;p&gt;見 p.59 的圖&lt;br&gt;
-&lt;img alt="Screenshot 11" src="/files/os-ch8-memory-management/screenshot11.jpg"&gt;  &lt;/p&gt;</content><category term="Operating System"></category><category term="Memory Management"></category></entry><entry><title>OS Ch7 - Deadlocks</title><link href="https://blog.m157q.tw/posts/2013/11/19/os-ch7-deadlocks/" rel="alternate"></link><published>2013-11-19T02:40:00+08:00</published><updated>2013-11-19T02:40:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-19:/posts/2013/11/19/os-ch7-deadlocks/</id><summary type="html">&lt;h1&gt;OS == Operating System&lt;/h1&gt;
+&lt;img alt="Screenshot 11" src="/files/os-ch8-memory-management/screenshot11.jpg"&gt;  &lt;/p&gt;</content><category term="Operating System"></category><category term="Memory Management"></category></entry><entry><title>OS Ch7 - Deadlocks</title><link href="https://blog.fkz.tw/posts/2013/11/19/os-ch7-deadlocks/" rel="alternate"></link><published>2013-11-19T02:40:00+08:00</published><updated>2013-11-19T02:40:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-19:/posts/2013/11/19/os-ch7-deadlocks/</id><summary type="html">&lt;h1&gt;OS == Operating System&lt;/h1&gt;
 &lt;h1&gt;Ch7 - Deadlocks …&lt;/h1&gt;</summary><content type="html">&lt;h1&gt;OS == Operating System&lt;/h1&gt;
 &lt;h1&gt;Ch7 - Deadlocks&lt;/h1&gt;
 &lt;ul&gt;
@@ -541,7 +541,7 @@ Resource-Request Algorithm 很少在用，主要的原因是因為 Avaliable 不
 &lt;li&gt;Selecting a victim =&amp;gt; minimize cost  &lt;/li&gt;
 &lt;li&gt;Rollback =&amp;gt; return to some safe state, restart process for that state  &lt;/li&gt;
 &lt;li&gt;Starvation =&amp;gt; same process may always be picked as victim, include number of rollback in cost factor  &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Operating System"></category><category term="Deadlock"></category></entry><entry><title>OS Ch6 - Synchronization</title><link href="https://blog.m157q.tw/posts/2013/11/05/os-ch6-synchronization/" rel="alternate"></link><published>2013-11-05T03:07:00+08:00</published><updated>2013-11-05T03:07:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-05:/posts/2013/11/05/os-ch6-synchronization/</id><summary type="html">&lt;h1&gt;Monitors&lt;/h1&gt;
+&lt;/ul&gt;</content><category term="Operating System"></category><category term="Deadlock"></category></entry><entry><title>OS Ch6 - Synchronization</title><link href="https://blog.fkz.tw/posts/2013/11/05/os-ch6-synchronization/" rel="alternate"></link><published>2013-11-05T03:07:00+08:00</published><updated>2013-11-05T03:07:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-05:/posts/2013/11/05/os-ch6-synchronization/</id><summary type="html">&lt;h1&gt;Monitors&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Invented by &lt;strong&gt;Tony Hoare …&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Monitors&lt;/h1&gt;
 &lt;ul&gt;
@@ -668,7 +668,7 @@ Resource-Request Algorithm 很少在用，主要的原因是因為 Avaliable 不
 
 
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="err"&gt;+ Condition Variable Implementation&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;</content><category term="Operating System"></category></entry><entry><title>OS Ch1 - Introduction to Operating System</title><link href="https://blog.m157q.tw/posts/2013/11/04/os-ch1-introduction-to-operating-system/" rel="alternate"></link><published>2013-11-04T15:23:00+08:00</published><updated>2015-10-26T15:30:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-04:/posts/2013/11/04/os-ch1-introduction-to-operating-system/</id><summary type="html">&lt;ul&gt;
+&lt;/pre&gt;&lt;/div&gt;</content><category term="Operating System"></category></entry><entry><title>OS Ch1 - Introduction to Operating System</title><link href="https://blog.fkz.tw/posts/2013/11/04/os-ch1-introduction-to-operating-system/" rel="alternate"></link><published>2013-11-04T15:23:00+08:00</published><updated>2015-10-26T15:30:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-04:/posts/2013/11/04/os-ch1-introduction-to-operating-system/</id><summary type="html">&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;What is an Operating System …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;ul&gt;
 &lt;li&gt;

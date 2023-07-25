@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - Thought</title><link href="https://blog.m157q.tw/" rel="alternate"></link><link href="https://blog.m157q.tw/feeds/tag.thought.atom.xml" rel="self"></link><id>https://blog.m157q.tw/</id><updated>2015-10-28T12:55:00+08:00</updated><subtitle></subtitle><entry><title>TSCC 2015 Notes and Thoughts</title><link href="https://blog.m157q.tw/posts/2015/09/15/tscc-2015-notes-and-thoughts/" rel="alternate"></link><published>2015-09-15T00:18:11+08:00</published><updated>2015-09-15T00:18:11+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2015-09-15:/posts/2015/09/15/tscc-2015-notes-and-thoughts/</id><summary type="html">&lt;p&gt;Notes and Thoughts about the Taiwan Student Cluster Competition 2015&lt;/p&gt;</summary><content type="html">&lt;p&gt;又是一篇遲來的文章&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - Thought</title><link href="https://blog.fkz.tw/" rel="alternate"></link><link href="https://blog.fkz.tw/feeds/tag.thought.atom.xml" rel="self"></link><id>https://blog.fkz.tw/</id><updated>2015-10-28T12:55:00+08:00</updated><subtitle></subtitle><entry><title>TSCC 2015 Notes and Thoughts</title><link href="https://blog.fkz.tw/posts/2015/09/15/tscc-2015-notes-and-thoughts/" rel="alternate"></link><published>2015-09-15T00:18:11+08:00</published><updated>2015-09-15T00:18:11+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2015-09-15:/posts/2015/09/15/tscc-2015-notes-and-thoughts/</id><summary type="html">&lt;p&gt;Notes and Thoughts about the Taiwan Student Cluster Competition 2015&lt;/p&gt;</summary><content type="html">&lt;p&gt;又是一篇遲來的文章&lt;br&gt;
 這比賽是在今年的 6/4, 6/5 兩天比的&lt;br&gt;
 心得跟紀錄拖到現在才寫...  &lt;/p&gt;
 &lt;hr&gt;
@@ -77,7 +77,7 @@
 再多多惡補些 CUDA 跟平行運算相關的知識。&lt;br&gt;
 大概到半夜3點多才睡吧。&lt;br&gt;
 (其中意外發現PTT上有一個還不錯的 CUDA 入門系列，&lt;br&gt;
-整理在這 &lt;a href="https://m157q.github.io/posts/2015/08/15/nice-series-of-cuda-tutorials-on-ptt-cc/"&gt;Nice Series of CUDA Tutorials on ptt.cc | Just for noting&lt;/a&gt;)  &lt;/p&gt;
+整理在這 &lt;a href="https://fkz.github.io/posts/2015/08/15/nice-series-of-cuda-tutorials-on-ptt-cc/"&gt;Nice Series of CUDA Tutorials on ptt.cc | Just for noting&lt;/a&gt;)  &lt;/p&gt;
 &lt;p&gt;隔天一早9點，又到國網中心繼續第二天的比賽，&lt;br&gt;
 小趴和喜德繼續處理昨天的 Einstein Toolkit 問題，&lt;br&gt;
 divazone 則是準備他負責的 LAMMPS 部份，&lt;br&gt;
@@ -162,7 +162,7 @@ divazone 則是準備他負責的 LAMMPS 部份，&lt;br&gt;
 &lt;h3&gt;多核心高效能程式調教&lt;/h3&gt;
 &lt;p&gt;隨著多核心系統日益普遍，無論桌上型電腦、筆記型電腦甚至平板電腦或智慧型手機皆採用多核心處理器。如何充分使用多核心處理器所帶來的效能優勢進行工程科學計算，成為研究人員重要的課題。  &lt;/p&gt;
 &lt;p&gt;多核心高效能程式調教試題將以工程科學計算作為案例提供Serial程式，參賽隊伍將可依計算環境、演算法特性等，透過平行程式語言(如：OpenMP、MPI、CUDA、OpenCL等)在競賽中所架設之環境進行平行效能測試。  &lt;/p&gt;
-&lt;p&gt;希望參賽者利用對題目的了解、分析平行效率的瓶頸與瞭解平行程式撰寫，調整平行計算環境的設定，進而發揮最佳的平行計算效能；藉此增加對高速計算軟硬體環境之經驗。  &lt;/p&gt;</content><category term="Thought"></category><category term="TSCC"></category><category term="HPC"></category><category term="Competition"></category><category term="Cluster"></category></entry><entry><title>PyCon APAC 2015 Notes and Thoughts</title><link href="https://blog.m157q.tw/posts/2015/07/26/pycon-apac-2015-notes-and-thoughts/" rel="alternate"></link><published>2015-07-26T15:25:54+08:00</published><updated>2015-07-26T15:25:54+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2015-07-26:/posts/2015/07/26/pycon-apac-2015-notes-and-thoughts/</id><summary type="html">&lt;p&gt;Some thoughts &amp;amp; notes for PyCon APAC 2015&lt;/p&gt;</summary><content type="html">&lt;p&gt;這次是第二次參加 PyCon，&lt;br&gt;
+&lt;p&gt;希望參賽者利用對題目的了解、分析平行效率的瓶頸與瞭解平行程式撰寫，調整平行計算環境的設定，進而發揮最佳的平行計算效能；藉此增加對高速計算軟硬體環境之經驗。  &lt;/p&gt;</content><category term="Thought"></category><category term="TSCC"></category><category term="HPC"></category><category term="Competition"></category><category term="Cluster"></category></entry><entry><title>PyCon APAC 2015 Notes and Thoughts</title><link href="https://blog.fkz.tw/posts/2015/07/26/pycon-apac-2015-notes-and-thoughts/" rel="alternate"></link><published>2015-07-26T15:25:54+08:00</published><updated>2015-07-26T15:25:54+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2015-07-26:/posts/2015/07/26/pycon-apac-2015-notes-and-thoughts/</id><summary type="html">&lt;p&gt;Some thoughts &amp;amp; notes for PyCon APAC 2015&lt;/p&gt;</summary><content type="html">&lt;p&gt;這次是第二次參加 PyCon，&lt;br&gt;
 與其像去年當個沒做事的 Web 組冗員，&lt;br&gt;
 還是乖乖當個會眾就好，&lt;br&gt;
 但還是有義務幫忙一些簡單的小事啦。  &lt;/p&gt;
@@ -1292,7 +1292,7 @@ $ toga-demo
 &lt;li&gt;Portfolio allocation  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Conf"></category><category term="Python"></category><category term="PyCon"></category><category term="PyConAPAC"></category><category term="Thought"></category></entry><entry><title>GitHub Talk - Advanced Git and CI in NCTU</title><link href="https://blog.m157q.tw/posts/2015/03/20/github-talk-advanced-git-and-ci-in-nctu/" rel="alternate"></link><published>2015-03-20T14:30:29+08:00</published><updated>2015-10-27T12:31:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2015-03-20:/posts/2015/03/20/github-talk-advanced-git-and-ci-in-nctu/</id><summary type="html">&lt;p&gt;GitHub X CCCA X SITCON Talk in NCTU&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Look into .git directory&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="Conf"></category><category term="Python"></category><category term="PyCon"></category><category term="PyConAPAC"></category><category term="Thought"></category></entry><entry><title>GitHub Talk - Advanced Git and CI in NCTU</title><link href="https://blog.fkz.tw/posts/2015/03/20/github-talk-advanced-git-and-ci-in-nctu/" rel="alternate"></link><published>2015-03-20T14:30:29+08:00</published><updated>2015-10-27T12:31:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2015-03-20:/posts/2015/03/20/github-talk-advanced-git-and-ci-in-nctu/</id><summary type="html">&lt;p&gt;GitHub X CCCA X SITCON Talk in NCTU&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Look into .git directory&lt;/h2&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ git init foo  
 $ &lt;span class="nb"&gt;cd&lt;/span&gt; foo  
 $ tree  
@@ -1429,7 +1429,7 @@ CI 的部分只有提到 Travis CI 在 GitHub 上面的 Webhook&lt;br&gt;
 &lt;img alt="Octocat" src="/files/github-talk-advanced-git-and-ci-in-nctu/octocat.jpg"&gt;&lt;br&gt;
 感謝 &lt;a href="https://github.com/muan"&gt;muan&lt;/a&gt; 的這則 Twitter &lt;a href="https://twitter.com/muanchiou/status/571684266490265601"&gt;訊息&lt;/a&gt; 才有機會在交大聽到這場 Talk&lt;br&gt;
 原來 &lt;a href="https://github.com/muan/emoji"&gt;https://github.com/muan/emoji&lt;/a&gt; 是她的 Repo&lt;br&gt;
-GitHub 上越來越多 emoji 了XDD  &lt;/p&gt;</content><category term="Thought"></category><category term="Git"></category><category term="GitHub"></category><category term="Speech"></category></entry><entry><title>SITCON 2015 - Android Repackaged App Detection System</title><link href="https://blog.m157q.tw/posts/2015/03/11/sitcon-2015-android-repackaged-app-detection-system/" rel="alternate"></link><published>2015-03-11T23:14:27+08:00</published><updated>2015-03-12T00:05:27+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2015-03-11:/posts/2015/03/11/sitcon-2015-android-repackaged-app-detection-system/</id><summary type="html">&lt;p&gt;今年投稿 SITCON 有幸又被錄取為講者，對於目前沒有打算唸研究所的我，應該也是最後一年當講者了吧，記錄一下今年的感想。&lt;/p&gt;</summary><content type="html">&lt;p&gt;先說說關於今年 SITCON 的感想好了&lt;br&gt;
+GitHub 上越來越多 emoji 了XDD  &lt;/p&gt;</content><category term="Thought"></category><category term="Git"></category><category term="GitHub"></category><category term="Speech"></category></entry><entry><title>SITCON 2015 - Android Repackaged App Detection System</title><link href="https://blog.fkz.tw/posts/2015/03/11/sitcon-2015-android-repackaged-app-detection-system/" rel="alternate"></link><published>2015-03-11T23:14:27+08:00</published><updated>2015-03-12T00:05:27+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2015-03-11:/posts/2015/03/11/sitcon-2015-android-repackaged-app-detection-system/</id><summary type="html">&lt;p&gt;今年投稿 SITCON 有幸又被錄取為講者，對於目前沒有打算唸研究所的我，應該也是最後一年當講者了吧，記錄一下今年的感想。&lt;/p&gt;</summary><content type="html">&lt;p&gt;先說說關於今年 SITCON 的感想好了&lt;br&gt;
 關於 Talk 的部分可能會敘述比較長XD  &lt;/p&gt;
 &lt;h2&gt;關於 SITCON 2015&lt;/h2&gt;
 &lt;p&gt;今年我除了聽最前面兩場由梁伯嵩及 Kaede 主講的 keynote 以外&lt;br&gt;
@@ -1479,7 +1479,7 @@ Hacker 是無論哪個領域都有的&lt;br&gt;
 &lt;h2&gt;關於本次的 Talk&lt;/h2&gt;
 &lt;h3&gt;Android Repackaged App Detection System&lt;/h3&gt;
 &lt;p&gt;本次演講的投影片在此&lt;br&gt;
-&lt;a href="https://speakerdeck.com/m157q/sitcon2015-android-repackaged-app-detection-system-by-shunyi"&gt;https://speakerdeck.com/m157q/sitcon2015-android-repackaged-app-detection-system-by-shunyi&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://speakerdeck.com/fkz/sitcon2015-android-repackaged-app-detection-system-by-shunyi"&gt;https://speakerdeck.com/fkz/sitcon2015-android-repackaged-app-detection-system-by-shunyi&lt;/a&gt;&lt;br&gt;
 &lt;script async class="speakerdeck-embed" data-id="6ab309bf1d5f42ecbeb4bace486631e8" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"&gt;&lt;/script&gt;  &lt;/p&gt;
 &lt;p&gt;主要就是介紹在大學時做的專題&lt;br&gt;
 因為嘗試將許多現有的開放原始碼軟體整合起來&lt;br&gt;
@@ -1564,7 +1564,7 @@ Python 純粹是因為個人喜好所以採用&lt;br&gt;
 &lt;li&gt;&lt;a href="https://www.flickr.com/photos/sitcon/sets/72157649003614643/"&gt;Sitcon 2015 - an album on Flickr&lt;/a&gt;  &lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.flickr.com/photos/sitcon/sets/72157649027037894/"&gt;Sitcon2015 幕後花絮 - an album on Flickr&lt;/a&gt;  &lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.flickr.com/photos/sitcon/sets/72157650915441780/"&gt;SITCON2015 by 海哥 - an album on Flickr&lt;/a&gt; // 這個拍超多妹子...  &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Conf"></category><category term="SITCON"></category><category term="Python"></category><category term="Perl"></category><category term="Java"></category><category term="JavaScript"></category><category term="Scrapy"></category><category term="NetworkX"></category><category term="SAAF"></category><category term="node.js"></category><category term="d3.js"></category><category term="Android"></category><category term="Note"></category><category term="Thought"></category></entry><entry><title>COSCUP 2014 Notes and Thoughts</title><link href="https://blog.m157q.tw/posts/2014/07/20/coscup-2014-notes-and-thoughts/" rel="alternate"></link><published>2014-07-20T06:22:00+08:00</published><updated>2015-10-28T12:55:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2014-07-20:/posts/2014/07/20/coscup-2014-notes-and-thoughts/</id><summary type="html">&lt;p&gt;前面是有點長的廢話:  &lt;/p&gt;
+&lt;/ul&gt;</content><category term="Conf"></category><category term="SITCON"></category><category term="Python"></category><category term="Perl"></category><category term="Java"></category><category term="JavaScript"></category><category term="Scrapy"></category><category term="NetworkX"></category><category term="SAAF"></category><category term="node.js"></category><category term="d3.js"></category><category term="Android"></category><category term="Note"></category><category term="Thought"></category></entry><entry><title>COSCUP 2014 Notes and Thoughts</title><link href="https://blog.fkz.tw/posts/2014/07/20/coscup-2014-notes-and-thoughts/" rel="alternate"></link><published>2014-07-20T06:22:00+08:00</published><updated>2015-10-28T12:55:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2014-07-20:/posts/2014/07/20/coscup-2014-notes-and-thoughts/</id><summary type="html">&lt;p&gt;前面是有點長的廢話:  &lt;/p&gt;
 &lt;p&gt;今年的日期和 HITCON 對調，改到了七月 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;前面是有點長的廢話:  &lt;/p&gt;
 &lt;p&gt;今年的日期和 HITCON 對調，改到了七月  &lt;/p&gt;
 &lt;p&gt;報到使用了感應式門框 速度超級快  &lt;/p&gt;

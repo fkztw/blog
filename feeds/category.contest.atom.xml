@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - Contest</title><link href="https://blog.m157q.tw/" rel="alternate"></link><link href="https://blog.m157q.tw/feeds/category.contest.atom.xml" rel="self"></link><id>https://blog.m157q.tw/</id><updated>2018-01-22T14:55:49+08:00</updated><subtitle></subtitle><entry><title>2018 iT 邦幫忙鐵人賽參賽心得</title><link href="https://blog.m157q.tw/posts/2018/01/19/2018-ithelp-ironman/" rel="alternate"></link><published>2018-01-19T23:59:49+08:00</published><updated>2018-01-22T14:55:49+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2018-01-19:/posts/2018/01/19/2018-ithelp-ironman/</id><summary type="html">&lt;p&gt;有在追蹤這個部落格的人（有這樣的人嗎？）可能會發現最近 30 天發文頻率特別高，那是因為我參加了一個要連續 30 天每天發文的比賽，昨天既辛苦又順利得完賽了，於是用這篇文章紀錄一下心得。&lt;/p&gt;</summary><content type="html">&lt;h2&gt;2018 iT 邦幫忙鐵人賽參賽心得&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - Contest</title><link href="https://blog.fkz.tw/" rel="alternate"></link><link href="https://blog.fkz.tw/feeds/category.contest.atom.xml" rel="self"></link><id>https://blog.fkz.tw/</id><updated>2018-01-22T14:55:49+08:00</updated><subtitle></subtitle><entry><title>2018 iT 邦幫忙鐵人賽參賽心得</title><link href="https://blog.fkz.tw/posts/2018/01/19/2018-ithelp-ironman/" rel="alternate"></link><published>2018-01-19T23:59:49+08:00</published><updated>2018-01-22T14:55:49+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2018-01-19:/posts/2018/01/19/2018-ithelp-ironman/</id><summary type="html">&lt;p&gt;有在追蹤這個部落格的人（有這樣的人嗎？）可能會發現最近 30 天發文頻率特別高，那是因為我參加了一個要連續 30 天每天發文的比賽，昨天既辛苦又順利得完賽了，於是用這篇文章紀錄一下心得。&lt;/p&gt;</summary><content type="html">&lt;h2&gt;2018 iT 邦幫忙鐵人賽參賽心得&lt;/h2&gt;
 &lt;p&gt;&lt;img alt="完賽通知" src="/files/2018-ithelp-ironman/finish-notification.jpg"&gt;  &lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;之前就有看過一些朋友參賽，這次是自己第一次參賽，主要是因為剛好近期離職了，而且想要一併把自己在工作期間暫時紀錄下來的一些草稿都清掉，否則等到下一份工作的話這些草稿應該就會變萬年草稿了。  &lt;/p&gt;
@@ -56,7 +56,7 @@
 &lt;li&gt;&lt;a href="/posts/2018/01/16/change-docker-storage-driver-from-devicemapper-to-overlay2-to-free-your-disk-space-on-arch-linux/"&gt;在 Arch Linux 上將 Docker 的 Storage Driver 從 devicemapper 改為 overlay2 以釋放硬碟空間&lt;/a&gt;  &lt;/li&gt;
 &lt;li&gt;&lt;a href="/posts/2018/01/17/virtual-currency-vs-digital-currency-vs-cryptocurrency/"&gt;虛擬貨幣 vs 數位貨幣 vs 加密貨幣&lt;/a&gt;  &lt;/li&gt;
 &lt;li&gt;&lt;a href="/posts/2018/01/18/zdict-intro/"&gt;zdict 介紹&lt;/a&gt;  &lt;/li&gt;
-&lt;/ul&gt;</content><category term="iThome"></category><category term="iThelp"></category><category term="2018 iT 邦幫忙鐵人賽"></category></entry><entry><title>TSCC 2015 Notes and Thoughts</title><link href="https://blog.m157q.tw/posts/2015/09/15/tscc-2015-notes-and-thoughts/" rel="alternate"></link><published>2015-09-15T00:18:11+08:00</published><updated>2015-09-15T00:18:11+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2015-09-15:/posts/2015/09/15/tscc-2015-notes-and-thoughts/</id><summary type="html">&lt;p&gt;Notes and Thoughts about the Taiwan Student Cluster Competition 2015&lt;/p&gt;</summary><content type="html">&lt;p&gt;又是一篇遲來的文章&lt;br&gt;
+&lt;/ul&gt;</content><category term="iThome"></category><category term="iThelp"></category><category term="2018 iT 邦幫忙鐵人賽"></category></entry><entry><title>TSCC 2015 Notes and Thoughts</title><link href="https://blog.fkz.tw/posts/2015/09/15/tscc-2015-notes-and-thoughts/" rel="alternate"></link><published>2015-09-15T00:18:11+08:00</published><updated>2015-09-15T00:18:11+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2015-09-15:/posts/2015/09/15/tscc-2015-notes-and-thoughts/</id><summary type="html">&lt;p&gt;Notes and Thoughts about the Taiwan Student Cluster Competition 2015&lt;/p&gt;</summary><content type="html">&lt;p&gt;又是一篇遲來的文章&lt;br&gt;
 這比賽是在今年的 6/4, 6/5 兩天比的&lt;br&gt;
 心得跟紀錄拖到現在才寫...  &lt;/p&gt;
 &lt;hr&gt;
@@ -134,7 +134,7 @@
 再多多惡補些 CUDA 跟平行運算相關的知識。&lt;br&gt;
 大概到半夜3點多才睡吧。&lt;br&gt;
 (其中意外發現PTT上有一個還不錯的 CUDA 入門系列，&lt;br&gt;
-整理在這 &lt;a href="https://m157q.github.io/posts/2015/08/15/nice-series-of-cuda-tutorials-on-ptt-cc/"&gt;Nice Series of CUDA Tutorials on ptt.cc | Just for noting&lt;/a&gt;)  &lt;/p&gt;
+整理在這 &lt;a href="https://fkz.github.io/posts/2015/08/15/nice-series-of-cuda-tutorials-on-ptt-cc/"&gt;Nice Series of CUDA Tutorials on ptt.cc | Just for noting&lt;/a&gt;)  &lt;/p&gt;
 &lt;p&gt;隔天一早9點，又到國網中心繼續第二天的比賽，&lt;br&gt;
 小趴和喜德繼續處理昨天的 Einstein Toolkit 問題，&lt;br&gt;
 divazone 則是準備他負責的 LAMMPS 部份，&lt;br&gt;
@@ -219,7 +219,7 @@ divazone 則是準備他負責的 LAMMPS 部份，&lt;br&gt;
 &lt;h3&gt;多核心高效能程式調教&lt;/h3&gt;
 &lt;p&gt;隨著多核心系統日益普遍，無論桌上型電腦、筆記型電腦甚至平板電腦或智慧型手機皆採用多核心處理器。如何充分使用多核心處理器所帶來的效能優勢進行工程科學計算，成為研究人員重要的課題。  &lt;/p&gt;
 &lt;p&gt;多核心高效能程式調教試題將以工程科學計算作為案例提供Serial程式，參賽隊伍將可依計算環境、演算法特性等，透過平行程式語言(如：OpenMP、MPI、CUDA、OpenCL等)在競賽中所架設之環境進行平行效能測試。  &lt;/p&gt;
-&lt;p&gt;希望參賽者利用對題目的了解、分析平行效率的瓶頸與瞭解平行程式撰寫，調整平行計算環境的設定，進而發揮最佳的平行計算效能；藉此增加對高速計算軟硬體環境之經驗。  &lt;/p&gt;</content><category term="Thought"></category><category term="TSCC"></category><category term="HPC"></category><category term="Competition"></category><category term="Cluster"></category></entry><entry><title>0CTF 2015 Note</title><link href="https://blog.m157q.tw/posts/2015/03/30/0ctf-2015-note/" rel="alternate"></link><published>2015-03-30T18:15:23+08:00</published><updated>2015-03-30T18:15:23+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2015-03-30:/posts/2015/03/30/0ctf-2015-note/</id><summary type="html">&lt;p&gt;A note for 0CTF 2015&lt;/p&gt;</summary><content type="html">&lt;h1&gt;web / mislead&lt;/h1&gt;
+&lt;p&gt;希望參賽者利用對題目的了解、分析平行效率的瓶頸與瞭解平行程式撰寫，調整平行計算環境的設定，進而發揮最佳的平行計算效能；藉此增加對高速計算軟硬體環境之經驗。  &lt;/p&gt;</content><category term="Thought"></category><category term="TSCC"></category><category term="HPC"></category><category term="Competition"></category><category term="Cluster"></category></entry><entry><title>0CTF 2015 Note</title><link href="https://blog.fkz.tw/posts/2015/03/30/0ctf-2015-note/" rel="alternate"></link><published>2015-03-30T18:15:23+08:00</published><updated>2015-03-30T18:15:23+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2015-03-30:/posts/2015/03/30/0ctf-2015-note/</id><summary type="html">&lt;p&gt;A note for 0CTF 2015&lt;/p&gt;</summary><content type="html">&lt;h1&gt;web / mislead&lt;/h1&gt;
 &lt;p&gt;Padding Oralcle Attack in Cookie  &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Padding_oracle_attack"&gt;https://en.wikipedia.org/wiki/Padding_oracle_attack&lt;/a&gt;  &lt;/li&gt;

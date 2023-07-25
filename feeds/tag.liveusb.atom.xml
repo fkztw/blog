@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - LiveUSB</title><link href="https://blog.m157q.tw/" rel="alternate"></link><link href="https://blog.m157q.tw/feeds/tag.liveusb.atom.xml" rel="self"></link><id>https://blog.m157q.tw/</id><updated>2015-10-28T14:36:00+08:00</updated><subtitle></subtitle><entry><title>Boot LiveUSB in VirtualBox 4.3.18</title><link href="https://blog.m157q.tw/posts/2014/12/04/boot-liveusb-in-virtualbox-4-3-18/" rel="alternate"></link><published>2014-12-04T04:21:00+08:00</published><updated>2015-10-28T14:36:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2014-12-04:/posts/2014/12/04/boot-liveusb-in-virtualbox-4-3-18/</id><summary type="html">&lt;h2&gt;Steps&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - LiveUSB</title><link href="https://blog.fkz.tw/" rel="alternate"></link><link href="https://blog.fkz.tw/feeds/tag.liveusb.atom.xml" rel="self"></link><id>https://blog.fkz.tw/</id><updated>2015-10-28T14:36:00+08:00</updated><subtitle></subtitle><entry><title>Boot LiveUSB in VirtualBox 4.3.18</title><link href="https://blog.fkz.tw/posts/2014/12/04/boot-liveusb-in-virtualbox-4-3-18/" rel="alternate"></link><published>2014-12-04T04:21:00+08:00</published><updated>2015-10-28T14:36:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2014-12-04:/posts/2014/12/04/boot-liveusb-in-virtualbox-4-3-18/</id><summary type="html">&lt;h2&gt;Steps&lt;/h2&gt;
 &lt;h3&gt;1.&lt;/h3&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ sudo chown m157q …&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;h2&gt;Steps&lt;/h2&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ sudo chown fkz …&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;h2&gt;Steps&lt;/h2&gt;
 &lt;h3&gt;1.&lt;/h3&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ sudo chown m157q /dev/disk1  
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ sudo chown fkz /dev/disk1  
 &lt;/pre&gt;&lt;/div&gt;
 
 

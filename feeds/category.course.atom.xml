@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - Course</title><link href="https://blog.m157q.tw/" rel="alternate"></link><link href="https://blog.m157q.tw/feeds/category.course.atom.xml" rel="self"></link><id>https://blog.m157q.tw/</id><updated>2018-10-31T06:15:43+08:00</updated><subtitle></subtitle><entry><title>Compiler Design Week 7</title><link href="https://blog.m157q.tw/posts/2015/04/07/compiler-design-week-7/" rel="alternate"></link><published>2015-04-07T15:40:11+08:00</published><updated>2015-04-07T15:40:11+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2015-04-07:/posts/2015/04/07/compiler-design-week-7/</id><summary type="html">&lt;p&gt;Note for Compiler Design Course in NTHU - Week 7&lt;/p&gt;</summary><content type="html">&lt;h3&gt;LL(1) - Top-Down parsing&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for noting - Course</title><link href="https://blog.fkz.tw/" rel="alternate"></link><link href="https://blog.fkz.tw/feeds/category.course.atom.xml" rel="self"></link><id>https://blog.fkz.tw/</id><updated>2018-10-31T06:15:43+08:00</updated><subtitle></subtitle><entry><title>Compiler Design Week 7</title><link href="https://blog.fkz.tw/posts/2015/04/07/compiler-design-week-7/" rel="alternate"></link><published>2015-04-07T15:40:11+08:00</published><updated>2015-04-07T15:40:11+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2015-04-07:/posts/2015/04/07/compiler-design-week-7/</id><summary type="html">&lt;p&gt;Note for Compiler Design Course in NTHU - Week 7&lt;/p&gt;</summary><content type="html">&lt;h3&gt;LL(1) - Top-Down parsing&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;No ambiguous or left recursive grammar can be LL(1).&lt;ul&gt;
 &lt;li&gt;ambiguous grammar 要先轉成 unambiguous grammar 才有辦法轉 LL(1)&lt;/li&gt;
@@ -143,7 +143,7 @@
 &lt;span class="err"&gt;T  -&amp;gt; FT&amp;#39;&lt;/span&gt;
 &lt;span class="err"&gt;T&amp;#39; -&amp;gt; *FT&amp;#39; | ε&lt;/span&gt;
 &lt;span class="err"&gt;F  -&amp;gt; id | (E)&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;</content><category term="Course"></category><category term="Compiler"></category></entry><entry><title>Compiler Design Week 5</title><link href="https://blog.m157q.tw/posts/2015/03/24/compiler-design-week-5/" rel="alternate"></link><published>2015-03-24T16:29:38+08:00</published><updated>2015-03-24T16:29:38+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2015-03-24:/posts/2015/03/24/compiler-design-week-5/</id><summary type="html">&lt;p&gt;Note for Compiler Design Course in NTHU - Week 5&lt;/p&gt;</summary><content type="html">&lt;h1&gt;2015/03/24&lt;/h1&gt;
+&lt;/pre&gt;&lt;/div&gt;</content><category term="Course"></category><category term="Compiler"></category></entry><entry><title>Compiler Design Week 5</title><link href="https://blog.fkz.tw/posts/2015/03/24/compiler-design-week-5/" rel="alternate"></link><published>2015-03-24T16:29:38+08:00</published><updated>2015-03-24T16:29:38+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2015-03-24:/posts/2015/03/24/compiler-design-week-5/</id><summary type="html">&lt;p&gt;Note for Compiler Design Course in NTHU - Week 5&lt;/p&gt;</summary><content type="html">&lt;h1&gt;2015/03/24&lt;/h1&gt;
 &lt;h2&gt;NFA (with ε closure) 轉 DFA&lt;/h2&gt;
 &lt;h2&gt;Minimizing the number of states of a DFA&lt;/h2&gt;
 &lt;ul&gt;
@@ -161,7 +161,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;If A is a set with a partition and R is the relation induced by the partition, then R is an equivalence relation.&lt;/li&gt;
-&lt;/ul&gt;</content><category term="Course"></category><category term="Compiler"></category></entry><entry><title>Technology Entrepreneurship Week 5</title><link href="https://blog.m157q.tw/posts/2015/03/24/technology-entrepreneurship-week-5/" rel="alternate"></link><published>2015-03-24T12:27:31+08:00</published><updated>2015-03-24T16:27:20+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2015-03-24:/posts/2015/03/24/technology-entrepreneurship-week-5/</id><summary type="html">&lt;p&gt;Note for the Technology Entrepreneurship Course in NCTU.&lt;/p&gt;</summary><content type="html">&lt;h2&gt;2015/03/24&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="Course"></category><category term="Compiler"></category></entry><entry><title>Technology Entrepreneurship Week 5</title><link href="https://blog.fkz.tw/posts/2015/03/24/technology-entrepreneurship-week-5/" rel="alternate"></link><published>2015-03-24T12:27:31+08:00</published><updated>2015-03-24T16:27:20+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2015-03-24:/posts/2015/03/24/technology-entrepreneurship-week-5/</id><summary type="html">&lt;p&gt;Note for the Technology Entrepreneurship Course in NCTU.&lt;/p&gt;</summary><content type="html">&lt;h2&gt;2015/03/24&lt;/h2&gt;
 &lt;h1&gt;Information about the speech&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Volunteer Entrepreneur to Global Entrepreneur&lt;/li&gt;
@@ -263,7 +263,7 @@
 &lt;li&gt;
 &lt;p&gt;“Why you kept talking about that we NCTU students is better than NTU students and know more about how to cooperate with other people without giving any improvement? As myself experience, I have some NTU friends who really know how to cooperate with their teammates. Also, I think NTU is a better place for students to build a startup because there are more and diversified departments in NTU while most of departments in NCTU are all science-related.”&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Entrepreneurship"></category><category term="speech"></category></entry><entry><title>Compiler Design Week 4</title><link href="https://blog.m157q.tw/posts/2015/03/19/compiler-design-week-4/" rel="alternate"></link><published>2015-03-19T15:45:20+08:00</published><updated>2015-03-19T15:45:20+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2015-03-19:/posts/2015/03/19/compiler-design-week-4/</id><summary type="html">&lt;p&gt;Note for Compiler Design Course in NTHU - Week 4&lt;/p&gt;</summary><content type="html">&lt;h1&gt;2015/03/17&lt;/h1&gt;
+&lt;/ul&gt;</content><category term="Entrepreneurship"></category><category term="speech"></category></entry><entry><title>Compiler Design Week 4</title><link href="https://blog.fkz.tw/posts/2015/03/19/compiler-design-week-4/" rel="alternate"></link><published>2015-03-19T15:45:20+08:00</published><updated>2015-03-19T15:45:20+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2015-03-19:/posts/2015/03/19/compiler-design-week-4/</id><summary type="html">&lt;p&gt;Note for Compiler Design Course in NTHU - Week 4&lt;/p&gt;</summary><content type="html">&lt;h1&gt;2015/03/17&lt;/h1&gt;
 &lt;p&gt;HW1 Released.&lt;br&gt;
 see &lt;a href="https://github.com/M157q/Compiler_NTHU_hw1"&gt;https://github.com/M157q/Compiler_NTHU_hw1&lt;/a&gt;&lt;br&gt;
 清大的作業真的比交大簡單很多&lt;br&gt;
@@ -274,7 +274,7 @@ scanner 竟然只要滿足一個測資...  &lt;/p&gt;
 &lt;h2&gt;NFA&lt;/h2&gt;
 &lt;p&gt;ε =&amp;gt; empty string  &lt;/p&gt;
 &lt;h2&gt;Regex 轉 NFA&lt;/h2&gt;
-&lt;h2&gt;NFA (without empty string move) 轉 DFA&lt;/h2&gt;</content><category term="Course"></category><category term="Compiler"></category></entry><entry><title>Compiler Design Week 3</title><link href="https://blog.m157q.tw/posts/2015/03/10/compiler-design-week-3/" rel="alternate"></link><published>2015-03-10T15:47:17+08:00</published><updated>2015-03-19T16:00:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2015-03-10:/posts/2015/03/10/compiler-design-week-3/</id><summary type="html">&lt;p&gt;Note for Compiler Design Course in NTHU - Week 3&lt;/p&gt;</summary><content type="html">&lt;h2&gt;2015/03/10&lt;/h2&gt;
+&lt;h2&gt;NFA (without empty string move) 轉 DFA&lt;/h2&gt;</content><category term="Course"></category><category term="Compiler"></category></entry><entry><title>Compiler Design Week 3</title><link href="https://blog.fkz.tw/posts/2015/03/10/compiler-design-week-3/" rel="alternate"></link><published>2015-03-10T15:47:17+08:00</published><updated>2015-03-19T16:00:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2015-03-10:/posts/2015/03/10/compiler-design-week-3/</id><summary type="html">&lt;p&gt;Note for Compiler Design Course in NTHU - Week 3&lt;/p&gt;</summary><content type="html">&lt;h2&gt;2015/03/10&lt;/h2&gt;
 &lt;h3&gt;Left-Recursion Grammar &amp;amp; Right-Recursion Grammar&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;兩者可以互轉&lt;/li&gt;
@@ -326,7 +326,7 @@ scanner 竟然只要滿足一個測資...  &lt;/p&gt;
 &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Thompson%27s_construction_algorithm"&gt;Thompson's construction algorithm - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Transforms a given regular expression into an equivalent nondeterministic finite automaton (NFA)&lt;/li&gt;
 &lt;li&gt;Establishing a conversion between two of many description formats for regular languages.&lt;/li&gt;
-&lt;/ul&gt;</content><category term="Cousre"></category><category term="Compiler"></category></entry><entry><title>FOSSAPC 2015 Spring Week #2</title><link href="https://blog.m157q.tw/posts/2015/03/09/fossapc-2015-spring-week-2/" rel="alternate"></link><published>2015-03-09T23:40:43+08:00</published><updated>2018-10-31T06:15:43+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2015-03-09:/posts/2015/03/09/fossapc-2015-spring-week-2/</id><summary type="html">&lt;p&gt;A note for 2015 FOSS course in NCTU, Hsinchu, Taiwan&lt;/p&gt;</summary><content type="html">&lt;p&gt;因為配合課程的需求
+&lt;/ul&gt;</content><category term="Cousre"></category><category term="Compiler"></category></entry><entry><title>FOSSAPC 2015 Spring Week #2</title><link href="https://blog.fkz.tw/posts/2015/03/09/fossapc-2015-spring-week-2/" rel="alternate"></link><published>2015-03-09T23:40:43+08:00</published><updated>2018-10-31T06:15:43+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2015-03-09:/posts/2015/03/09/fossapc-2015-spring-week-2/</id><summary type="html">&lt;p&gt;A note for 2015 FOSS course in NCTU, Hsinchu, Taiwan&lt;/p&gt;</summary><content type="html">&lt;p&gt;因為配合課程的需求
 就直接看 Hackpad 吧&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;（舊連結）&lt;a href="https://fossapc.hackpad.com/2015-FOSS-Week-2-Note#2015-FOSS-Week-2-Note"&gt;2015 FOSS Week #2 Note - fossapc.hackpad.com&lt;/a&gt;&lt;/li&gt;
@@ -563,7 +563,7 @@ A6: 沒聽過
 Jserv: Nortel 是加拿大的一間電信公司 (2009 年申請破產)，中文名叫做北電，一度是世界上最大的通訊製造商，對 free software 做了頗多貢獻
 &lt;a href="http://www.nortel.com"&gt;http://www.nortel.com&lt;/a&gt;
 Q7: 如何以C program寫字串"C:\windows\temp" ?
-A7: 跳脫字元, "C:\windows\temp"&lt;/p&gt;</content><category term="Course"></category><category term="FOSS"></category></entry><entry><title>Compiler Design week 2</title><link href="https://blog.m157q.tw/posts/2015/03/03/compiler-design-week-2/" rel="alternate"></link><published>2015-03-03T15:46:36+08:00</published><updated>2015-03-05T15:38:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2015-03-03:/posts/2015/03/03/compiler-design-week-2/</id><summary type="html">&lt;p&gt;Note for Compiler Design Course in NTHU - week 2&lt;/p&gt;</summary><content type="html">&lt;h2&gt;2015/03/03&lt;/h2&gt;
+A7: 跳脫字元, "C:\windows\temp"&lt;/p&gt;</content><category term="Course"></category><category term="FOSS"></category></entry><entry><title>Compiler Design week 2</title><link href="https://blog.fkz.tw/posts/2015/03/03/compiler-design-week-2/" rel="alternate"></link><published>2015-03-03T15:46:36+08:00</published><updated>2015-03-05T15:38:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2015-03-03:/posts/2015/03/03/compiler-design-week-2/</id><summary type="html">&lt;p&gt;Note for Compiler Design Course in NTHU - week 2&lt;/p&gt;</summary><content type="html">&lt;h2&gt;2015/03/03&lt;/h2&gt;
 &lt;h3&gt;Evolution of Programming Languages&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/List_of_programming_languages_by_type"&gt;List of programming languages by type - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/li&gt;
@@ -742,7 +742,7 @@ A7: 跳脫字元, "C:\windows\temp"&lt;/p&gt;</content><category term="Course"><
 &lt;li&gt;Precedence 高的在內部&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Course"></category><category term="Compiler"></category></entry><entry><title>FOSSAPC 2015 Spring Week #1</title><link href="https://blog.m157q.tw/posts/2015/03/02/fossapc-2015-spring-week-1/" rel="alternate"></link><published>2015-03-02T12:57:15+08:00</published><updated>2018-10-31T06:13:39+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2015-03-02:/posts/2015/03/02/fossapc-2015-spring-week-1/</id><summary type="html">&lt;p&gt;A note for 2015 FOSSAPC course in NCTU, Hsinchu, Taiwan&lt;/p&gt;</summary><content type="html">&lt;p&gt;配合課程使用 Hackpad
+&lt;/ul&gt;</content><category term="Course"></category><category term="Compiler"></category></entry><entry><title>FOSSAPC 2015 Spring Week #1</title><link href="https://blog.fkz.tw/posts/2015/03/02/fossapc-2015-spring-week-1/" rel="alternate"></link><published>2015-03-02T12:57:15+08:00</published><updated>2018-10-31T06:13:39+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2015-03-02:/posts/2015/03/02/fossapc-2015-spring-week-1/</id><summary type="html">&lt;p&gt;A note for 2015 FOSSAPC course in NCTU, Hsinchu, Taiwan&lt;/p&gt;</summary><content type="html">&lt;p&gt;配合課程使用 Hackpad
 後續更新請看：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;（舊連結）&lt;a href="https://fossapc.hackpad.com/2015-FOSS-Week-1-Note-JHXVNsJzbeX"&gt;2015 FOSS Week #1 Note - fossapc.hackpad.com&lt;/a&gt;&lt;/li&gt;
@@ -877,7 +877,7 @@ A7: 跳脫字元, "C:\windows\temp"&lt;/p&gt;</content><category term="Course"><
 &lt;blockquote&gt;
 &lt;p&gt;Linking the Object code File
 ...Linux comes with its own linker, called ld. (The name is actually short for "load", and "loader" was what linkers were originally called, in the First Age of Unix, back in the 1970s.)&lt;/p&gt;
-&lt;/blockquote&gt;</content><category term="Course"></category><category term="FOSS"></category><category term="Open Source"></category><category term="Free Software"></category></entry><entry><title>Compiler Design Week 1</title><link href="https://blog.m157q.tw/posts/2015/02/24/compiler-design-week-1/" rel="alternate"></link><published>2015-02-24T16:08:47+08:00</published><updated>2015-02-26T16:40:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2015-02-24:/posts/2015/02/24/compiler-design-week-1/</id><summary type="html">&lt;p&gt;Note for Compiler Design Course in NTHU - week1&lt;/p&gt;</summary><content type="html">&lt;h3&gt;2015/02/24&lt;/h3&gt;
+&lt;/blockquote&gt;</content><category term="Course"></category><category term="FOSS"></category><category term="Open Source"></category><category term="Free Software"></category></entry><entry><title>Compiler Design Week 1</title><link href="https://blog.fkz.tw/posts/2015/02/24/compiler-design-week-1/" rel="alternate"></link><published>2015-02-24T16:08:47+08:00</published><updated>2015-02-26T16:40:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2015-02-24:/posts/2015/02/24/compiler-design-week-1/</id><summary type="html">&lt;p&gt;Note for Compiler Design Course in NTHU - week1&lt;/p&gt;</summary><content type="html">&lt;h3&gt;2015/02/24&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Andes Assembly&lt;/li&gt;
 &lt;li&gt;Fabless IC Design House in Taiwn&lt;ul&gt;
@@ -930,7 +930,7 @@ A7: 跳脫字元, "C:\windows\temp"&lt;/p&gt;</content><category term="Course"><
 &lt;li&gt;C#, VB, VC++, =&amp;gt; MSIL (MiscroSoft Intermediate Language) =&amp;gt; .Net&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Course"></category><category term="Compiler"></category></entry><entry><title>Intro CompSec Hw1</title><link href="https://blog.m157q.tw/posts/2014/12/18/intro-compsec-hw1/" rel="alternate"></link><published>2014-12-18T16:51:00+08:00</published><updated>2014-12-18T16:51:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2014-12-18:/posts/2014/12/18/intro-compsec-hw1/</id><summary type="html">&lt;h3&gt;Introduction to Computer Security HW1 …&lt;/h3&gt;</summary><content type="html">&lt;h3&gt;Introduction to Computer Security HW1&lt;/h3&gt;
+&lt;/ul&gt;</content><category term="Course"></category><category term="Compiler"></category></entry><entry><title>Intro CompSec Hw1</title><link href="https://blog.fkz.tw/posts/2014/12/18/intro-compsec-hw1/" rel="alternate"></link><published>2014-12-18T16:51:00+08:00</published><updated>2014-12-18T16:51:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2014-12-18:/posts/2014/12/18/intro-compsec-hw1/</id><summary type="html">&lt;h3&gt;Introduction to Computer Security HW1 …&lt;/h3&gt;</summary><content type="html">&lt;h3&gt;Introduction to Computer Security HW1&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;Select a web site.  &lt;ul&gt;
 &lt;li&gt;Use “Wget” or “Teleport Pro” to mirror the site. Look for comments within comment tags. Give screen dumps and explain what you found.  &lt;ul&gt;
@@ -1171,7 +1171,7 @@ Finally, he used the triangle localization to find someone's girlfriend in reali
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ol&gt;</content><category term="Security"></category></entry><entry><title>Network Security Second Midterm</title><link href="https://blog.m157q.tw/posts/2014/12/08/network-security-second-midterm/" rel="alternate"></link><published>2014-12-08T09:56:00+08:00</published><updated>2014-12-08T09:56:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2014-12-08:/posts/2014/12/08/network-security-second-midterm/</id><summary type="html">&lt;p&gt;Find the answers for the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Find the answers for the questions I am not sure about.  &lt;/p&gt;
+&lt;/ol&gt;</content><category term="Security"></category></entry><entry><title>Network Security Second Midterm</title><link href="https://blog.fkz.tw/posts/2014/12/08/network-security-second-midterm/" rel="alternate"></link><published>2014-12-08T09:56:00+08:00</published><updated>2014-12-08T09:56:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2014-12-08:/posts/2014/12/08/network-security-second-midterm/</id><summary type="html">&lt;p&gt;Find the answers for the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Find the answers for the questions I am not sure about.  &lt;/p&gt;
 &lt;h3&gt;Q: Is it correct that a certificate contains both the public key and private key of a user? Who should sign a certificate? why?&lt;/h3&gt;
 &lt;h3&gt;A: No, only the public key. The trusted Third Party (usually CA) should sign a certificate in order to let anyone needing this user’s public key can obtain the certificate and verify that it is valid by way of the attached trusted signature.&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="1.png" src="/files/network-security-second-midterm/1.png"&gt;  &lt;/p&gt;
@@ -1220,7 +1220,7 @@ Finally, he used the triangle localization to find someone's girlfriend in reali
 &lt;h3&gt;ESP Encryption and Authentication&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="9.png" src="/files/network-security-second-midterm/9.png"&gt;  &lt;/p&gt;
 &lt;h3&gt;ESP Transport mode &amp;amp; Tunnel mode&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="10.png" src="/files/network-security-second-midterm/10.png"&gt;  &lt;/p&gt;</content><category term="NetSec"></category><category term="Security"></category></entry><entry><title>Embedded System Design</title><link href="https://blog.m157q.tw/posts/2014/11/06/embedded-system-design/" rel="alternate"></link><published>2014-11-06T01:27:00+08:00</published><updated>2014-11-06T01:27:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2014-11-06:/posts/2014/11/06/embedded-system-design/</id><summary type="html">&lt;ul&gt;
+&lt;p&gt;&lt;img alt="10.png" src="/files/network-security-second-midterm/10.png"&gt;  &lt;/p&gt;</content><category term="NetSec"></category><category term="Security"></category></entry><entry><title>Embedded System Design</title><link href="https://blog.fkz.tw/posts/2014/11/06/embedded-system-design/" rel="alternate"></link><published>2014-11-06T01:27:00+08:00</published><updated>2014-11-06T01:27:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2014-11-06:/posts/2014/11/06/embedded-system-design/</id><summary type="html">&lt;ul&gt;
 &lt;li&gt;School: NCTU  &lt;/li&gt;
 &lt;li&gt;Semester: 【103 First …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;ul&gt;
 &lt;li&gt;School: NCTU  &lt;/li&gt;
@@ -1230,7 +1230,7 @@ Finally, he used the triangle localization to find someone's girlfriend in reali
 &lt;li&gt;Instructor: Prof. 曹孝櫟  &lt;/li&gt;
 &lt;li&gt;Equipment: Xilinx &lt;a href="http://zedboard.org/"&gt;ZedBoard&lt;/a&gt;  &lt;/li&gt;
 &lt;li&gt;Note: &lt;a href="https://nctu_esd_2014_fall.hackpad.com/"&gt;https://nctu_esd_2014_fall.hackpad.com/&lt;/a&gt;  &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Xilinx"></category><category term="Zedboard"></category><category term="Embedded System"></category></entry><entry><title>Artificial Intelligence Online Course</title><link href="https://blog.m157q.tw/posts/2014/02/27/artificial-intelligence-online-course/" rel="alternate"></link><published>2014-02-27T13:23:00+08:00</published><updated>2014-02-27T13:23:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2014-02-27:/posts/2014/02/27/artificial-intelligence-online-course/</id><summary type="html">&lt;p&gt;因為學校教授講課實在是太雜亂了  &lt;/p&gt;
+&lt;/ul&gt;</content><category term="Xilinx"></category><category term="Zedboard"></category><category term="Embedded System"></category></entry><entry><title>Artificial Intelligence Online Course</title><link href="https://blog.fkz.tw/posts/2014/02/27/artificial-intelligence-online-course/" rel="alternate"></link><published>2014-02-27T13:23:00+08:00</published><updated>2014-02-27T13:23:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2014-02-27:/posts/2014/02/27/artificial-intelligence-online-course/</id><summary type="html">&lt;p&gt;因為學校教授講課實在是太雜亂了  &lt;/p&gt;
 &lt;p&gt;幾乎抓不太到重點  &lt;/p&gt;
 &lt;p&gt;我覺得 AI 不應該是上起來這麼無聊雜亂的課 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;因為學校教授講課實在是太雜亂了  &lt;/p&gt;
 &lt;p&gt;幾乎抓不太到重點  &lt;/p&gt;
@@ -1248,7 +1248,7 @@ Finally, he used the triangle localization to find someone's girlfriend in reali
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.efytimes.com/e1/fullnews.asp?edid=127676"&gt;10 Online Courses To Learn Artificial Intelligence!&lt;/a&gt;  &lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.efytimes.com/e1/fullnews.asp?edid=131896"&gt;6 Best Websites On Aritificial Intelligence!&lt;/a&gt;  &lt;/li&gt;
-&lt;/ul&gt;</content><category term="AI"></category><category term="MITOCW"></category><category term="Coursera"></category><category term="Artificial Intelligence"></category></entry><entry><title>資訊工程研討 - 台灣資安防護及技術發展現況</title><link href="https://blog.m157q.tw/posts/2013/12/17/computer-science-seminars-the-status-of-computer-security-in-taiwan/" rel="alternate"></link><published>2013-12-17T06:59:00+08:00</published><updated>2013-12-17T06:59:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-12-17:/posts/2013/12/17/computer-science-seminars-the-status-of-computer-security-in-taiwan/</id><summary type="html">&lt;h2&gt;Title: 台灣資安防護及技術發展現況&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="AI"></category><category term="MITOCW"></category><category term="Coursera"></category><category term="Artificial Intelligence"></category></entry><entry><title>資訊工程研討 - 台灣資安防護及技術發展現況</title><link href="https://blog.fkz.tw/posts/2013/12/17/computer-science-seminars-the-status-of-computer-security-in-taiwan/" rel="alternate"></link><published>2013-12-17T06:59:00+08:00</published><updated>2013-12-17T06:59:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-12-17:/posts/2013/12/17/computer-science-seminars-the-status-of-computer-security-in-taiwan/</id><summary type="html">&lt;h2&gt;Title: 台灣資安防護及技術發展現況&lt;/h2&gt;
 &lt;h2&gt;Spearker: &lt;a href="http://www.bost.ey.gov.tw/cp.aspx?n=34034779A580C772"&gt;黃彥男 博士 …&lt;/a&gt;&lt;/h2&gt;</summary><content type="html">&lt;h2&gt;Title: 台灣資安防護及技術發展現況&lt;/h2&gt;
 &lt;h2&gt;Spearker: &lt;a href="http://www.bost.ey.gov.tw/cp.aspx?n=34034779A580C772"&gt;黃彥男 博士/ 行政院科技會報辦公室副執行秘書&lt;/a&gt;&lt;/h2&gt;
 &lt;hr&gt;
@@ -1369,7 +1369,7 @@ Finally, he used the triangle localization to find someone's girlfriend in reali
 &lt;/li&gt;
 &lt;li&gt;Free DNS are bad  &lt;/li&gt;
 &lt;li&gt;蒐集資料、建關係圖、找出  &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Information Security"></category><category term="Hacking"></category><category term="Network Attack"></category><category term="InfoSec"></category><category term="Security"></category></entry><entry><title>SNTT week13 - Introduction to Advertisement Eco System</title><link href="https://blog.m157q.tw/posts/2013/12/10/sntt-week13-introduction-to-advertisement-eco-system/" rel="alternate"></link><published>2013-12-10T13:11:00+08:00</published><updated>2013-12-10T13:11:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-12-10:/posts/2013/12/10/sntt-week13-introduction-to-advertisement-eco-system/</id><summary type="html">&lt;ul&gt;
+&lt;/ul&gt;</content><category term="Information Security"></category><category term="Hacking"></category><category term="Network Attack"></category><category term="InfoSec"></category><category term="Security"></category></entry><entry><title>SNTT week13 - Introduction to Advertisement Eco System</title><link href="https://blog.fkz.tw/posts/2013/12/10/sntt-week13-introduction-to-advertisement-eco-system/" rel="alternate"></link><published>2013-12-10T13:11:00+08:00</published><updated>2013-12-10T13:11:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-12-10:/posts/2013/12/10/sntt-week13-introduction-to-advertisement-eco-system/</id><summary type="html">&lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.google.com/analytics/web/"&gt;Google Analytics&lt;/a&gt;  &lt;ul&gt;
 &lt;li&gt;幫助分析流量、客源...等等 …&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.google.com/analytics/web/"&gt;Google Analytics&lt;/a&gt;  &lt;ul&gt;
@@ -1415,7 +1415,7 @@ Finally, he used the triangle localization to find someone's girlfriend in reali
 &lt;li&gt;Facebook  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="SNTT"></category><category term="Advertisement"></category><category term="digital advertising"></category></entry><entry><title>ITC week10 - Key Management and Distribution</title><link href="https://blog.m157q.tw/posts/2013/11/27/itc-week10-key-management-and-distribution/" rel="alternate"></link><published>2013-11-27T04:09:00+08:00</published><updated>2013-11-27T04:09:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-27:/posts/2013/11/27/itc-week10-key-management-and-distribution/</id><summary type="html">&lt;h2&gt;NCTUCS 2013-Fall Introduction to Cryptography …&lt;/h2&gt;</summary><content type="html">&lt;h2&gt;NCTUCS 2013-Fall Introduction to Cryptography by Professor Rong-Jaye Chen.&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="SNTT"></category><category term="Advertisement"></category><category term="digital advertising"></category></entry><entry><title>ITC week10 - Key Management and Distribution</title><link href="https://blog.fkz.tw/posts/2013/11/27/itc-week10-key-management-and-distribution/" rel="alternate"></link><published>2013-11-27T04:09:00+08:00</published><updated>2013-11-27T04:09:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-27:/posts/2013/11/27/itc-week10-key-management-and-distribution/</id><summary type="html">&lt;h2&gt;NCTUCS 2013-Fall Introduction to Cryptography …&lt;/h2&gt;</summary><content type="html">&lt;h2&gt;NCTUCS 2013-Fall Introduction to Cryptography by Professor Rong-Jaye Chen.&lt;/h2&gt;
 &lt;p&gt;今天是 liuyh 講課!  &lt;/p&gt;
 &lt;p&gt;Master key, Session key, X.509, PKI  &lt;/p&gt;
 &lt;ul&gt;
@@ -1581,7 +1581,7 @@ for B: &lt;code&gt;X2&amp;lt;&amp;lt;X1&amp;gt;&amp;gt;X1&amp;lt;&amp;lt;A&amp;g
 &lt;li&gt;PKI Users  &lt;/li&gt;
 &lt;li&gt;CA  &lt;/li&gt;
 &lt;li&gt;&lt;img alt="p.43" src="/files/itc-week10-key-management-and-distribution/p43.jpg"&gt;  &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Cryptography"></category><category term="InfoSec"></category><category term="Security"></category></entry><entry><title>資訊工程研討 - 科學技術與哲學</title><link href="https://blog.m157q.tw/posts/2013/11/26/computer-science-seminars-science-technology-and-philosophy/" rel="alternate"></link><published>2013-11-26T05:36:00+08:00</published><updated>2013-11-26T05:36:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-26:/posts/2013/11/26/computer-science-seminars-science-technology-and-philosophy/</id><summary type="html">&lt;h2&gt;Title: 科學技術與哲學&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="Cryptography"></category><category term="InfoSec"></category><category term="Security"></category></entry><entry><title>資訊工程研討 - 科學技術與哲學</title><link href="https://blog.fkz.tw/posts/2013/11/26/computer-science-seminars-science-technology-and-philosophy/" rel="alternate"></link><published>2013-11-26T05:36:00+08:00</published><updated>2013-11-26T05:36:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-26:/posts/2013/11/26/computer-science-seminars-science-technology-and-philosophy/</id><summary type="html">&lt;h2&gt;Title: 科學技術與哲學&lt;/h2&gt;
 &lt;h2&gt;Spearker: &lt;a href="http://ph.hfu.edu.tw/people/bio.php?PID=4"&gt;伍至學 / 華梵大學哲學系助理教授 …&lt;/a&gt;&lt;/h2&gt;</summary><content type="html">&lt;h2&gt;Title: 科學技術與哲學&lt;/h2&gt;
 &lt;h2&gt;Spearker: &lt;a href="http://ph.hfu.edu.tw/people/bio.php?PID=4"&gt;伍至學 / 華梵大學哲學系助理教授&lt;/a&gt;&lt;/h2&gt;
 &lt;hr&gt;
@@ -1674,7 +1674,7 @@ for B: &lt;code&gt;X2&amp;lt;&amp;lt;X1&amp;gt;&amp;gt;X1&amp;lt;&amp;lt;A&amp;g
 &lt;blockquote&gt;
 &lt;p&gt;科學就是，想盡辦法利用各種技術將永恆世界的真理應用於經驗世界。  &lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h4&gt;結論：我果然不懂哲學。&lt;/h4&gt;</content><category term="Philosophy"></category><category term="Science"></category></entry><entry><title>OS Ch8 - Memory Management</title><link href="https://blog.m157q.tw/posts/2013/11/26/os-ch8-memory-management/" rel="alternate"></link><published>2013-11-26T03:25:00+08:00</published><updated>2013-11-26T03:25:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-26:/posts/2013/11/26/os-ch8-memory-management/</id><summary type="html">&lt;h2&gt;NCTUCS 2013-Fall Introduction to Operating …&lt;/h2&gt;</summary><content type="html">&lt;h2&gt;NCTUCS 2013-Fall Introduction to Operating System by Hank Wu&lt;/h2&gt;
+&lt;h4&gt;結論：我果然不懂哲學。&lt;/h4&gt;</content><category term="Philosophy"></category><category term="Science"></category></entry><entry><title>OS Ch8 - Memory Management</title><link href="https://blog.fkz.tw/posts/2013/11/26/os-ch8-memory-management/" rel="alternate"></link><published>2013-11-26T03:25:00+08:00</published><updated>2013-11-26T03:25:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-26:/posts/2013/11/26/os-ch8-memory-management/</id><summary type="html">&lt;h2&gt;NCTUCS 2013-Fall Introduction to Operating …&lt;/h2&gt;</summary><content type="html">&lt;h2&gt;NCTUCS 2013-Fall Introduction to Operating System by Hank Wu&lt;/h2&gt;
 &lt;h2&gt;Ch8 - Memory Management&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;To provide a detailed description of various ways of organizing memory hardware  &lt;/li&gt;
@@ -1932,7 +1932,7 @@ Segmentation 就是在規劃這些 Address Space 分成不同的 Segment&lt;br&g
 &lt;/blockquote&gt;
 &lt;h3&gt;Three-level Paging in Linux&lt;/h3&gt;
 &lt;p&gt;見 p.59 的圖&lt;br&gt;
-&lt;img alt="Screenshot 11" src="/files/os-ch8-memory-management/screenshot11.jpg"&gt;  &lt;/p&gt;</content><category term="Operating System"></category><category term="Memory Management"></category></entry><entry><title>CO Ch4 - The Processor</title><link href="https://blog.m157q.tw/posts/2013/11/25/co-ch4-the-processor/" rel="alternate"></link><published>2013-11-25T08:22:00+08:00</published><updated>2013-11-25T08:22:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-25:/posts/2013/11/25/co-ch4-the-processor/</id><summary type="html">&lt;h1&gt;NCTUCS 2013-Fall Computer Organizaion by …&lt;/h1&gt;</summary><content type="html">&lt;h1&gt;NCTUCS 2013-Fall Computer Organizaion by Professor Kai-Chiang Wu&lt;/h1&gt;
+&lt;img alt="Screenshot 11" src="/files/os-ch8-memory-management/screenshot11.jpg"&gt;  &lt;/p&gt;</content><category term="Operating System"></category><category term="Memory Management"></category></entry><entry><title>CO Ch4 - The Processor</title><link href="https://blog.fkz.tw/posts/2013/11/25/co-ch4-the-processor/" rel="alternate"></link><published>2013-11-25T08:22:00+08:00</published><updated>2013-11-25T08:22:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-25:/posts/2013/11/25/co-ch4-the-processor/</id><summary type="html">&lt;h1&gt;NCTUCS 2013-Fall Computer Organizaion by …&lt;/h1&gt;</summary><content type="html">&lt;h1&gt;NCTUCS 2013-Fall Computer Organizaion by Professor Kai-Chiang Wu&lt;/h1&gt;
 &lt;h1&gt;Ch4 - The Processor&lt;/h1&gt;
 &lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;ul&gt;
@@ -2278,7 +2278,7 @@ Add hardware to do it in ID stage  &lt;/p&gt;
 &lt;li&gt;Intel Sandy Bridge 的 pipeline 約有 17 個 stage  &lt;/li&gt;
 &lt;li&gt;Intel Sandy Bridge 和 Ivy Bridge 是以色列的研發團隊研發的  &lt;/li&gt;
 &lt;li&gt;Haswell 是美國團隊研發的  &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Computer Organization"></category></entry><entry><title>CO Ch5 - Large and Fast Exploiting Memory Hierarchy</title><link href="https://blog.m157q.tw/posts/2013/11/25/co-ch5-large-and-fast-exploiting-memory-hierarchy/" rel="alternate"></link><published>2013-11-25T07:53:00+08:00</published><updated>2013-11-25T07:53:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-25:/posts/2013/11/25/co-ch5-large-and-fast-exploiting-memory-hierarchy/</id><summary type="html">&lt;h1&gt;NCTUCS 2013-Fall Computer Organizaion by …&lt;/h1&gt;</summary><content type="html">&lt;h1&gt;NCTUCS 2013-Fall Computer Organizaion by Professor Kai-Chiang Wu&lt;/h1&gt;
+&lt;/ul&gt;</content><category term="Computer Organization"></category></entry><entry><title>CO Ch5 - Large and Fast Exploiting Memory Hierarchy</title><link href="https://blog.fkz.tw/posts/2013/11/25/co-ch5-large-and-fast-exploiting-memory-hierarchy/" rel="alternate"></link><published>2013-11-25T07:53:00+08:00</published><updated>2013-11-25T07:53:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-25:/posts/2013/11/25/co-ch5-large-and-fast-exploiting-memory-hierarchy/</id><summary type="html">&lt;h1&gt;NCTUCS 2013-Fall Computer Organizaion by …&lt;/h1&gt;</summary><content type="html">&lt;h1&gt;NCTUCS 2013-Fall Computer Organizaion by Professor Kai-Chiang Wu&lt;/h1&gt;
 &lt;h1&gt;Ch5 - Large and Fast Exploiting Memory Hierarchy&lt;/h1&gt;
 &lt;h2&gt;Memory Technology&lt;/h2&gt;
 &lt;ul&gt;
@@ -2437,7 +2437,7 @@ Add hardware to do it in ID stage  &lt;/p&gt;
 &lt;li&gt;Those Misses could be handled by hardware or software  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Computer Organization"></category></entry><entry><title>ITSE Ch11 - Review Techniques</title><link href="https://blog.m157q.tw/posts/2013/11/25/itse-ch11-review-techniques/" rel="alternate"></link><published>2013-11-25T01:56:00+08:00</published><updated>2013-11-25T01:56:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-25:/posts/2013/11/25/itse-ch11-review-techniques/</id><summary type="html">&lt;h1&gt;NCTUCS 2013-Fall Introduction to Software …&lt;/h1&gt;</summary><content type="html">&lt;h1&gt;NCTUCS 2013-Fall Introduction to Software Engineering by Professor Feng-Jian Wang&lt;/h1&gt;
+&lt;/ul&gt;</content><category term="Computer Organization"></category></entry><entry><title>ITSE Ch11 - Review Techniques</title><link href="https://blog.fkz.tw/posts/2013/11/25/itse-ch11-review-techniques/" rel="alternate"></link><published>2013-11-25T01:56:00+08:00</published><updated>2013-11-25T01:56:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-25:/posts/2013/11/25/itse-ch11-review-techniques/</id><summary type="html">&lt;h1&gt;NCTUCS 2013-Fall Introduction to Software …&lt;/h1&gt;</summary><content type="html">&lt;h1&gt;NCTUCS 2013-Fall Introduction to Software Engineering by Professor Feng-Jian Wang&lt;/h1&gt;
 &lt;h1&gt;Ch11 - Review Techniques&lt;/h1&gt;
 &lt;h2&gt;課前閒聊&lt;/h2&gt;
 &lt;p&gt;SOA&lt;br&gt;
@@ -2492,7 +2492,7 @@ CMMI  &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Review 的時間是有限的  &lt;/li&gt;
 &lt;li&gt;透過 Metric 來衡量 Review 的效果，透過 Metric 的結果檢視並改善 Review 的方法  &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Software Engineering"></category></entry><entry><title>ITSE Ch8 - Conventional Techniques of Design</title><link href="https://blog.m157q.tw/posts/2013/11/25/itse-ch8-conventional-techniques-of-design/" rel="alternate"></link><published>2013-11-25T01:21:00+08:00</published><updated>2013-11-25T01:21:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-25:/posts/2013/11/25/itse-ch8-conventional-techniques-of-design/</id><summary type="html">&lt;h1&gt;NCTUCS 2013-Fall Introduction to Software …&lt;/h1&gt;</summary><content type="html">&lt;h1&gt;NCTUCS 2013-Fall Introduction to Software Engineering by Professor Feng-Jian Wang&lt;/h1&gt;
+&lt;/ul&gt;</content><category term="Software Engineering"></category></entry><entry><title>ITSE Ch8 - Conventional Techniques of Design</title><link href="https://blog.fkz.tw/posts/2013/11/25/itse-ch8-conventional-techniques-of-design/" rel="alternate"></link><published>2013-11-25T01:21:00+08:00</published><updated>2013-11-25T01:21:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-25:/posts/2013/11/25/itse-ch8-conventional-techniques-of-design/</id><summary type="html">&lt;h1&gt;NCTUCS 2013-Fall Introduction to Software …&lt;/h1&gt;</summary><content type="html">&lt;h1&gt;NCTUCS 2013-Fall Introduction to Software Engineering by Professor Feng-Jian Wang&lt;/h1&gt;
 &lt;h1&gt;Ch8 - Conventional Techniques of Design&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;ORB  &lt;/li&gt;
@@ -2656,7 +2656,7 @@ CMMI  &lt;/p&gt;
 &lt;li&gt;Consider resolution and browser window size when designing layout. =&amp;gt; Response Design  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1&gt;Design Evaluation Cycle&lt;/h1&gt;
-&lt;p&gt;&lt;img alt="design evaluation cycle" src="/files/itse-ch8-conventional-techniques-of-design/design-evaluation-cycle.png"&gt;  &lt;/p&gt;</content><category term="Software Engineering"></category></entry><entry><title>ITC week9 - Hash</title><link href="https://blog.m157q.tw/posts/2013/11/22/itc-week9-hash/" rel="alternate"></link><published>2013-11-22T07:43:00+08:00</published><updated>2013-11-22T07:43:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-22:/posts/2013/11/22/itc-week9-hash/</id><summary type="html">&lt;h2&gt;NCTUCS 2013-Fall Introduction to Cryptography …&lt;/h2&gt;</summary><content type="html">&lt;h2&gt;NCTUCS 2013-Fall Introduction to Cryptography by Professor Rong-Jaye Chen.&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="design evaluation cycle" src="/files/itse-ch8-conventional-techniques-of-design/design-evaluation-cycle.png"&gt;  &lt;/p&gt;</content><category term="Software Engineering"></category></entry><entry><title>ITC week9 - Hash</title><link href="https://blog.fkz.tw/posts/2013/11/22/itc-week9-hash/" rel="alternate"></link><published>2013-11-22T07:43:00+08:00</published><updated>2013-11-22T07:43:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-22:/posts/2013/11/22/itc-week9-hash/</id><summary type="html">&lt;h2&gt;NCTUCS 2013-Fall Introduction to Cryptography …&lt;/h2&gt;</summary><content type="html">&lt;h2&gt;NCTUCS 2013-Fall Introduction to Cryptography by Professor Rong-Jaye Chen.&lt;/h2&gt;
 &lt;p&gt;SHA 系列的比較表&lt;br&gt;
 &lt;img alt="SHA series" src="/files/itc-week9-hash/sha-series.jpg"&gt;  &lt;/p&gt;
 &lt;blockquote&gt;
@@ -2675,7 +2675,7 @@ CMMI  &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;W0~W79 共 80 個 Rounds  &lt;/li&gt;
 &lt;li&gt;2012 年 SHA-3 問世  &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Cryptography"></category><category term="Security"></category></entry><entry><title>ITSE Ch1 - Software and Software Engineering</title><link href="https://blog.m157q.tw/posts/2013/11/20/itse-ch1-software-and-software-engineering/" rel="alternate"></link><published>2013-11-20T17:57:00+08:00</published><updated>2013-11-20T17:57:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-20:/posts/2013/11/20/itse-ch1-software-and-software-engineering/</id><summary type="html">&lt;h1&gt;NCTUCS 2013-Fall Introduction to Software …&lt;/h1&gt;</summary><content type="html">&lt;h1&gt;NCTUCS 2013-Fall Introduction to Software Engineering by Professor Feng-Jian Wang&lt;/h1&gt;
+&lt;/ul&gt;</content><category term="Cryptography"></category><category term="Security"></category></entry><entry><title>ITSE Ch1 - Software and Software Engineering</title><link href="https://blog.fkz.tw/posts/2013/11/20/itse-ch1-software-and-software-engineering/" rel="alternate"></link><published>2013-11-20T17:57:00+08:00</published><updated>2013-11-20T17:57:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-20:/posts/2013/11/20/itse-ch1-software-and-software-engineering/</id><summary type="html">&lt;h1&gt;NCTUCS 2013-Fall Introduction to Software …&lt;/h1&gt;</summary><content type="html">&lt;h1&gt;NCTUCS 2013-Fall Introduction to Software Engineering by Professor Feng-Jian Wang&lt;/h1&gt;
 &lt;h1&gt;Ch1 - Software &amp;amp; Software Engineering&lt;/h1&gt;
 &lt;h2&gt;Software—New Categories&lt;/h2&gt;
 &lt;ul&gt;
@@ -2763,7 +2763,7 @@ CMMI  &lt;/p&gt;
 &lt;li&gt;Be Open to the Future  &lt;/li&gt;
 &lt;li&gt;Plan Ahead for Reuse  &lt;/li&gt;
 &lt;li&gt;Think!  &lt;/li&gt;
-&lt;/ol&gt;</content><category term="Software Engineering"></category></entry><entry><title>ITC week8 - LFSR-based Stream Cipher</title><link href="https://blog.m157q.tw/posts/2013/11/20/itc-week8-lfsr-based-stream-cipher/" rel="alternate"></link><published>2013-11-20T04:00:00+08:00</published><updated>2013-11-20T04:00:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-20:/posts/2013/11/20/itc-week8-lfsr-based-stream-cipher/</id><summary type="html">&lt;h1&gt;NCTUCS 2013-Fall Introduction to Cryptography …&lt;/h1&gt;</summary><content type="html">&lt;h1&gt;NCTUCS 2013-Fall Introduction to Cryptography by Professor Rong-Jaye Chen.&lt;/h1&gt;
+&lt;/ol&gt;</content><category term="Software Engineering"></category></entry><entry><title>ITC week8 - LFSR-based Stream Cipher</title><link href="https://blog.fkz.tw/posts/2013/11/20/itc-week8-lfsr-based-stream-cipher/" rel="alternate"></link><published>2013-11-20T04:00:00+08:00</published><updated>2013-11-20T04:00:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-20:/posts/2013/11/20/itc-week8-lfsr-based-stream-cipher/</id><summary type="html">&lt;h1&gt;NCTUCS 2013-Fall Introduction to Cryptography …&lt;/h1&gt;</summary><content type="html">&lt;h1&gt;NCTUCS 2013-Fall Introduction to Cryptography by Professor Rong-Jaye Chen.&lt;/h1&gt;
 &lt;h1&gt;LFSR == Linear Feedback Shift Register&lt;/h1&gt;
 &lt;h2&gt;FSR&lt;/h2&gt;
 &lt;p&gt;Feedback shift register&lt;br&gt;
@@ -2812,7 +2812,7 @@ CMMI  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;GSM A5/1&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/A5/1"&gt;wikipedia - A5/1&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://www.youtube.com/watch?v=LgZAI3DdUA4"&gt;Animation of A5/1 cipher&lt;/a&gt;  &lt;/p&gt;</content><category term="Cryptography"></category><category term="InfoSec"></category><category term="Security"></category></entry><entry><title>OS Ch7 - Deadlocks</title><link href="https://blog.m157q.tw/posts/2013/11/19/os-ch7-deadlocks/" rel="alternate"></link><published>2013-11-19T02:40:00+08:00</published><updated>2013-11-19T02:40:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-19:/posts/2013/11/19/os-ch7-deadlocks/</id><summary type="html">&lt;h1&gt;OS == Operating System&lt;/h1&gt;
+&lt;a href="https://www.youtube.com/watch?v=LgZAI3DdUA4"&gt;Animation of A5/1 cipher&lt;/a&gt;  &lt;/p&gt;</content><category term="Cryptography"></category><category term="InfoSec"></category><category term="Security"></category></entry><entry><title>OS Ch7 - Deadlocks</title><link href="https://blog.fkz.tw/posts/2013/11/19/os-ch7-deadlocks/" rel="alternate"></link><published>2013-11-19T02:40:00+08:00</published><updated>2013-11-19T02:40:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-19:/posts/2013/11/19/os-ch7-deadlocks/</id><summary type="html">&lt;h1&gt;OS == Operating System&lt;/h1&gt;
 &lt;h1&gt;Ch7 - Deadlocks …&lt;/h1&gt;</summary><content type="html">&lt;h1&gt;OS == Operating System&lt;/h1&gt;
 &lt;h1&gt;Ch7 - Deadlocks&lt;/h1&gt;
 &lt;ul&gt;
@@ -3096,7 +3096,7 @@ Resource-Request Algorithm 很少在用，主要的原因是因為 Avaliable 不
 &lt;li&gt;Selecting a victim =&amp;gt; minimize cost  &lt;/li&gt;
 &lt;li&gt;Rollback =&amp;gt; return to some safe state, restart process for that state  &lt;/li&gt;
 &lt;li&gt;Starvation =&amp;gt; same process may always be picked as victim, include number of rollback in cost factor  &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Operating System"></category><category term="Deadlock"></category></entry><entry><title>SNTT week8 - Android App 入門</title><link href="https://blog.m157q.tw/posts/2013/11/12/sntt-week8-introduction-to-android-app/" rel="alternate"></link><published>2013-11-12T13:01:00+08:00</published><updated>2013-11-12T13:01:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-12:/posts/2013/11/12/sntt-week8-introduction-to-android-app/</id><summary type="html">&lt;h1&gt;SNTT == Social Network Technology and …&lt;/h1&gt;</summary><content type="html">&lt;h1&gt;SNTT == Social Network Technology and Trend&lt;/h1&gt;
+&lt;/ul&gt;</content><category term="Operating System"></category><category term="Deadlock"></category></entry><entry><title>SNTT week8 - Android App 入門</title><link href="https://blog.fkz.tw/posts/2013/11/12/sntt-week8-introduction-to-android-app/" rel="alternate"></link><published>2013-11-12T13:01:00+08:00</published><updated>2013-11-12T13:01:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-12:/posts/2013/11/12/sntt-week8-introduction-to-android-app/</id><summary type="html">&lt;h1&gt;SNTT == Social Network Technology and …&lt;/h1&gt;</summary><content type="html">&lt;h1&gt;SNTT == Social Network Technology and Trend&lt;/h1&gt;
 &lt;h1&gt;Android App 入門&lt;/h1&gt;
 &lt;h2&gt;How to work on a Framework&lt;/h2&gt;
 &lt;ul&gt;
@@ -3248,7 +3248,7 @@ Resource-Request Algorithm 很少在用，主要的原因是因為 Avaliable 不
 &lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;寫 App 必須非常重視 UX (User Experience)  &lt;/p&gt;
-&lt;/blockquote&gt;</content><category term="Java"></category><category term="Android"></category></entry><entry><title>資訊工程研討 - Theoretical Foundation Behind Strong Growth of Smartphones</title><link href="https://blog.m157q.tw/posts/2013/11/12/computer-science-seminars-theoretical-foundation-behind-strong-growth-of-smartphones/" rel="alternate"></link><published>2013-11-12T07:14:00+08:00</published><updated>2013-11-12T07:14:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-12:/posts/2013/11/12/computer-science-seminars-theoretical-foundation-behind-strong-growth-of-smartphones/</id><summary type="html">&lt;h2&gt;Title: Theoretical Foundation Behind Strong …&lt;/h2&gt;</summary><content type="html">&lt;h2&gt;Title: Theoretical Foundation Behind Strong Growth of Smartphones&lt;/h2&gt;
+&lt;/blockquote&gt;</content><category term="Java"></category><category term="Android"></category></entry><entry><title>資訊工程研討 - Theoretical Foundation Behind Strong Growth of Smartphones</title><link href="https://blog.fkz.tw/posts/2013/11/12/computer-science-seminars-theoretical-foundation-behind-strong-growth-of-smartphones/" rel="alternate"></link><published>2013-11-12T07:14:00+08:00</published><updated>2013-11-12T07:14:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-12:/posts/2013/11/12/computer-science-seminars-theoretical-foundation-behind-strong-growth-of-smartphones/</id><summary type="html">&lt;h2&gt;Title: Theoretical Foundation Behind Strong …&lt;/h2&gt;</summary><content type="html">&lt;h2&gt;Title: Theoretical Foundation Behind Strong Growth of Smartphones&lt;/h2&gt;
 &lt;h2&gt;Speaker: &lt;a href="http://www.ee.washington.edu/faculty/hwang/"&gt;黃正能 / 華盛頓大學電機系教授&lt;/a&gt;&lt;/h2&gt;
 &lt;hr&gt;
 &lt;ul&gt;
@@ -3475,7 +3475,7 @@ H.265 用 50% 的 bitrate 壓縮出來的效果跟 H.264 100% bitrate 差不多 
 &lt;li&gt;別人有什麼意見的話要用心傾聽，如果有好的意見的話就記得要更改。  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Video"></category><category term="Audio"></category><category term="Security"></category><category term="Network"></category></entry><entry><title>ITC Hw2</title><link href="https://blog.m157q.tw/posts/2013/11/11/itc-hw2/" rel="alternate"></link><published>2013-11-11T12:34:00+08:00</published><updated>2013-11-11T12:34:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-11:/posts/2013/11/11/itc-hw2/</id><summary type="html">&lt;h1&gt;ITC == Introduction To Cryptography&lt;/h1&gt;
+&lt;/ul&gt;</content><category term="Video"></category><category term="Audio"></category><category term="Security"></category><category term="Network"></category></entry><entry><title>ITC Hw2</title><link href="https://blog.fkz.tw/posts/2013/11/11/itc-hw2/" rel="alternate"></link><published>2013-11-11T12:34:00+08:00</published><updated>2013-11-11T12:34:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-11:/posts/2013/11/11/itc-hw2/</id><summary type="html">&lt;h1&gt;ITC == Introduction To Cryptography&lt;/h1&gt;
 &lt;h1&gt;Some …&lt;/h1&gt;</summary><content type="html">&lt;h1&gt;ITC == Introduction To Cryptography&lt;/h1&gt;
 &lt;h1&gt;Some notes about the Homework #2&lt;/h1&gt;
 &lt;hr&gt;
@@ -3532,7 +3532,7 @@ H.265 用 50% 的 bitrate 壓縮出來的效果跟 H.264 100% bitrate 差不多 
 &lt;h1&gt;5. system of equations&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Still don't get it...  &lt;/p&gt;
-&lt;/blockquote&gt;</content><category term="Cryptography"></category><category term="InfoSec"></category><category term="Security"></category></entry><entry><title>ITSE Ch2 - Process Models</title><link href="https://blog.m157q.tw/posts/2013/11/09/itse-ch2-process-models/" rel="alternate"></link><published>2013-11-09T09:47:00+08:00</published><updated>2013-11-09T09:47:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-09:/posts/2013/11/09/itse-ch2-process-models/</id><summary type="html">&lt;h1&gt;ITSE == Introduction To Software Engineering …&lt;/h1&gt;</summary><content type="html">&lt;h1&gt;ITSE == Introduction To Software Engineering&lt;/h1&gt;
+&lt;/blockquote&gt;</content><category term="Cryptography"></category><category term="InfoSec"></category><category term="Security"></category></entry><entry><title>ITSE Ch2 - Process Models</title><link href="https://blog.fkz.tw/posts/2013/11/09/itse-ch2-process-models/" rel="alternate"></link><published>2013-11-09T09:47:00+08:00</published><updated>2013-11-09T09:47:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-09:/posts/2013/11/09/itse-ch2-process-models/</id><summary type="html">&lt;h1&gt;ITSE == Introduction To Software Engineering …&lt;/h1&gt;</summary><content type="html">&lt;h1&gt;ITSE == Introduction To Software Engineering&lt;/h1&gt;
 &lt;h2&gt;NCTUCS 2013-Fall Introduction to Software Engineering by Professor Feng-Jian Wang&lt;/h2&gt;
 &lt;h2&gt;Ch2 - Process Models&lt;/h2&gt;
 &lt;hr&gt;
@@ -3602,7 +3602,7 @@ They are characterized in a manner that enables you to develop increasingly more
 &lt;li&gt;UP Work Products  &lt;/li&gt;
 &lt;li&gt;Personal Software Process (PSP)  &lt;/li&gt;
 &lt;li&gt;Team Software Process (TSP)  &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Software Engineering"></category></entry><entry><title>ITC - week7</title><link href="https://blog.m157q.tw/posts/2013/11/06/itc-week7/" rel="alternate"></link><published>2013-11-06T02:22:00+08:00</published><updated>2013-11-06T02:22:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-06:/posts/2013/11/06/itc-week7/</id><summary type="html">&lt;h1&gt;ITC == Introduction To Cryptography&lt;/h1&gt;
+&lt;/ul&gt;</content><category term="Software Engineering"></category></entry><entry><title>ITC - week7</title><link href="https://blog.fkz.tw/posts/2013/11/06/itc-week7/" rel="alternate"></link><published>2013-11-06T02:22:00+08:00</published><updated>2013-11-06T02:22:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-06:/posts/2013/11/06/itc-week7/</id><summary type="html">&lt;h1&gt;ITC == Introduction To Cryptography&lt;/h1&gt;
 &lt;h2&gt;Pseudorandom …&lt;/h2&gt;</summary><content type="html">&lt;h1&gt;ITC == Introduction To Cryptography&lt;/h1&gt;
 &lt;h2&gt;Pseudorandom Number Generation And Stream Cipher&lt;/h2&gt;
 &lt;h2&gt;Algorithm Design&lt;/h2&gt;
@@ -3654,7 +3654,7 @@ They are characterized in a manner that enables you to develop increasingly more
 &lt;h2&gt;RC4&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;A stream cipher designed in 1987 by Ron Rivest for RSA security.  &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Cryptography"></category><category term="Security"></category></entry><entry><title>SNTT - week7</title><link href="https://blog.m157q.tw/posts/2013/11/05/sntt-week7/" rel="alternate"></link><published>2013-11-05T16:58:00+08:00</published><updated>2013-11-05T16:58:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-05:/posts/2013/11/05/sntt-week7/</id><summary type="html">&lt;p&gt;SNTT == Socail Network Technology and …&lt;/p&gt;</summary><content type="html">&lt;p&gt;SNTT == Socail Network Technology and Trend  &lt;/p&gt;
+&lt;/ul&gt;</content><category term="Cryptography"></category><category term="Security"></category></entry><entry><title>SNTT - week7</title><link href="https://blog.fkz.tw/posts/2013/11/05/sntt-week7/" rel="alternate"></link><published>2013-11-05T16:58:00+08:00</published><updated>2013-11-05T16:58:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-05:/posts/2013/11/05/sntt-week7/</id><summary type="html">&lt;p&gt;SNTT == Socail Network Technology and …&lt;/p&gt;</summary><content type="html">&lt;p&gt;SNTT == Socail Network Technology and Trend  &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://developer.facebook.com"&gt;facebook developer&lt;/a&gt;&lt;br&gt;
 Facebook App setup  &lt;/li&gt;
@@ -3692,7 +3692,7 @@ Facebook App setup  &lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;Same Domain Policy  &lt;/li&gt;
 &lt;li&gt;Channel File  &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Facebook"></category><category term="Social Network"></category></entry><entry><title>資訊工程研討 - 台灣資訊與軟體產業未來之發展與機會</title><link href="https://blog.m157q.tw/posts/2013/11/05/computer-science-seminars-the-development-and-opportunities-about-the-it-in-taiwan/" rel="alternate"></link><published>2013-11-05T05:42:00+08:00</published><updated>2015-10-26T15:17:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-05:/posts/2013/11/05/computer-science-seminars-the-development-and-opportunities-about-the-it-in-taiwan/</id><summary type="html">&lt;ul&gt;
+&lt;/ul&gt;</content><category term="Facebook"></category><category term="Social Network"></category></entry><entry><title>資訊工程研討 - 台灣資訊與軟體產業未來之發展與機會</title><link href="https://blog.fkz.tw/posts/2013/11/05/computer-science-seminars-the-development-and-opportunities-about-the-it-in-taiwan/" rel="alternate"></link><published>2013-11-05T05:42:00+08:00</published><updated>2015-10-26T15:17:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-05:/posts/2013/11/05/computer-science-seminars-the-development-and-opportunities-about-the-it-in-taiwan/</id><summary type="html">&lt;ul&gt;
 &lt;li&gt;講題  &lt;ul&gt;
 &lt;li&gt;台灣資訊與軟體產業未來之發展與機會  &lt;/li&gt;
 &lt;/ul&gt;
@@ -3861,7 +3861,7 @@ Facebook App setup  &lt;/li&gt;
 &lt;p&gt;做你有興趣的事情  &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;不要輕視在學校裡面要學的東西，這些都是未來打造你的作品的基礎。  &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Microsoft"></category><category term="speech"></category></entry><entry><title>OS Ch6 - Synchronization</title><link href="https://blog.m157q.tw/posts/2013/11/05/os-ch6-synchronization/" rel="alternate"></link><published>2013-11-05T03:07:00+08:00</published><updated>2013-11-05T03:07:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-05:/posts/2013/11/05/os-ch6-synchronization/</id><summary type="html">&lt;h1&gt;Monitors&lt;/h1&gt;
+&lt;/ul&gt;</content><category term="Microsoft"></category><category term="speech"></category></entry><entry><title>OS Ch6 - Synchronization</title><link href="https://blog.fkz.tw/posts/2013/11/05/os-ch6-synchronization/" rel="alternate"></link><published>2013-11-05T03:07:00+08:00</published><updated>2013-11-05T03:07:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-05:/posts/2013/11/05/os-ch6-synchronization/</id><summary type="html">&lt;h1&gt;Monitors&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Invented by &lt;strong&gt;Tony Hoare …&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Monitors&lt;/h1&gt;
 &lt;ul&gt;
@@ -3988,7 +3988,7 @@ Facebook App setup  &lt;/li&gt;
 
 
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="err"&gt;+ Condition Variable Implementation&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;</content><category term="Operating System"></category></entry><entry><title>OS Ch1 - Introduction to Operating System</title><link href="https://blog.m157q.tw/posts/2013/11/04/os-ch1-introduction-to-operating-system/" rel="alternate"></link><published>2013-11-04T15:23:00+08:00</published><updated>2015-10-26T15:30:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-04:/posts/2013/11/04/os-ch1-introduction-to-operating-system/</id><summary type="html">&lt;ul&gt;
+&lt;/pre&gt;&lt;/div&gt;</content><category term="Operating System"></category></entry><entry><title>OS Ch1 - Introduction to Operating System</title><link href="https://blog.fkz.tw/posts/2013/11/04/os-ch1-introduction-to-operating-system/" rel="alternate"></link><published>2013-11-04T15:23:00+08:00</published><updated>2015-10-26T15:30:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-04:/posts/2013/11/04/os-ch1-introduction-to-operating-system/</id><summary type="html">&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;What is an Operating System …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;ul&gt;
 &lt;li&gt;
@@ -4366,7 +4366,7 @@ Facebook App setup  &lt;/li&gt;
 &lt;li&gt;Examples include &lt;strong&gt;GNU/Linux&lt;/strong&gt;, &lt;strong&gt;BSD UNIX&lt;/strong&gt; (including &lt;strong&gt;core of Mac OS X&lt;/strong&gt;), and &lt;strong&gt;Sun Solaris&lt;/strong&gt;  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Operating System"></category></entry><entry><title>SNTT - week3</title><link href="https://blog.m157q.tw/posts/2013/11/03/sntt-week3/" rel="alternate"></link><published>2013-11-03T08:18:00+08:00</published><updated>2013-11-03T08:18:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-11-03:/posts/2013/11/03/sntt-week3/</id><summary type="html">&lt;h2&gt;SNTT == Social Network Technology and …&lt;/h2&gt;</summary><content type="html">&lt;h2&gt;SNTT == Social Network Technology and Trend&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="Operating System"></category></entry><entry><title>SNTT - week3</title><link href="https://blog.fkz.tw/posts/2013/11/03/sntt-week3/" rel="alternate"></link><published>2013-11-03T08:18:00+08:00</published><updated>2013-11-03T08:18:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-11-03:/posts/2013/11/03/sntt-week3/</id><summary type="html">&lt;h2&gt;SNTT == Social Network Technology and …&lt;/h2&gt;</summary><content type="html">&lt;h2&gt;SNTT == Social Network Technology and Trend&lt;/h2&gt;
 &lt;h2&gt;note about the week3 course&lt;/h2&gt;
 &lt;hr&gt;
 &lt;ul&gt;
@@ -4432,7 +4432,7 @@ Facebook App setup  &lt;/li&gt;
 &lt;li&gt;Fluid Grid  &lt;/li&gt;
 &lt;li&gt;Resizable Images  &lt;/li&gt;
 &lt;li&gt;Media Queries  &lt;/li&gt;
-&lt;/ul&gt;</content><category term="Web"></category></entry><entry><title>asm hw3 - a small shooting game</title><link href="https://blog.m157q.tw/posts/2013/04/10/asm-hw3-a-small-shooting-game/" rel="alternate"></link><published>2013-04-10T22:07:00+08:00</published><updated>2013-04-10T22:07:00+08:00</updated><author><name>m157q</name></author><id>tag:blog.m157q.tw,2013-04-10:/posts/2013/04/10/asm-hw3-a-small-shooting-game/</id><summary type="html">&lt;p&gt;&lt;img alt="Demo" src="/files/asm-hw3-a-small-shooting-game/demo.png"&gt;  &lt;/p&gt;
+&lt;/ul&gt;</content><category term="Web"></category></entry><entry><title>asm hw3 - a small shooting game</title><link href="https://blog.fkz.tw/posts/2013/04/10/asm-hw3-a-small-shooting-game/" rel="alternate"></link><published>2013-04-10T22:07:00+08:00</published><updated>2013-04-10T22:07:00+08:00</updated><author><name>fkz</name></author><id>tag:blog.fkz.tw,2013-04-10:/posts/2013/04/10/asm-hw3-a-small-shooting-game/</id><summary type="html">&lt;p&gt;&lt;img alt="Demo" src="/files/asm-hw3-a-small-shooting-game/demo.png"&gt;  &lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Key usages:  &lt;/p&gt;
 &lt;ul&gt;

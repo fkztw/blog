@@ -44,7 +44,7 @@ DRAFTSDIR=$(INPUTDIR)/drafts
 DATE := $(shell date +'%Y-%m-%d %H:%M:%S')
 SLUG := $(shell echo '${NAME}' | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z)
 EXT ?= md
-AUTHOR=fkztw
+AUTHOR=fkz
 
 help:
 	@echo 'Makefile for a pelican Web site                                        '
@@ -129,7 +129,7 @@ ci: publish
 	git config --global user.name "fkztw - CI"
 	git config --global user.email "gh@fkz.tw"
 	ghp-import -n -m "$(GITHUB_COMMIT_MSG)" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
-	@git push -fq https://${GITHUB_TOKEN}@github.com/$(GITHUB_REPO_SLUG).git $(GITHUB_PAGES_BRANCH):$(GITHUB_PAGES_BRANCH) > /dev/null
+	@git push -fq https://${MY_GITHUB_TOKEN}@github.com/$(GITHUB_REPO_SLUG).git $(GITHUB_PAGES_BRANCH):$(GITHUB_PAGES_BRANCH) > /dev/null
 
 newdraft:
 ifdef NAME

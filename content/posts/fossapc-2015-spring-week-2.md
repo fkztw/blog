@@ -1,7 +1,7 @@
 Title: FOSSAPC 2015 Spring Week #2
 Slug: fossapc-2015-spring-week-2
 Date: 2015-03-09 23:40:43
-Authors: m157q
+Authors: fkz
 Category: Course
 Tags: Course, FOSS
 Summary: A note for 2015 FOSS course in NCTU, Hsinchu, Taiwan

@@ -1,7 +1,7 @@
 Title: 我平常在電腦上用了哪些程式  
 Slug: tools-i-use  
 Date: 2018-01-09 22:09:55  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Tools, M157q, 2018 iT 邦幫忙鐵人賽  
 Summary: 紀錄一下自己平常使用了哪些工具，給自己之後檢視用。  
@@ -189,7 +189,7 @@ Modified: 2018-02-02 18:17:55
     + IFTTT 的意思是："If it, then that."  
     + 和多家公司合作，可以很簡單設定一些跨服務的觸發條件，除了 API 提供的觸發條件以外，還可以在這之上自己撰寫 JavaScript 做一些彈性化的設定。  
     + 每個人也可以分享自己設定的腳本供他人使用，大多數都是用來做一些提醒或是自動備份的事。  
-    + 我目前是拿來把我在 Twitter 分享或在 Pocket 儲存一些我覺得不錯的文章時，會幫我自動在：[Issues · M157q/m157q.github.io · GitHub](https://github.com/M157q/m157q.github.io/issues) 開個新的 Issue 紀錄，以方便我日後查詢，解決常常和人分享時想起看過某篇不錯的文章卻搜尋不到的問題。  
+    + 我目前是拿來把我在 Twitter 分享或在 Pocket 儲存一些我覺得不錯的文章時，會幫我自動在：[Issues · M157q/fkz.github.io · GitHub](https://github.com/M157q/fkz.github.io/issues) 開個新的 Issue 紀錄，以方便我日後查詢，解決常常和人分享時想起看過某篇不錯的文章卻搜尋不到的問題。  
 + [Pocket](https://getpocket.com)  
     + 用來將文章暫存以供日後閱讀的服務。  
     + 目前我的使用方式比較像是用來儲存與分類看過的文章，再加上使用了 IFTTT  的關係，說穿了其實就只是不用自己接 API，透過 IFTTT 把我看過的文章存到 GitHub Issues 而已，連搜尋也不太會在 Pocket 作搜尋。  
@@ -212,7 +212,7 @@ Modified: 2018-02-02 18:17:55
 + [CloudFlare](https://www.cloudflare.com)  
     + 2016 年 6 月租了自己的 domain 之後，就拿來個人使用。在這之前是因為公司的服務有在使用，所以才接觸到，覺得設計的很簡單易用且功能又很強大。  
     + DNS 代管設定很方便，而且加上 proxy 之後就有免費的 CDN 和 HTTPS 可以使用。有很多其他的功能，可以設定 Cache、簡單的流量分析、免費的網站資安防護等等等。  
-    + 詳細一點的介紹可以參考這篇文章：[買了一個叫作 m157q.tw 的域名 | Just for noting](/posts/2016/09/06/i-bought-my-first-domain-name/)  
+    + 詳細一點的介紹可以參考這篇文章：[買了一個叫作 fkz.tw 的域名 | Just for noting](/posts/2016/09/06/i-bought-my-first-domain-name/)  
     + 不過 2017 年 2 月的時候也有出過 CloudBleed 這個大包就是：[Incident report on memory leak caused by Cloudflare parser bug](https://blog.cloudflare.com/incident-report-on-memory-leak-caused-by-cloudflare-parser-bug/)  
 + [Gandi](https://www.gandi.net)  
     + 因為很常出現在台灣的社群會議，所以就在上面租了域名。  

@@ -1,6 +1,6 @@
 Title: [Misc] Identd
 Date: 2015-01-07 14:49
-Author: m157q
+Author: fkz
 Category: Misc
 Tags: IRC, identd
 Slug: misc-identd

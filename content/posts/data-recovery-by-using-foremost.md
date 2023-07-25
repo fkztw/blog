@@ -1,7 +1,7 @@
 Title: Data recovery by using foremost  
 Slug: data-recovery-by-using-foremost  
 Date: 2015-08-25 19:02:31  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Data Recovery, foremost, Life  
 Summary: 今天早上一個不小心手殘，把外接硬碟裡從 2009 年到 2013 年結尾為 .JPG 的檔案都清掉了，哀傷懊悔了大概半小時左右(恩，沒辦法，我的很多美好回憶都在那些年)，開始找尋有沒有可以救援的辦法，踏上一條短暫的資料救援之路(?)  

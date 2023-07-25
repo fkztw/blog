@@ -1,7 +1,7 @@
 Title: 童年回憶之閃電霹靂車  
 Slug: cyber-formula-within-my-childhood-memory  
 Date: 2015-11-24 01:22:22  
-Authors: m157q  
+Authors: fkz  
 Category: Life  
 Tags: Cyber Formula, Anime, TV  
 Summary: 2015 年重溫經典動畫之一《閃電霹靂車》，該動畫的背景恰巧就是 2015 年。  

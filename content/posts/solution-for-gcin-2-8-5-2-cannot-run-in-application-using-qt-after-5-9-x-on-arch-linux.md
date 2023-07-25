@@ -1,7 +1,7 @@
 Title: 解決 Arch Linux 上 gcin 2.8.5-2 無法在 Qt 5.9.x 以後的應用程式中執行的問題  
 Slug: solution-for-gcin-2-8-5-2-cannot-run-in-application-using-qt-after-5-9-x-on-arch-linux  
 Date: 2018-01-04 23:10:00  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Arch Linux, Qt5, qutebrowser, gcin, 2018 iT 邦幫忙鐵人賽  
 Summary: 用了 qutebrowser 以後， 發現 gcin 沒辦法在其中使用，查了一下解法後順利解決了，寫這篇文章紀錄一下。  

@@ -1,6 +1,6 @@
 Title: Screen copy mode scrollback 行數不夠  
 Date: 2014-05-27 15:57  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: CLI, screen, copy mode, history buffer  
 Slug: not-enough-lines-for-scrollback-in-screen-copy-mode  

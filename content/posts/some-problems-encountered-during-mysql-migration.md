@@ -1,6 +1,6 @@
 Title: Some Problems Encountered During MySQL Migration  
 Date: 2014-08-31 23:19  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: MySQL, Database, sysadmin  
 Slug: some-problems-encountered-during-mysql-migration  

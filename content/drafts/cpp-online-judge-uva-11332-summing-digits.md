@@ -1,6 +1,6 @@
 Title: [Cpp] [Online Judge] UVa 11332 Summing Digits
 Date: 2013-04-29 20:48
-Author: m157q
+Author: fkz
 Category: Cpp
 Tags: Cpp 
 Slug: cpp-online-judge-uva-11332-summing-digits

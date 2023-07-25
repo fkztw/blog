@@ -1,6 +1,6 @@
 Title: SNTT - week7  
 Date: 2013-11-05 16:58  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: Facebook, Social Network  
 Slug: sntt-week7  

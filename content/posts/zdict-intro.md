@@ -1,7 +1,7 @@
 Title: zdict 介紹  
 Slug: zdict-intro  
 Date: 2018-01-18 22:30:24  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: zdict, online dictionary, cli, 2018 iT 邦幫忙鐵人賽  
 Summary: 介紹一下自己和幾個朋友寫的 zdict 這套工具  
@@ -16,7 +16,7 @@ Modified: 2018-02-01 00:38:24
   
 ## 前言  
   
-在[我平常在電腦上用了哪些程式 | Just for noting](https://blog.m157q.tw/posts/2018/01/09/tools-i-use/)這篇，有提到會為 `zdict` 這套我和幾個朋友一起開發的線上字典查詢指令做個詳細一點的介紹，也算是幫 `zdict` 加個繁體中文的文章吧。  
+在[我平常在電腦上用了哪些程式 | Just for noting](https://blog.fkz.tw/posts/2018/01/09/tools-i-use/)這篇，有提到會為 `zdict` 這套我和幾個朋友一起開發的線上字典查詢指令做個詳細一點的介紹，也算是幫 `zdict` 加個繁體中文的文章吧。  
   
 因為 repo 上面都是用英文，幾個禮拜前遇到有台灣人想幫忙貢獻，對自己的英文不夠有自信，結果最後寄了 email 用中文問我，想說讓這個工具的文件多一點繁體中文的親切感（？  
   

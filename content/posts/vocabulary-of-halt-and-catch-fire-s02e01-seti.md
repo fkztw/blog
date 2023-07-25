@@ -1,7 +1,7 @@
 Title: Vocabulary of Halt and Catch Fire S02E01 - SETI  
 Slug: vocabulary-of-halt-and-catch-fire-s02e01-seti  
 Date: 2015-06-23 14:11:14  
-Authors: m157q  
+Authors: fkz  
 Category: Vocabulary  
 Tags: Vocabulary, Halt and Catch Fire, TV Series, Geek, English  
 Summary: Cameron and Donna's gaming company, Mutiny, reaches a critical stage; Joe and Gordon are reunited.  

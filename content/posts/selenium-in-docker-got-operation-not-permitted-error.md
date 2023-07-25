@@ -1,7 +1,7 @@
 Title: Selenium in Docker got "Operation not permitted" error  
 Slug: selenium-in-docker-got-operation-not-permitted-error  
 Date: 2017-08-28 12:19:40  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Docker, Selenium  
 Summary: The error message is "Failed to move to new namespace: PID namespaces supported. Network namespace supported, but failed: errno = Operation not permitted"  

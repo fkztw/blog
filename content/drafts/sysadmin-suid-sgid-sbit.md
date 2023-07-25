@@ -1,6 +1,6 @@
 Title: [SysAdmin] SUID, SGID, SBIT
 Date: 2013-06-05 18:55
-Author: m157q
+Author: fkz
 Category: Sysadmin
 Tags: 
 Slug: sysadmin-suid-sgid-sbit

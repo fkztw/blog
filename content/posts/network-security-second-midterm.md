@@ -1,6 +1,6 @@
 Title: Network Security Second Midterm  
 Date: 2014-12-08 09:56  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: NetSec, Security  
 Slug: network-security-second-midterm  

@@ -1,7 +1,7 @@
 Title: Install Arch Linux on MacBook Air Mid 2013  
 Slug: install-arch-linux-on-macbook-air-mid-2013  
 Date: 2015-09-10 05:21:04  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Arch Linux, MacBook Air, Linux, COSCUP  
 Summary: 參加完 COSCUP 2015，聽完 jserv 的封麥演說以及一句「Linux 使用者有錢以後就會投入 Mac 的懷抱」覺得自己深深中槍，備感慚愧。於是決定來做一件很久以前其實就想做的事：跟 Linus Torvalds 一樣，把 MacBook Air 上的 OS X 砍了，直接灌 Linux 來用。當然，Arch Linux 是首選。以下紀錄一下過程，給有需要的人參考。  

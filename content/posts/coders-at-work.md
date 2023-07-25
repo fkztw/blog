@@ -1,7 +1,7 @@
 Title: 《編程人生》(Coders at Work)  
 Slug: coders-at-work  
 Date: 2016-06-16 10:07:42  
-Authors: m157q  
+Authors: fkz  
 Category: Reading  
 Tags: Programmer, Book  
 Summary: 《編程人生》讀後感  

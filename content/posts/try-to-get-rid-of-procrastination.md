@@ -1,7 +1,7 @@
 Title: 努力杜絕拖延症  
 Slug: try-to-get-rid-of-procrastination  
 Date: 2017-02-06 04:41:07  
-Authors: m157q  
+Authors: fkz  
 Category: Life  
 Tags: Procrastination  
 Summary: 上大學之後不知從何時開始變成為了拖延症患者，深深為此所苦。新的一年，打算杜絕拖延症，用這篇文章來紀錄。  

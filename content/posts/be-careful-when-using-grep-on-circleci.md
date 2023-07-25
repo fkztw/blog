@@ -1,7 +1,7 @@
 Title: Be careful when using grep on CircleCI
 Slug: be-careful-when-using-grep-on-circleci
 Date: 2021-06-09 22:09:43
-Authors: m157q
+Authors: fkz
 Category: Note
 Tags: CircleCI, grep, shell
 Summary: `grep` will exit 1 when no matching could be found. You won't notice this until you run it on CircleCI and the build job exit 1 with no error message at all.

@@ -1,7 +1,7 @@
 Title: Things that Kubernetes tutorials didn't teach you  
 Slug: things-that-kubernetes-tutorials-didnt-teach-you
 Date: 2020-07-11 16:24:41  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Kubernetes, K8s 
 Summary: Sum-up for my experience about using Kubernetes in production.

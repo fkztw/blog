@@ -1,7 +1,7 @@
 Title: 4BSD 與 AT&T 官司訴訟的影響
 Slug: 4bsd-and-att-lawsuit
 Date: 2015-06-16 18:15:23
-Authors: m157q
+Authors: fkz
 Category: Note
 Tags: BSD, AT&T, Open Source
 Modified: 2018-10-31 06:09:00

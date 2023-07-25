@@ -1,7 +1,7 @@
 Title: CircleCI Python docker image cannot connet to website uses TLSv1.0  
 Slug: circleci-python-docker-image-cannot-connet-to-website-uses-tlsv1-0  
 Date: 2020-07-11 16:51:46  
-Authors: m157q  
+Authors: fkz  
 Category: Note
 Tags: Python, CircleCI, Docker, SSL, TLSv1.0  
 Summary: While writing the test for my side project, I encountered a problem which didn't happen while using Travis CI but CircleCI.

@@ -1,7 +1,7 @@
 Title: 嘗試在 Python 中做到 Golang fmt 的效果  
 Slug: try-to-do-gofmt-in-python  
 Date: 2018-01-03 23:54:54  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Python, formatter, Golang, gofmt, 2018 iT 邦幫忙鐵人賽  
 Summary: 嘗試兜出一個在撰寫 Python 程式碼的時也能像 `gofmt` 這樣方便的 code formatter。  

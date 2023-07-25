@@ -1,6 +1,6 @@
 Title: [Cpp] [Online Judge] UVa 737 Gleaming the Cubes  
 Date: 2013-04-29 20:16  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: Cpp, Online Judge, abs  
 Slug: cpp-online-judge-uva-737-gleaming-the-cubes  

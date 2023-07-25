@@ -1,6 +1,6 @@
 Title: 那些年，我們一起上的 BBS: 洪任諭(PCMan) 於 TEDxNCTU 2013  
 Date: 2014-01-14 06:57  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: PCMan, TEDxNCTU, Speech  
 Slug: pcman-speech-at-tedxnctu-2013  

@@ -1,6 +1,6 @@
 Title: [Hack] ShellShock 系列
 Date: 2014-10-08 11:58
-Author: m157q
+Author: fkz
 Category: Hack
 Tags: 
 Slug: hack-shellshock-xi-lie

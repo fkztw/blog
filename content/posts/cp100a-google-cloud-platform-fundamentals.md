@@ -1,7 +1,7 @@
 Title: CP100A: Google Cloud Platform Fundamentals  
 Slug: cp100a-google-cloud-platform-fundamentals  
 Date: 2016-05-25 20:50:47  
-Authors: m157q  
+Authors: fkz  
 Category: Conf/Meetup  
 Tags: Google Cloud Platform  
 Summary: [CP100A](https://events.withgoogle.com/cp100a-420770/) 筆記  

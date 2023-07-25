@@ -1,7 +1,7 @@
 Title: TSCC 2015 Notes and Thoughts  
 Slug: tscc-2015-notes-and-thoughts  
 Date: 2015-09-15 00:18:11  
-Authors: m157q  
+Authors: fkz  
 Category: Contest  
 Tags: Thought, TSCC, HPC, Competition, Cluster  
 Summary: Notes and Thoughts about the Taiwan Student Cluster Competition 2015  
@@ -94,7 +94,7 @@ TSCC 2015 (第五屆全國學生叢集電腦競賽)
 再多多惡補些 CUDA 跟平行運算相關的知識。  
 大概到半夜3點多才睡吧。  
 (其中意外發現PTT上有一個還不錯的 CUDA 入門系列，  
-整理在這 [Nice Series of CUDA Tutorials on ptt.cc | Just for noting](https://m157q.github.io/posts/2015/08/15/nice-series-of-cuda-tutorials-on-ptt-cc/))  
+整理在這 [Nice Series of CUDA Tutorials on ptt.cc | Just for noting](https://fkz.github.io/posts/2015/08/15/nice-series-of-cuda-tutorials-on-ptt-cc/))  
   
 隔天一早9點，又到國網中心繼續第二天的比賽，  
 小趴和喜德繼續處理昨天的 Einstein Toolkit 問題，  

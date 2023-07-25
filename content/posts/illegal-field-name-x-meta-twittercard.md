@@ -1,6 +1,6 @@
 Title: Illegal field name 'X-Meta-Twitter:card'  
 Date: 2013-05-08 07:44  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: Perl, CPAN, WWW::Mechanize, X-Meta-Twitter:card  
 Slug: illegal-field-name-x-meta-twittercard  

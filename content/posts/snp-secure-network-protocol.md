@@ -1,6 +1,6 @@
 Title: SNP (Secure Network Protocol)  
 Date: 2014-11-03 07:08  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: SNP, NCTU, DSNS  
 Slug: snp-secure-network-protocol  

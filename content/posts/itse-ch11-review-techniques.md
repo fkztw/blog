@@ -1,6 +1,6 @@
 Title: ITSE Ch11 - Review Techniques  
 Date: 2013-11-25 01:56  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: Software Engineering  
 Slug: itse-ch11-review-techniques  

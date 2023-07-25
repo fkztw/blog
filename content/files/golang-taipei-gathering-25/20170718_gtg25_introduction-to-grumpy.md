@@ -16,7 +16,7 @@
 
 + Shun-Yi Jheng
 + <https://github.com/M157q>  
-+ <https://blog.m157q.tw>
++ <https://blog.fkz.tw>
 + Just a Pythonista (since 2012) who began to learn Golang about 5 months ago (GTG #21).
 + DevOps & Architect @ Tagtoo
 

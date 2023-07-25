@@ -1,7 +1,7 @@
 Title: Golang Taipei Gathering #24  
 Slug: golang-taipei-gathering-24  
 Date: 2017-05-23 21:46:45  
-Authors: m157q  
+Authors: fkz  
 Category: Conf/Meetup  
 Tags: Golang  
 Summary: Note for Golang Taipei Gathering #24  

@@ -1,7 +1,7 @@
 Title: 關於 Django REST framework 的一些筆記  
 Slug: django-rest-framework-note  
 Date: 2018-01-07 23:59:00  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Python, Django, RESTful API, 2018 iT 邦幫忙鐵人賽  
 Summary: 一年多前接觸 Django REST framework 時做的一些紀錄，整理一下，其中包含了 Django REST framework Docs (DRF Docs) 的部份。  

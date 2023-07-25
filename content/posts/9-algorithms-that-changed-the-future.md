@@ -1,7 +1,7 @@
 Title: 《改變世界的九大演算法》  
 Slug: 9-algorithms-that-changed-the-future  
 Date: 2016-09-18 18:39:31  
-Authors: m157q  
+Authors: fkz  
 Category: Reading  
 Tags: Algorithm, Computer Science  
 Summary: 《改變世界的九大演算法》讀後感  

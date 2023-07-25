@@ -1,7 +1,7 @@
 Title: 大概是這輩子活到現在最接近鬼故事的一件事  
 Slug: not-my-ghost-story  
 Date: 2017-12-02 02:42:04  
-Authors: m157q  
+Authors: fkz  
 Category: Life  
 Tags: Taiwan  
 Summary: 人生第一次這麼接近批踢踢媽佛板的文章，但我還是覺得人比鬼恐怖多了。  

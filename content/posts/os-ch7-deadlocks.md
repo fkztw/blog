@@ -1,6 +1,6 @@
 Title: OS Ch7 - Deadlocks  
 Date: 2013-11-19 02:40  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: Operating System, Deadlock  
 Slug: os-ch7-deadlocks  

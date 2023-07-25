@@ -1,7 +1,7 @@
 Title: PyCon APAC 2015 Notes and Thoughts  
 Slug: pycon-apac-2015-notes-and-thoughts  
 Date: 2015-07-26 15:25:54  
-Authors: m157q  
+Authors: fkz  
 Category: Conf/Meetup  
 Tags: Conf, Python, PyCon, PyConAPAC, Thought  
 Summary: Some thoughts & notes for PyCon APAC 2015  

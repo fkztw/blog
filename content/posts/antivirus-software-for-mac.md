@@ -1,6 +1,6 @@
 Title: Antivirus software for Mac  
 Date: 2014-02-27 13:12  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: Mac, Antivirus  
 Slug: antivirus-software-for-mac  

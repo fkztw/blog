@@ -1,7 +1,7 @@
 Title: 我的新鮮人面試紀錄  
 Slug: first-job-interviews  
 Date: 2016-02-12 23:40:37  
-Authors: m157q  
+Authors: fkz  
 Category: Life  
 Tags: interview, resume, job  
 Summary: 紀錄我人生第一次找工作的面試過程  

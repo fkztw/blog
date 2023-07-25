@@ -1,7 +1,7 @@
 Title: 《人生》  
 Slug: life  
 Date: 2017-05-18 10:58:28  
-Authors: m157q  
+Authors: fkz  
 Category: Creation  
 Tags: poem  
 Summary: 沒有迷失在人生的十字路口這回事  

@@ -1,6 +1,6 @@
 Title: 開放源碼的動態程式設計語言體驗營 - Python  
 Date: 2013-04-09 15:42  
-Author: m157q  
+Author: fkz  
 Category: Conf/Meetup  
 Tags: Python, Tutorial  
 Slug: tutorial-for-open-source-dynamic-typing-language-python  
@@ -15,8 +15,8 @@ Modified: 2015-10-27 11:20
   
 + [Downloads | 03/09 開放源碼的動態程式設計語言體驗營 - Python | 2013年-活動/研討會 | 歷年活動／研討會簡報 | 活動 / 研討會相關 - OpenFoundry](http://www.openfoundry.org/tw/slides-download/cat_view/35/711/712)  
     + 備份  
-        + [Day 1](https://github.com/M157q/m157q.github.io/raw/source/content/files/tutorial-for-open-source-dynamic-typing-language-python/0309_programming-with-python-basic.pdf)  
-        + [Day 2](https://github.com/M157q/m157q.github.io/raw/source/content/files/tutorial-for-open-source-dynamic-typing-language-python/0310_programming-with-python-adv.pdf)  
+        + [Day 1](https://github.com/M157q/fkz.github.io/raw/source/content/files/tutorial-for-open-source-dynamic-typing-language-python/0309_programming-with-python-basic.pdf)  
+        + [Day 2](https://github.com/M157q/fkz.github.io/raw/source/content/files/tutorial-for-open-source-dynamic-typing-language-python/0310_programming-with-python-adv.pdf)  
   
 ### Videos  
 + [自由軟體鑄造場_20130309_開放源碼的動態程式設計語言體驗營 - Python_Mosky_01 - YouTube](https://www.youtube.com/watch?v=cUYu6v6b_oY&list=PLuW7NCGvKlyXZxvnpZxwu6AUeSdqkcmbm)  

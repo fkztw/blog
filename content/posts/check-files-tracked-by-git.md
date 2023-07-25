@@ -1,7 +1,7 @@
 Title: Check files tracked by git  
 Slug: check-files-tracked-by-git  
 Date: 2015-02-18 11:39:37  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: CLI, Git  
 Summary: A brief solution to show a list of git tracked files.  

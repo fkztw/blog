@@ -1,7 +1,7 @@
 Title: 用 broadcom-wl-dkms 讓 BCM4360 [14e4:43a0] (rev 03) 能順利在 Arch Linux 中使用  
 Slug: make-bcm4360-14e4-43a0-rev-03-work-on-arch-linux-with-broadcom-wl-dkms  
 Date: 2017-10-31 17:10:43  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Arch Linux, Broadcom, Wireless, MacBook Air  
 Summary: 紀錄一下在使用 BCM4360 14e4:43a0 (rev 03) 的 MacBook Air 2013 上裝 Arch Linux，用 wicd 使用無線網路會遇到問題的解法。  

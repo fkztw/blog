@@ -1,7 +1,7 @@
 Title: SITCON 2015 - Android Repackaged App Detection System  
 Slug: sitcon-2015-android-repackaged-app-detection-system  
 Date: 2015-03-11 23:14:27  
-Authors: m157q  
+Authors: fkz  
 Category: Talk  
 Tags: Conf, SITCON, Python, Perl, Java, JavaScript, Scrapy, NetworkX, SAAF, node.js, d3.js, Android, Note, Thought  
 Summary: 今年投稿 SITCON 有幸又被錄取為講者，對於目前沒有打算唸研究所的我，應該也是最後一年當講者了吧，記錄一下今年的感想。  
@@ -69,7 +69,7 @@ Hacker 是無論哪個領域都有的
 ### Android Repackaged App Detection System  
   
 本次演講的投影片在此  
-<https://speakerdeck.com/m157q/sitcon2015-android-repackaged-app-detection-system-by-shunyi>  
+<https://speakerdeck.com/fkz/sitcon2015-android-repackaged-app-detection-system-by-shunyi>  
 <script async class="speakerdeck-embed" data-id="6ab309bf1d5f42ecbeb4bace486631e8" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>  
   
 主要就是介紹在大學時做的專題  

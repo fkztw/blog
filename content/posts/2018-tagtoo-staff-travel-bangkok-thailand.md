@@ -1,7 +1,7 @@
 Title: 2018 塔圖員工旅遊之曼谷五天四夜自由行  
 Slug: 2018-tagtoo-staff-travel-bangkok-thailand  
 Date: 2018-01-30 03:46:13  
-Authors: m157q  
+Authors: fkz  
 Category: Life  
 Tags: Bangkok, Travel, Tagtoo  
 Summary: 距離人生上次來曼谷竟然隔了 15 年了，當年年紀小，記得的東西不多，這次來好好感受一下吧。  

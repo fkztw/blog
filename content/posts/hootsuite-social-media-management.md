@@ -1,6 +1,6 @@
 Title: Hootsuite - Social Media Management  
 Date: 2014-02-27 14:46  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: SMS, Hootsuite  
 Slug: hootsuite-social-media-management  

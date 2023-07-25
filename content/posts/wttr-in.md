@@ -1,7 +1,7 @@
 Title: wttr.in - 一個讓你用網頁或終端機看天氣或月亮圓缺的有趣網站  
 Slug: wttr-in  
 Date: 2017-10-20 21:09:15  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: CLI, Weather  
 Summary: 關於 [wttr.in](http://wttr.in) 的一點小介紹  

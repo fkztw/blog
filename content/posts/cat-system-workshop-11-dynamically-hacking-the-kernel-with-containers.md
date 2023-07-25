@@ -1,7 +1,7 @@
 Title: Cat System Workshop #11 Dynamically Hacking the Kernel with Containers  
 Slug: cat-system-workshop-11-dynamically-hacking-the-kernel-with-containers  
 Date: 2016-09-21 03:50:25  
-Authors: m157q  
+Authors: fkz  
 Category: Conf/Meetup  
 Tags: Kernel, Containers, Cat System Workshop, Meetup  
 Summary: Note for Cat System Workshop #11 (2016/09/20)  

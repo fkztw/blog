@@ -1,7 +1,7 @@
 Title: COSCUP 2016  
 Slug: coscup-2016  
 Date: 2016-08-25 10:15:00  
-Authors: m157q  
+Authors: fkz  
 Category: Conf/Meetup  
 Tags: COSCUP  
 Summary: COSCUP 2016 筆記  

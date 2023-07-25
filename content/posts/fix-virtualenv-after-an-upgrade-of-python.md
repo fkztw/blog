@@ -1,7 +1,7 @@
 Title: Fix virtualenv after an upgrade of Python  
 Slug: fix-virtualenv-after-an-upgrade-of-python  
 Date: 2015-10-07 15:39:41  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Python, virtualenv  
 Summary: Always forget how to do it after upgrading Python, so just write it down.  

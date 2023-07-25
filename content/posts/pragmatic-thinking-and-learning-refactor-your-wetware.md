@@ -1,7 +1,7 @@
 Title: 《程序員思維修煉》  
 Slug: pragmatic-thinking-and-learning-refactor-your-wetware  
 Date: 2016-12-21 02:08:33  
-Authors: m157q  
+Authors: fkz  
 Category: Reading  
 Tags: Programming, Thinking  
 Summary: 《程序員思維修煉》(Pragmatic Thinking and Learning: Refactor Your Wetware) 讀後感  

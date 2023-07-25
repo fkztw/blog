@@ -1,7 +1,7 @@
 Title: PyCon TW 2016  
 Slug: pycon-tw-2016  
 Date: 2016-06-03 21:21:52  
-Authors: m157q  
+Authors: fkz  
 Category: Conf/Meetup  
 Tags: Python, Conf, PyCon, PyConTW  
 Summary: Just a note for PyCon TW 2016  

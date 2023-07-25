@@ -1,6 +1,6 @@
 Title: asm hw3 - a small shooting game  
 Date: 2013-04-10 22:07  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: assembly, MASM  
 Slug: asm-hw3-a-small-shooting-game  

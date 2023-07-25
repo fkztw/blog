@@ -1,6 +1,6 @@
 Title: OS Ch1 - Introduction to Operating System  
 Date: 2013-11-04 15:23  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: Operating System  
 Slug: os-ch1-introduction-to-operating-system  

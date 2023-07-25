@@ -1,6 +1,6 @@
 Title: ITC Hw2  
 Date: 2013-11-11 12:34  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: Cryptography, InfoSec, Security  
 Slug: itc-hw2  

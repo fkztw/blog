@@ -1,7 +1,7 @@
-Title: 買了一個叫作 m157q.tw 的域名  
+Title: 買了一個叫作 fkz.tw 的域名  
 Slug: i-bought-my-first-domain-name  
 Date: 2016-09-06 18:25  
-Authors: m157q  
+Authors: fkz  
 Category: Life  
 Tags: Domain name, CloudFlare, Gandi, GitHub Pages  
 Summary: 約 3 個月前，心血來潮買了一個域名，用到了 [Gandi](https://www.gandi.net/) 和 [CloudFlare 免費版](https://www.cloudflare.com/)的服務，也順便紀錄一下。  
@@ -11,7 +11,7 @@ Modified: 2016-09-19 21:52
 ## 前言  
   
 今年 6/13 的時候一時心血來潮就買了，  
-Domain Name 是 `m157q.tw`。  
+Domain Name 是 `fkz.tw`。  
 從 [Gandi](https://www.gandi.net/) 那邊買的，  
 因為之前還蠻常看到 Gandi 出現在 Conf 的攤位擺攤的，  
 想說就用用看他們家的服務。  
@@ -24,7 +24,7 @@ Domain Name 是 `m157q.tw`。
 但身為一個拖延症患者，  
 就一直拖到了現在。  
   
-其實買了以後大概也只有 `blog.m157q.tw` 有在用，  
+其實買了以後大概也只有 `blog.fkz.tw` 有在用，  
 就是為了這個 blog 罷了，  
 但想說之後有什麼東西要用的話，  
 也可以 DNS record 設定一下就可以放在自己的 domain 底下，  
@@ -45,12 +45,12 @@ Domain Name 是 `m157q.tw`。
 因為這個 blog 是透過 GitHub Pages 架設的 static site，  
 要在 master branch 新增一個 `CNAME` 的檔案，  
 內容則是這個 GitHub Pages 的 Custom Domain，  
-[我的話當然就是放 `blog.m157q.tw`](https://github.com/M157q/m157q.github.io/blob/master/CNAME)，  
+[我的話當然就是放 `blog.fkz.tw`](https://github.com/M157q/fkz.github.io/blob/master/CNAME)，  
   
 設定好的話，  
 連到原本的 GitHub Pages 預設的 Domain Name，  
 就會幫你 redirect 到 Custom Domain 去。  
-例如：<https://m157q.github.io> 現在就會直接被導到 <https://blog.m157q.tw>。  
+例如：<https://fkz.github.io> 現在就會直接被導到 <https://blog.fkz.tw>。  
   
 詳細的 GitHub 官方說明文件在此： [Using a custom domain with GitHub Pages - User Documentation](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)  
   

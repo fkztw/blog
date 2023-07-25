@@ -1,7 +1,7 @@
 Title: 如何區分加密、壓縮、編碼  
 Slug: differences-between-encryption-compression-and-encoding  
 Date: 2017-12-23 23:47:55  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Encryption, Compression, Encoding, 2018 iT 邦幫忙鐵人賽  
 Summary: 主要是想簡單講一下這三者的差別，因為實在看過太多網站把這三者混淆了。  

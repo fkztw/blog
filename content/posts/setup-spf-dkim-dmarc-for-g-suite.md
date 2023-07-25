@@ -1,7 +1,7 @@
 Title: 為 G Suite 新增 SPF, DKIM 和 DMARC 設定以避免有心人士的釣魚攻擊  
 Slug: setup-spf-dkim-dmarc-for-g-suite  
 Date: 2018-07-04 02:09:19  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: G suite, Google, Mail, SPF, DKIM, DMARC, Security  
 Summary: 公司最近收到了漏洞回報，結果是因為 DNS 沒有設定 SPF record，導致有心人士可以偽裝成客服的電子郵件信箱寄信給任何人。  

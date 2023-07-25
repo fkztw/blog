@@ -1,6 +1,6 @@
 Title: [Misc] Grab the title of the webpage by using mechanize in Python
 Date: 2014-12-09 07:02
-Author: m157q
+Author: fkz
 Category: Misc
 Tags: 
 Slug: misc-grab-the-title-of-the-webpage-by-using-mechanize-in-python

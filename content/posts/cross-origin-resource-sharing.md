@@ -1,7 +1,7 @@
 Title: 紀錄一下和 CORS (Cross-Origin Resource Sharing) 有關的問題  
 Slug: cross-origin-resource-sharing  
 Date: 2016-09-07 23:22:28  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: W3C, HTTP, CORS, Cross-Origin HTTP Request, Google App Engine  
 Summary: 前陣子在弄公司系統新架構的 CDN 部份時遇到和 Cross-Origin HTTP Request 有關的問題，紀錄一下。  

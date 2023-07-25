@@ -1,6 +1,6 @@
 Title: Arch Linux Quick Installation with GPT in BIOS  
 Date: 2013-12-30 16:36  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: Linux, Arch Linux, Guide, GPT, BIOS  
 Slug: arch-linux-quick-installation-with-gpt-in-bios  

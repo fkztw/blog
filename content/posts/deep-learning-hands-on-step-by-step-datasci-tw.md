@@ -1,7 +1,7 @@
 Title: 台灣資料科學年會之系列活動：手把手的深度學習實務  
 Slug: deep-learning-hands-on-step-by-step-datasci-tw  
 Date: 2017-08-13 17:08:45  
-Authors: m157q  
+Authors: fkz  
 Category: Conf/Meetup  
 Tags: Deep Learning, Keras, CNN, DNN  
 Summary: 《台灣資料科學年會之系列活動：手把手的深度學習實務》筆記  

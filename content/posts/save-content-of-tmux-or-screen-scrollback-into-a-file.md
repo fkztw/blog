@@ -1,7 +1,7 @@
 Title: Save Content of tmux/screen Scrollback Into A File  
 Slug: save-content-of-tmux-or-screen-scrollback-into-a-file  
 Date: 2015-07-27 01:03:26  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: CLI, tmux, screen  
 Summary: Steps to save content of tmux/screen scrollback into a file.  

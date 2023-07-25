@@ -1,7 +1,7 @@
 Title: Linux 上如何透過指令更改鍵盤鍵位  
 Slug: change-keymap-on-linux  
 Date: 2018-01-01 23:59:37  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Linux, Keymap, xmodmap, setxkbmap, X Window, 2018 iT 邦幫忙鐵人賽  
 Summary: 之前都是用 `xmodmap` 來改鍵位，但在遇到不同鍵盤的時候就得使用不同的設定檔，覺得很麻煩，於是就花了點時間查詢有沒有其他更簡單的方法，利用這篇文章紀錄。  

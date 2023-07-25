@@ -1,6 +1,6 @@
 Title: pacman mirrorlist - Taiwan vs. Taiwan (Province of China)  
 Date: 2014-10-29 20:53  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: Linux, Taiwan, Arch Linux, pacman, mirrorlist  
 Slug: pacman-mirrorlist-taiwan-vs-taiwan-province-of-china  

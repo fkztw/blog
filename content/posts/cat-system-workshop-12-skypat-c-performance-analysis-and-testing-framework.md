@@ -1,7 +1,7 @@
 Title: Cat System Workshop #12: SkyPat: C++ Performance Analysis and Testing Framework  
 Slug: cat-system-workshop-12-skypat-c-performance-analysis-and-testing-framework  
 Date: 2016-10-11 19:46:58  
-Authors: m157q  
+Authors: fkz  
 Category: Conf/Meetup  
 Tags: Skymizer, Cat System Workshop, Meetup, C++, Performance, Unit-test, framework  
 Summary: Note for Cat System Workshop #11 (2016/10/11)  

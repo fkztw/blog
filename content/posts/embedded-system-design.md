@@ -1,6 +1,6 @@
 Title: Embedded System Design  
 Date: 2014-11-06 01:27  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: Xilinx, Zedboard, Embedded System  
 Slug: embedded-system-design  

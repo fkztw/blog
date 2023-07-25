@@ -1,6 +1,6 @@
 Title: [Project] Android Repackaged App Detection
 Date: 2014-05-21 18:11
-Author: m157q
+Author: fkz
 Category: Project
 Tags: Python, android, Repackaged, Detection, Matplotlib, NetworkX
 Slug: project-android-repackaged-app-detection

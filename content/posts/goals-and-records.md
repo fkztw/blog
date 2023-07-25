@@ -1,6 +1,6 @@
 Title: Goals and Records  
 Date: 2015-01-21 22:13  
-Author: m157q  
+Author: fkz  
 Category: Life  
 Tags: Life  
 Slug: goals-and-records  
@@ -156,7 +156,7 @@ RSS Feed 也會跟著更新
     - [o] [Grumpy 簡介 - Golang Taipei Gathering #25](/posts/2017/07/18/golang-taipei-gathering-25/) (2017/07/18)  
 - 2015  
     - [o] [SITCON 2015 - Android Repackaged App Detection System](/posts/2015/03/11/sitcon-2015-android-repackaged-app-detection-system/) (2015/03/07)  
-        - [SITCON2015 Android Repackaged App Detection System by shunyi // Speaker Deck](https://speakerdeck.com/m157q/sitcon2015-android-repackaged-app-detection-system-by-shunyi)  
+        - [SITCON2015 Android Repackaged App Detection System by shunyi // Speaker Deck](https://speakerdeck.com/fkz/sitcon2015-android-repackaged-app-detection-system-by-shunyi)  
 - 2014  
     - [o] [SITCON 2014 - 一年半前不會寫網站的菜鳥的故事](/posts/2014/03/16/sitcon-2014-yi-nian-ban-qian-bu-hui-xie-wang-zhan-de-cai-niao-de-gu-shi/) (2014/03/16)  
   

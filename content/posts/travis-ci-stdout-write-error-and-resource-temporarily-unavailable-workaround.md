@@ -1,7 +1,7 @@
 Title: Travis CI stdout write error and resource temporarily unavailable workaround  
 Slug: travis-ci-stdout-write-error-and-resource-temporarily-unavailable-workaround  
 Date: 2018-03-30 10:59:48  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Travis CI, non-blocking  
 Summary: A workaround for Travis CI stdout "write error" or "Resource temporarily unavailable"  

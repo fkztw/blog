@@ -1,7 +1,7 @@
 Title: Error: contextify@0.1.15 install: `node-gyp rebuild`  
 Slug: error-contextify-0-1-15-install-node-gyp-rebuild  
 Date: 2017-09-01 16:25:08  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Node.js, node-gyp  
 Summary: Note for solution of "Error: contextify@0.1.15 install: `node-gyp rebuild`"  

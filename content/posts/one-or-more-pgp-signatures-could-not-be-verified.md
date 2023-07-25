@@ -1,7 +1,7 @@
 Title: ERROR: One or more PGP signatures could not be verified  
 Slug: one-or-more-pgp-signatures-could-not-be-verified  
 Date: 2017-11-27 14:56:38  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Arch Linux, makepkg, yaourt, AUR, PGP  
 Summary: Solution for this error while installing packages from AUR.  

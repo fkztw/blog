@@ -1,6 +1,6 @@
 Title: OS Ch6 - Synchronization  
 Date: 2013-11-05 03:07  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: Operating System  
 Slug: os-ch6-synchronization  

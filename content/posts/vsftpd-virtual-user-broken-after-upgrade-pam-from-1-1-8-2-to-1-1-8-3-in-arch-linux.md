@@ -1,6 +1,6 @@
 Title: vsftpd virtual user broken after upgrade pam from 1.1.8-2 to 1.1.8-3 in Arch Linux  
 Date: 2014-02-21 01:53  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: Linux, Arch Linux, vsftpd, pam, sysadmin  
 Slug: vsftpd-virtual-user-broken-after-upgrade-pam-from-1-1-8-2-to-1-1-8-3-in-arch-linux  

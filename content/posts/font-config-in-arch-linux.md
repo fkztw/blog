@@ -1,6 +1,6 @@
 Title: Font Config in Arch Linux  
 Date: 2013-02-16 12:29  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: Linux, Arch Linux, awesomewm, font  
 Slug: font-config-in-arch-linux  

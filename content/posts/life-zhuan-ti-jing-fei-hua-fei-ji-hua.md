@@ -1,6 +1,6 @@
 Title: [Life] 專題經費花費計劃
 Date: 2014-10-28 09:12
-Author: m157q
+Author: fkz
 Category: Life
 Tags: Life, keyboard, arduino, raspberrypi, KBTPurePro
 Slug: life-zhuan-ti-jing-fei-hua-fei-ji-hua

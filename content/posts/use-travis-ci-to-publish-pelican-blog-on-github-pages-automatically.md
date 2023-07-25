@@ -1,7 +1,7 @@
 Title: 用 Travis CI 自動化發佈 Pelican blog 到 GitHub Pages 上  
 Slug: use-travis-ci-to-publish-pelican-blog-on-github-pages-automatically  
 Date: 2016-05-08 13:00:07  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Python, Pelican, Travis CI, GitHub Pages, Blog  
 Summary: 因為總文章數已經累積到約 150 篇，所以每次 build Pelican 的時候都差不多要十秒，覺得每次都要等這十秒實在是很浪費時間，所以幾個月前想到可以用 Travis CI 來自動幫我完成這件事，但直到前幾天才花一個晚上的時間成功設定完，紀錄一下。  
@@ -16,9 +16,9 @@ Summary: 因為總文章數已經累積到約 150 篇，所以每次 build Pelic
   
 先把最終的設定檔放上來好了  
   
-+ [.travis.yml](https://github.com/M157q/m157q.github.io/blob/source/.travis.yml)  
-+ [requirements.txt](https://github.com/M157q/m157q.github.io/blob/source/requirements.txt)  
-+ [Makefile](https://github.com/M157q/m157q.github.io/blob/source/Makefile)  
++ [.travis.yml](https://github.com/M157q/fkz.github.io/blob/source/.travis.yml)  
++ [requirements.txt](https://github.com/M157q/fkz.github.io/blob/source/requirements.txt)  
++ [Makefile](https://github.com/M157q/fkz.github.io/blob/source/Makefile)  
   
 ---  
   
@@ -61,7 +61,7 @@ beautifulsoup4==4.4.1 # 我用到的 plugin 需要
   
 ```Makefile  
 OUTPUTDIR=$(BASEDIR)/output  
-GITHUB_REPO_SLUG=M157q/m157q.github.io  
+GITHUB_REPO_SLUG=M157q/fkz.github.io  
 GITHUB_REMOTE_NAME=origin  
 GITHUB_PAGES_BRANCH=master  
 # 以上參數請根據需求自行替換  

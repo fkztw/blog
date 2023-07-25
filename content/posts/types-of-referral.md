@@ -1,7 +1,7 @@
 Title: Referral 的種類  
 Slug: types-of-referral  
 Date: 2018-01-08 22:53:28  
-Authors: m157q  
+Authors: fkz  
 Category: Life  
 Tags: Jobs, Interview  
 Summary: 最近在找工作，有收到一些 referral，發現可以稍微分類一下。  

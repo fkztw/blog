@@ -1,6 +1,6 @@
 Title: [Vim] Some useful Vim tips
 Date: 2014-10-30 03:15
-Author: m157q
+Author: fkz
 Category: Vim
 Tags: Vim, Tips
 Slug: vim-some-useful-vim-tips

@@ -1,6 +1,6 @@
 Title: ITSE Ch1 - Software and Software Engineering  
 Date: 2013-11-20 17:57  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: Software Engineering  
 Slug: itse-ch1-software-and-software-engineering  

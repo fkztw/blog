@@ -1,7 +1,7 @@
 Title: Linux 上如何拿到 iPhone 裡的資料  
 Slug: mount-iphone-on-linux  
 Date: 2017-12-31 19:01:07  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Linux, iPhone, ifuse, 2018 iT 邦幫忙鐵人賽  
 Summary: 透過 `ifuse` 可以很容易把 iPhone mount 到 Linux 上，變可以存取 iPhone 裡頭的資料。  

@@ -1,7 +1,7 @@
 Title: Taipei Blockchain Meetup 20181011
 Slug: taipei-blockchain-meetup-20181011
 Date: 2018-10-11 21:26:49
-Authors: m157q
+Authors: fkz
 Category: Note
 Tags: Meetup, Blockchain
 Summary: Note for Taipei Blockchain Meetup 20181011

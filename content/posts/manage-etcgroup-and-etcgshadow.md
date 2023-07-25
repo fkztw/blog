@@ -1,6 +1,6 @@
 Title: Manage /etc/group and /etc/gshadow  
 Date: 2014-08-12 20:45  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: CLI, sysadmin, vigr, grpck, grpconv, gshadow  
 Slug: manage-etcgroup-and-etcgshadow  

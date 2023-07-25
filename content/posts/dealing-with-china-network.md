@@ -1,7 +1,7 @@
 Title: 中國網路相關筆記  
 Slug: dealing-with-china-network  
 Date: 2018-01-11 16:00:26  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: China, Network, 2018 iT 邦幫忙鐵人賽  
 Summary: 紀錄一下 2016 年 10 月左右處理跟中國網路相關問題時的一些筆記。  

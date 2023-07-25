@@ -1,7 +1,7 @@
 Title: 雷斯特 68 鍵凱華青軸機械式打字機鍵盤  
 Slug: lexking-typewriter-68-keys-blue-switch-mechanical-keyboard  
 Date: 2016-06-09 20:03:20  
-Authors: m157q  
+Authors: fkz  
 Category: Life  
 Tags: Mechanical Keyboard, Lexking, Blue Switch  
 Summary: 農曆丙申新年的時候在網路上看到，就下訂了，然後今天收到貨，就發了這篇廢文。  

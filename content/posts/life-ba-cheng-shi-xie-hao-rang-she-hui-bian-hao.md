@@ -1,6 +1,6 @@
 Title: [Life] 把程式寫好 == 讓社會變好
 Date: 2014-04-12 16:04
-Author: m157q
+Author: fkz
 Category: Life
 Tags: Life, programming, ImproveSociety
 Slug: life-ba-cheng-shi-xie-hao-rang-she-hui-bian-hao

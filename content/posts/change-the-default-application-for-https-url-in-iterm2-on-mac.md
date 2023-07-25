@@ -1,6 +1,6 @@
 Title: iTerm2 搶走 https 連結預設開啟程式的解法  
 Date: 2013-12-10 14:24  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: Mac, HTTPS, iTerm2  
 Slug: change-the-default-application-for-https-url-in-iterm2-on-mac  

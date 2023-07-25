@@ -1,7 +1,7 @@
 Title: 2018 iT 邦幫忙鐵人賽參賽心得  
 Slug: 2018-ithelp-ironman  
 Date: 2018-01-19 23:59:49  
-Authors: m157q  
+Authors: fkz  
 Category: Contest  
 Tags: iThome, iThelp, 2018 iT 邦幫忙鐵人賽  
 Summary: 有在追蹤這個部落格的人（有這樣的人嗎？）可能會發現最近 30 天發文頻率特別高，那是因為我參加了一個要連續 30 天每天發文的比賽，昨天既辛苦又順利得完賽了，於是用這篇文章紀錄一下心得。  

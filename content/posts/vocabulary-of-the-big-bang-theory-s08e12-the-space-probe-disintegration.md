@@ -1,6 +1,6 @@
 Title: Vocabulary of The Big Bang Theory S08E12 - The Space Probe Disintegration  
 Date: 2015-01-14 16:55  
-Author: m157q  
+Author: fkz  
 Category: Vocabulary  
 Tags: Vocabulary, The Big Bang Theory, English, TV Series, Geek  
 Slug: vocabulary-of-the-big-bang-theory-s08e12-the-space-probe-disintegration  

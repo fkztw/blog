@@ -1,6 +1,6 @@
 Title: [Hack] CTF List
 Date: 2014-10-09 07:15
-Author: m157q
+Author: fkz
 Category: Hack
 Tags: 
 Slug: hack-ctf-list

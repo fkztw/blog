@@ -1,6 +1,6 @@
 Title: Enable mCrypt in PHP5 on Ubuntu 13.10 for Apache  
 Date: 2014-03-27 18:48  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: PHP, Ubuntu, Apache, mCrypt, sysadmin  
 Slug: enable-mcrypt-in-php5-on-ubuntu-1310-for-apache  

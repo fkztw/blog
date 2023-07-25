@@ -1,7 +1,7 @@
 Title: 用 Python 抓出我在前公司貢獻了多少 GitHub commits  
 Slug: fetch-my-github-commits-in-one-organization-with-python-script  
 Date: 2017-12-27 21:29:13  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: GitHub, Python, Python 3, 2018 iT 邦幫忙鐵人賽  
 Summary: 如果你想計算你在某個 GitHub organization 的總 commits 數的話，可以參考一下這篇文章。  

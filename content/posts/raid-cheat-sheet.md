@@ -1,6 +1,6 @@
 Title: RAID Cheat Sheet  
 Date: 2014-01-12 19:22  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: RAID, Cheat Sheet  
 Slug: raid-cheat-sheet  

@@ -1,6 +1,6 @@
 Title: [InfoSec] Replay payload from other teams in attack&defense CTF
 Date: 2015-01-21 22:25
-Author: m157q
+Author: fkz
 Category: Infosec
 Tags: CTF
 Slug: infosec-replay-payload-from-other-teams-in-attackdefense-ctf

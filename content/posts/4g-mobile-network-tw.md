@@ -1,7 +1,7 @@
 Title: 關於 4G 行動網路的一些筆記  
 Slug: 4g-mobile-network-tw  
 Date: 2017-12-20 23:59:50  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: 4G, LTE, 2018 iT 邦幫忙鐵人賽, Mobile Network  
 Summary: 最近因為要買 4G 行動網路分享器，花了些時間爬文，想說用這篇筆記一下。  

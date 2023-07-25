@@ -1,7 +1,7 @@
 Title: Change from Travis CI Build Matrix to Build Stages  
 Slug: change-from-travis-ci-build-matrix-to-build-stages  
 Date: 2020-07-11 21:40:20  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: CI, Travis CI  
 Summary: How I changed from Travis CI Build Matrix to Build Stages for my side project.

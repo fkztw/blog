@@ -1,6 +1,6 @@
 Title: 資訊工程研討 - 台灣資訊與軟體產業未來之發展與機會  
 Date: 2013-11-05 05:42  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: Microsoft, speech  
 Slug: computer-science-seminars-the-development-and-opportunities-about-the-it-in-taiwan  

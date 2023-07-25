@@ -1,7 +1,7 @@
 Title: 原來 Chromecast  
 Slug: so-this-is-chromecast  
 Date: 2017-08-15 02:20:26  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Chrome, Chromium, Chromecast, VLC, SMPlayer  
 Summary: Something about Chromecast  

@@ -1,7 +1,7 @@
 Title: Vocabulary of Fifty Shades of Grey  
 Slug: vocabulary-of-fifty-shades-of-grey  
 Date: 2015-07-25 23:30:39  
-Authors: m157q  
+Authors: fkz  
 Category: Vocabulary  
 Tags: Vocabulary, Fifty Shades of Grey, English, Movie  
 Summary: Lots of jargon about the Submissive and the Dominant thing. lol  

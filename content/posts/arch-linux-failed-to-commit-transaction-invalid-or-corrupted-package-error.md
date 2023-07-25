@@ -1,7 +1,7 @@
 Title: [Arch Linux] Failed to commit transaction (invalid or corrupted package) error  
 Slug: arch-linux-failed-to-commit-transaction-invalid-or-corrupted-package-error  
 Date: 2021-09-01 23:02:14  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Note, Arch Linux, yay, pacman  
 Summary: Got really annoyed when I run `yay -Syu` and encounter this error. And MORE HATE FOR MYSELF because I always forget how to fix this. That's the reason why I am here typing on my keyboard writing this post. I HAVE TO WRITE IT DOWN!  

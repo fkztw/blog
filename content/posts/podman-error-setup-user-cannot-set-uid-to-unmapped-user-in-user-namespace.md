@@ -1,7 +1,7 @@
 Title: Podman Error: setup user: cannot set uid to unmapped user in user namespace  
 Slug: podman-error-setup-user-cannot-set-uid-to-unmapped-user-in-user-namespace  
 Date: 2020-02-07 20:14:31  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: podman, docker  
 Summary: Started to use Podman recently. Got stucked on the non-root user environment for hours. Write down some notices here.  

@@ -1,6 +1,6 @@
 Title: ITSE Ch2 - Process Models  
 Date: 2013-11-09 09:47  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: Software Engineering  
 Slug: itse-ch2-process-models  

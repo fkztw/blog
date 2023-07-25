@@ -1,7 +1,7 @@
 Title: Bypass Cloudflare detection while using Selenium with ChromeDriver  
 Slug: bypass-cloudflare-detection-while-using-selenium-with-chromedriver  
 Date: 2020-09-11 21:25:46  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Selenium, Python, ChromeDriver, Cloudflare  
 Summary: I was blocked by Cloudflare while scraping some websites and this saved me. So, I am gonna write it down.  

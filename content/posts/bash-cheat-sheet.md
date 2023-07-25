@@ -1,6 +1,6 @@
 Title: Bash Cheat Sheet  
 Date: 2014-10-16 10:23  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: CLI, bash, Cheat Sheet  
 Slug: bash-cheat-sheet  

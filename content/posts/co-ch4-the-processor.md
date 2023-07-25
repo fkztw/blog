@@ -1,6 +1,6 @@
 Title: CO Ch4 - The Processor  
 Date: 2013-11-25 08:22  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: Computer Organization  
 Slug: co-ch4-the-processor  

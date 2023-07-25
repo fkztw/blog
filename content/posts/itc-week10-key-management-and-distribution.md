@@ -1,6 +1,6 @@
 Title: ITC week10 - Key Management and Distribution  
 Date: 2013-11-27 04:09  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: Cryptography, InfoSec, Security  
 Slug: itc-week10-key-management-and-distribution  

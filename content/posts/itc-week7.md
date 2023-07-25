@@ -1,6 +1,6 @@
 Title: ITC - week7  
 Date: 2013-11-06 02:22  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: Cryptography, Security  
 Slug: itc-week7  

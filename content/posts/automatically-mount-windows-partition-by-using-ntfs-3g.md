@@ -1,6 +1,6 @@
 Title: 用 ntfs-3g 自動 mount Windows 裡的 D 槽  
 Date: 2013-02-17 00:32  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: Linux, Arch Linux, fstab, UUID, NTFS, ntfs-3g  
 Slug: automatically-mount-windows-partition-by-using-ntfs-3g  

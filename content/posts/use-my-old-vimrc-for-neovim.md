@@ -1,7 +1,7 @@
 Title: Use my old vimrc for NeoVim
 Slug: use-my-old-vimrc-for-neovim
 Date: 2018-07-23 05:02:21
-Authors: m157q
+Authors: fkz
 Category: Note
 Tags: Vim, NeoVim, Vundle
 Summary: Just need some modifications and we are good to go for using old vimrc for NeoVim.

@@ -1,7 +1,7 @@
 Title: 在 Arch Linux 上將 Docker 的 Storage Driver 從 devicemapper 改為 overlay2 以釋放硬碟空間  
 Slug: change-docker-storage-driver-from-devicemapper-to-overlay2-to-free-your-disk-space-on-arch-linux  
 Date: 2018-01-16 23:19:02  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Docker, devicemapper, overlayFS, Arch Linux, 2018 iT 邦幫忙鐵人賽  
 Summary: 拋棄 `devicemapper`，釋放你的硬碟空間。  

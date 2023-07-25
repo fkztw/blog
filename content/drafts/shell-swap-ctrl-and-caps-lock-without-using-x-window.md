@@ -1,6 +1,6 @@
 Title: [Shell] swap Ctrl and Caps Lock without using X window
 Date: 2014-05-21 16:00
-Author: m157q
+Author: fkz
 Category: Shell
 Tags: Shell, dumpkeys, loadkeys
 Slug: shell-swap-ctrl-and-caps-lock-without-using-x-window

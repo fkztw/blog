@@ -1,7 +1,7 @@
 Title: 如何在 Linux 上使用 Miracast  
 Slug: miracast-on-linux  
 Date: 2018-01-08 23:10:36  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Linux, Miracast, 2018 iT 邦幫忙鐵人賽  
 Summary: 紀錄一下在 Linux 上使用 Miracast 無線投影的方法  

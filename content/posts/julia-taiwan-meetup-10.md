@@ -1,7 +1,7 @@
 Title: Julia Taiwan Meetup #10  
 Slug: julia-taiwan-meetup-10  
 Date: 2017-11-17 21:30:48  
-Authors: m157q  
+Authors: fkz  
 Category: Conf/Meetup  
 Tags: julialang  
 Summary: Note for Julia Taiwan Meetup #10  

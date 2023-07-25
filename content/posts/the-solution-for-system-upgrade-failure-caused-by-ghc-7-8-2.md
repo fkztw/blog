@@ -1,6 +1,6 @@
 Title: GHC 7.8.2 造成 Arch Linux 無法升級的解法  
 Date: 2014-05-21 14:50  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: Linux, Haskell, Arch Linux, GHC, sysadmin  
 Slug: the-solution-for-system-upgrade-failure-caused-by-ghc-7-8-2  

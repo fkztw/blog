@@ -1,6 +1,6 @@
 Title: SNTT week8 - Android App 入門  
 Date: 2013-11-12 13:01  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: Java, Android  
 Slug: sntt-week8-introduction-to-android-app  

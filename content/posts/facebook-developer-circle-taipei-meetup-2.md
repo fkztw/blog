@@ -1,7 +1,7 @@
 Title: Facebook Developer Circle: Taipei - Meetup #2  
 Slug: facebook-developer-circle-taipei-meetup-2  
 Date: 2017-06-22 21:41:20  
-Authors: m157q  
+Authors: fkz  
 Category: Conf/Meetup  
 Tags: Facebook, Meetup  
 Summary: Note for Facebook Developer Circle: Taipei - Meetup #2  

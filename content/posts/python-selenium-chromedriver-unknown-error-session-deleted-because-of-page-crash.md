@@ -1,7 +1,7 @@
 Title: Python Selenium ChromeDriver unknown error: session deleted because of page crash
 Slug: python-selenium-chromedriver-unknown-error-session-deleted-because-of-page-crash  
 Date: 2020-09-11 21:01:03  
-Authors: m157q  
+Authors: fkz  
 Category: Note 
 Tags: Python, Selenium, ChromeDriver, Heroku, error
 Summary: Encountered this error while using Selenium with ChromeDriver on Heroku Free dyno.

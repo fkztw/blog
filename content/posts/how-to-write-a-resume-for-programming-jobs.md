@@ -1,7 +1,7 @@
 Title: 程式設計師的履歷撰寫要點  
 Slug: how-to-write-a-resume-for-programming-jobs  
 Date: 2016-01-22 23:53:04  
-Authors: m157q  
+Authors: fkz  
 Category: Life  
 Tags: Resume  
 Summary: 2015 年 12 月我到台南成功大學去找 Jserv review 我人生的第 1 份履歷時，他當面花了 3 個小時給我的建議，我覺得受益良多，因此紀錄下來。  

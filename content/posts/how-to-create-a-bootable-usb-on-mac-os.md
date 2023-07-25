@@ -1,6 +1,6 @@
 Title: How to Create a Bootable USB on Mac OS  
 Date: 2013-10-14 11:28  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: OS X, Mac, USB, Bootable USB  
 Slug: how-to-create-a-bootable-usb-on-mac-os  

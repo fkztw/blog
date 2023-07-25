@@ -1,7 +1,7 @@
 Title: Shutter 0.94-2 broken after Perl upgraded to 5.26 on Arch Linux  
 Slug: shutter-0-94-2-broken-after-perl-upgraded-to-5-26-on-arch-linux  
 Date: 2017-09-15 20:03:20  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: shutter, Perl  
 Summary: Note for the solution to fix this problem  

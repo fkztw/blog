@@ -1,7 +1,7 @@
 Title: Fifty Shades of Grey - Programmer Version  
 Slug: fifty-shades-of-grey-programmer-version  
 Date: 2015-02-18 22:36:42  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Fifty Shades of Grey, joke, geek, Code Golf  
 Summary: When "Fifty shades of grey" comes to programmer. LOL  

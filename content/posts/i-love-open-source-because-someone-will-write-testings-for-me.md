@@ -1,7 +1,7 @@
 Title: 我愛開源，因為會遇到路人幫我寫測試。  
 Slug: i-love-open-source-because-someone-will-write-testings-for-me  
 Date: 2017-12-24 23:23:12  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Open Source, 2018 iT 邦幫忙鐵人賽  
 Summary: 無聊寫個小程式，結果被不認識的路人發了幫忙寫測試的 PR，而且 commit messages 還超級詳細，讓我學到了不少，這就是 Open Source 的魅力啊。  

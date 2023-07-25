@@ -1,7 +1,7 @@
 Title: Embed .srt subtitle into .mkv with ffmpeg
 Slug: embed-srt-subtitle-into-mkv-with-ffmpeg
 Date: 2018-06-24 21:35:23
-Authors: m157q
+Authors: fkz
 Category: Note
 Tags: CLI, ffmpeg, srt, mkv
 Summary: Note for how to embed .srt subtitle into .mkv video file.

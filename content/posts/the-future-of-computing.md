@@ -1,6 +1,6 @@
 Title: 《代碼的未來》  
 Date: 2014-03-10 21:37  
-Author: m157q  
+Author: fkz  
 Category: Reading  
 Tags: Review, NoSQL, Big Data, RDBMS  
 Slug: the-future-of-computing  

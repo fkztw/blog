@@ -1,7 +1,7 @@
 Title: 2018 Developer Skills Report by HackerRank 摘要  
 Slug: 2018-developer-skills-report-by-hackerrank-brief  
 Date: 2018-01-31 12:56:16  
-Authors: m157q  
+Authors: fkz  
 Category: Translation  
 Tags: Programmer, Interview, Coding  
 Summary: 看到 HackerRank 這份統計報告覺得挺有趣的，所以稍微節錄一下重點。剛好最近要面試也可以參考一下，還有讓我想起自己多久沒用 HackerRank 解解題了。  

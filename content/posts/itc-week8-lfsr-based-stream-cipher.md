@@ -1,6 +1,6 @@
 Title: ITC week8 - LFSR-based Stream Cipher  
 Date: 2013-11-20 04:00  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: Cryptography, InfoSec, Security  
 Slug: itc-week8-lfsr-based-stream-cipher  

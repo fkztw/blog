@@ -2,7 +2,7 @@ Title: Compiler Design Week 1
 Slug: compiler-design-week-1
 Date: 2015-02-24 16:08:47
 Modified: 2015-02-26 16:40:00 
-Authors: m157q
+Authors: fkz
 Category: Course
 Tags: Course, Compiler
 Summary: Note for Compiler Design Course in NTHU - week1

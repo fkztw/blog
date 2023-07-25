@@ -1,7 +1,7 @@
 Title: No more requirements-test.txt for Flit or Poetry while using Tox running tests  
 Slug: no-more-requirements-test-txt-for-flit-or-poetry-while-using-tox-running-tests  
 Date: 2020-07-11 15:54:19  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Python, Poetry, Flit, Tox, setuptools  
 Summary: 最近開始用 `pyproject.toml` 取代 `setup.py`, `requirements.txt`, ...，紀錄一下遇到的問題。  

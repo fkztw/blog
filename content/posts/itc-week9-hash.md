@@ -1,6 +1,6 @@
 Title: ITC week9 - Hash  
 Date: 2013-11-22 07:43  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: Cryptography, Security  
 Slug: itc-week9-hash  

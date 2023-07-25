@@ -1,7 +1,7 @@
 Title: 新增幾項設定來防範 Clickjacking Frame Attack
 Slug: clickjacking-frame-attack-defense
 Date: 2018-07-23 05:34:59
-Authors: m157q
+Authors: fkz
 Category: Note
 Tags: Security, Clickjacking, owasp, Content Security Policy, CSP, X-Frame-Options, Frame Breaking Script
 Summary: 公司的 Bug Bounty Program 收到了 Clickjacking Frame Attack 的回報，以前學資安都偏攻擊面較多，最近比較有機會接觸到防禦的部分，想說紀錄一下。

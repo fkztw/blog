@@ -1,6 +1,6 @@
 Title: Artificial Intelligence Online Course  
 Date: 2014-02-27 13:23  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: AI, MITOCW, Coursera, Artificial Intelligence  
 Slug: artificial-intelligence-online-course  

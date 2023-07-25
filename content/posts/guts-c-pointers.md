@@ -1,7 +1,7 @@
 Title: 20160918 - 你所不知道的 C 語言：指標篇 復刻！  
 Slug: guts-c-pointers  
 Date: 2016-09-18 23:01:17  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: C, GUTS, jserv, pointers  
 Summary: Jserv 線上 C 語言講座《0918 - 你所不知道的 C 語言：指標篇 復刻！》筆記  

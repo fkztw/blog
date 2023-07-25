@@ -1,7 +1,7 @@
 Title: Compiler Design Week 7
 Slug: compiler-design-week-7
 Date: 2015-04-07 15:40:11
-Authors: m157q
+Authors: fkz
 Category: Course
 Tags: Course, Compiler
 Summary: Note for Compiler Design Course in NTHU - Week 7

@@ -1,6 +1,6 @@
 Title: Protocol version mismatch error in tmux  
 Date: 2014-02-27 16:01  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: CLI, tmux  
 Slug: protocol-version-mismatch-error-in-tmux  

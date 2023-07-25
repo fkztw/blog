@@ -1,7 +1,7 @@
 Title: 《回答的智慧》  
 Slug: how-to-answer-questions-in-a-helpful-way-zh-tw  
 Date: 2017-12-21 23:52:26  
-Authors: m157q  
+Authors: fkz  
 Category: Translation  
 Tags: Julia Evans, Programmer, Answer Questions, Collaboration, 2018 iT 邦幫忙鐵人賽  
 Summary: 今年 9 月 30 日，我在 Julia Evans 的部落格讀到了這篇文章，覺得真的寫得很好，當下便有了想翻譯的念頭，直到最近才詢問作者並獲得同意。  

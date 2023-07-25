@@ -1,7 +1,7 @@
 Title: 讓 gpg-agent 在 git commit gpg-sign 時使用 pinentry-curses  
 Slug: make-gpg-agent-use-pinentry-curses-while-git-commit-gpg-sign  
 Date: 2017-01-20 13:21:09  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: cli, gpg, pinentry, git  
 Summary: 最近用 Arch Linux 升上 4.8.13 後，X window 跑一跑會突然 crash，重開之後會抓不到 X window 的 output 變數，導致平常 git commit 在 gpg-sign 時，gpg-agent 預設使用的 pinentry-gtk2 會開不起來，讓 git commit 無法順利使用 gpg-sign，所以找一個不用開 gtk 視窗起來的方法。  

@@ -1,6 +1,6 @@
 Title: 資訊工程研討 - 科學技術與哲學  
 Date: 2013-11-26 05:36  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: Philosophy, Science  
 Slug: computer-science-seminars-science-technology-and-philosophy  

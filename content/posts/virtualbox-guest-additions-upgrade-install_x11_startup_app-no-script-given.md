@@ -1,6 +1,6 @@
 Title: VirtualBox Guest additions upgrade: install_x11_startup_app: no script given  
 Date: 2014-11-10 11:14  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: VirtualBox, Guest Additions, install_x11_startup_app, sysadmin  
 Slug: virtualbox-guest-additions-upgrade-install_x11_startup_app-no-script-given  

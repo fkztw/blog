@@ -1,7 +1,7 @@
 Title: 《被囚禁的台灣》  
 Slug: imprisoned-taiwan  
 Date: 2016-05-15 23:03:24  
-Authors: m157q  
+Authors: fkz  
 Category: Reading  
 Tags: Taiwan, Review, Politics  
 Summary: 《被囚禁的台灣》讀後感  

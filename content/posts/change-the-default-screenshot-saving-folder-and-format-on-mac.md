@@ -1,6 +1,6 @@
 Title: 修改 Mac 的截圖儲存位置及格式  
 Date: 2014-02-27 14:08  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: Mac, Screenshot  
 Slug: change-the-default-screenshot-saving-folder-and-format-on-mac  

@@ -1,6 +1,6 @@
 Title: 給系上教授的回信  
 Date: 2014-04-28 17:01  
-Author: m157q  
+Author: fkz  
 Category: Life  
 Tags: Life, NCTUCS  
 Slug: a-reply-email-to-a-professor-of-nctucs  

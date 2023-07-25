@@ -1,6 +1,6 @@
 Title: percol - interactive pipe in shell  
 Date: 2014-12-04 15:31  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: CLI, percol, Python, pip  
 Slug: percol-interactive-pipe-in-shell  

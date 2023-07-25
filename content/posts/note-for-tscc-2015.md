@@ -1,7 +1,7 @@
 Title: Note for TSCC 2015  
 Slug: note-for-tscc-2015  
 Date: 2015-05-02 16:27:52  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: TSCC, HPC, Competition  
 Summary: A note for the TSCC 2015 Final  
@@ -69,4 +69,4 @@ Here I use tscc.
 OpenMP, MPI, CUDA, OpenCL  
   
 + CUDA  
-    + [Nice Series of CUDA Tutorials on ptt.cc | Just for noting](https://m157q.github.io/posts/2015/08/15/nice-series-of-cuda-tutorials-on-ptt-cc/)  
+    + [Nice Series of CUDA Tutorials on ptt.cc | Just for noting](https://fkz.github.io/posts/2015/08/15/nice-series-of-cuda-tutorials-on-ptt-cc/)  

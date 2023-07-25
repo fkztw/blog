@@ -1,7 +1,7 @@
 Title: 小孩與大人  
 Slug: child-and-adult  
 Date: 2019-12-19 00:23:13  
-Authors: m157q  
+Authors: fkz  
 Category: Life  
 Tags: Life  
 Summary: 最近的一些體悟  

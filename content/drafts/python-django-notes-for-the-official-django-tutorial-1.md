@@ -1,6 +1,6 @@
 Title: [Python] [Django] Notes for the Official Django Tutorial (1)
 Date: 2013-10-03 06:48
-Author: m157q
+Author: fkz
 Category: Python
 Tags: Python, django
 Slug: python-django-notes-for-the-official-django-tutorial-1

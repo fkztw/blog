@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 # Basic settings
-AUTHOR = u'm157q'
+AUTHOR = u'fkz'
 SITENAME = u'Just for noting'
 TIMEZONE = 'Asia/Taipei'
 DEFAULT_LANG = u'zh'

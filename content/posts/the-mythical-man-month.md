@@ -1,7 +1,7 @@
 Title: 《人月神話：專案管理之道》二十週年紀念版  
 Slug: the-mythical-man-month  
 Date: 2016-09-05 23:49  
-Authors: m157q  
+Authors: fkz  
 Category: Reading  
 Tags: Software Engineering,  
 Summary: 讀《人月神話：專案管理之道》二十週年紀念版（其實從 1975 年出版到現在已經 41 年了）  

@@ -1,6 +1,6 @@
 Title: Setup Static Ip Wired Network in Arch Linux  
 Date: 2013-02-25 02:05  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: Linux, Arch Linux, sysadmin, Network  
 Slug: setup-static-ip-wired-network-in-arch-linux  

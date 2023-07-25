@@ -1,6 +1,6 @@
 Title: OS Ch8 - Memory Management  
 Date: 2013-11-26 03:25  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: Operating System, Memory Management  
 Slug: os-ch8-memory-management  

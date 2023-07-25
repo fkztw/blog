@@ -1,6 +1,6 @@
 Title: Mount Windows NTFS filesystem on Mac OSX  
 Date: 2013-11-03 11:50  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: OS X, Mac, Windows, NTFS  
 Slug: mount-windows-ntfs-filesystem-on-mac-osx  

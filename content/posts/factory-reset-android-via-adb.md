@@ -1,7 +1,7 @@
 Title: Factory Reset Android via ADB  
 Slug: factory-reset-android-via-adb  
 Date: 2017-05-05 01:33:34  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: android, adb, factory reset  
 Summary: Simple note for factory reset Android via ADB.  

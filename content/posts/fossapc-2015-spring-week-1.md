@@ -1,7 +1,7 @@
 Title: FOSSAPC 2015 Spring Week #1
 Slug: fossapc-2015-spring-week-1
 Date: 2015-03-02 12:57:15
-Authors: m157q
+Authors: fkz
 Category: Course
 Tags: Course, FOSS, Open Source, Free Software
 Summary: A note for 2015 FOSSAPC course in NCTU, Hsinchu, Taiwan

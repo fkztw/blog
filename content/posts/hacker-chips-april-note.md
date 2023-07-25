@@ -1,7 +1,7 @@
 Title: Hacker Chips April Note  
 Slug: hacker-chips-april-note  
 Date: 2016-04-24 16:00:21  
-Authors: m157q  
+Authors: fkz  
 Category: Conf/Meetup  
 Tags: Hacker Chips, Sudo_, Meetup  
 Summary: 紀錄一下第一次參加由 [Sudo\_](https://sudo.com.tw/) 舉辦的 Hacker Chips  

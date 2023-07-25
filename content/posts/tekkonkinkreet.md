@@ -1,7 +1,7 @@
 Title: 《惡童當街》  
 Slug: tekkonkinkreet  
 Date: 2017-02-19 23:28:40  
-Authors: m157q  
+Authors: fkz  
 Category: Reading  
 Tags: Comics, Tekkonkinkreet  
 Summary: 短篇漫畫《惡童當街》1~3 集（完）讀後感  

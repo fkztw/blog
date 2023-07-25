@@ -1,6 +1,6 @@
 Title: [Cpp] [Online Judge] UVa 10579 Fibonacci Numbers  
 Date: 2013-04-29 19:57  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: Cpp, Online Judge, Big Number  
 Slug: cpp-online-judge-uva-10579-fibonacci-numbers  

@@ -1,6 +1,6 @@
 Title: Intro CompSec Hw1  
 Date: 2014-12-18 16:51  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: Security  
 Slug: intro-compsec-hw1  

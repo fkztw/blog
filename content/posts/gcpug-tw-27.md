@@ -1,7 +1,7 @@
 Title: GCPUG.tw #27  
 Slug: gcpug-tw-27  
 Date: 2017-07-05 21:46:56  
-Authors: m157q  
+Authors: fkz  
 Category: Conf/Meetup  
 Tags: Google Cloud Platform  
 Summary: Note for GCPUG Taiwan meetup #27  

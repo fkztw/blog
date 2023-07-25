@@ -1,6 +1,6 @@
 Title: [Note] Hacking Exposed 7
 Date: 2014-03-03 09:31
-Author: m157q
+Author: fkz
 Category: Note
 Tags: Hacking
 Slug: note-hacking-exposed-7

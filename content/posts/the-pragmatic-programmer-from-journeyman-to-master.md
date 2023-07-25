@@ -1,7 +1,7 @@
 Title: 《程序员修炼之道:从小工到专家》  
 Slug: the-pragmatic-programmer-from-journeyman-to-master  
 Date: 2018-01-15 21:31:05  
-Authors: m157q  
+Authors: fkz  
 Category: Reading  
 Tags: Programmer, 2018 iT 邦幫忙鐵人賽  
 Summary: 《程序员修炼之道:从小工到专家》 讀後感  

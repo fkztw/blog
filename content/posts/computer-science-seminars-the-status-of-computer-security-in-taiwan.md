@@ -1,6 +1,6 @@
 Title: 資訊工程研討 - 台灣資安防護及技術發展現況  
 Date: 2013-12-17 06:59  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: Information Security, Hacking, Network Attack, InfoSec, Security  
 Slug: computer-science-seminars-the-status-of-computer-security-in-taiwan  

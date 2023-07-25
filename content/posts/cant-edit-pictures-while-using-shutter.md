@@ -1,6 +1,6 @@
 Title: Can't edit pictures while using Shutter  
 Date: 2013-06-08 12:42  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: shutter, perl  
 Slug: cant-edit-pictures-while-using-shutter  

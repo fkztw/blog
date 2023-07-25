@@ -1,7 +1,7 @@
 Title: GCPUG.tw #26  
 Slug: gcpug-tw-26  
 Date: 2017-06-02 21:39:53  
-Authors: m157q  
+Authors: fkz  
 Category: Conf/Meetup  
 Tags: Google Cloud Platform  
 Summary: Note for GCPUG Taiwan Meetup 26  

@@ -1,7 +1,7 @@
 Title: HITCON 2016 CMT  
 Slug: hitcon-2016-cmt  
 Date: 2016-07-23 19:45:43  
-Authors: m157q  
+Authors: fkz  
 Category: Conf/Meetup  
 Tags: HITCON  
 Summary: Note for HITCON 2016 CMT  

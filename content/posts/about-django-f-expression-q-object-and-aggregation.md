@@ -1,7 +1,7 @@
 Title: 關於 Django 的 F() expressions, Q object, Aggregation 的一些筆記  
 Slug: about-django-f-expression-q-object-and-aggregation  
 Date: 2017-12-28 23:15:00  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Python, Django, 2018 iT 邦幫忙鐵人賽  
 Summary: 以前維護離職同事留下來的程式碼時做的一些筆記，當時沒有發文，時隔一年才整理成這篇文章。  

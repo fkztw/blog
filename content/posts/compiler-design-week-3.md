@@ -1,7 +1,7 @@
 Title: Compiler Design Week 3
 Slug: compiler-design-week-3
 Date: 2015-03-10 15:47:17
-Authors: m157q
+Authors: fkz
 Category: Course
 Tags: Cousre, Compiler
 Summary: Note for Compiler Design Course in NTHU - Week 3

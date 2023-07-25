@@ -1,7 +1,7 @@
 Title: Golang Taipei Gathering #25  
 Slug: golang-taipei-gathering-25  
 Date: 2017-07-18 23:28:36  
-Authors: m157q  
+Authors: fkz  
 Category: Talk  
 Tags: Golang  
 Summary: Note for Golang Taipei Gathering #25  
@@ -43,7 +43,7 @@ Grumpy 是 Google 推出的 Python to Go source-to-source compiler (transcompile
 並透過簡單的範例比較轉換前與轉換後的速度差異  
 最後再總結一下可能可以應用的地方及其未來發展性  
   
-Slides: <https://speakerdeck.com/m157q/20170718-gtg25-introduction-to-grumpy-1>  
+Slides: <https://speakerdeck.com/fkz/20170718-gtg25-introduction-to-grumpy-1>  
 Video: <https://youtu.be/rsmExnsLAQs?t=6m14s>  
   
 ---  

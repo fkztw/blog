@@ -1,7 +1,7 @@
 Title: Make One GitHub Actions Workflow Trigger Another GitHub Actions Workflow
 Slug: make-one-github-actions-workflow-trigger-another-github-actions-workflow
 Date: 2020-07-16 16:35:20
-Authors: m157q
+Authors: fkz
 Category: Note
 Tags: GitHub, GitHub Actions
 Summary: GitHub Actions restricts one workflow trigger another workflow in order to prevent users from accidentally creating recursive workflow. I spent some time on figuring how to do it.
@@ -57,7 +57,7 @@ But this post will only focus on using your own Personal Access Token.
 I am using one GitHub Actions workflow with `on:schedule` to auto-generate weekly post for my blog.  
 Meanwhile, I have another workflow which will auto-build my blog when there is new commit being pushed. 
 I want it work finely after a new weekly post being pushed.
-Here's the `yml` file of that "auto-generate weekly post" workflow: <https://github.com/M157q/m157q.github.io/blob/source/.github/workflows/generate_weekly_post.yml>
+Here's the `yml` file of that "auto-generate weekly post" workflow: <https://github.com/M157q/fkz.github.io/blob/source/.github/workflows/generate_weekly_post.yml>
 
 
 # References

@@ -1,7 +1,7 @@
 Title: Gray Hat Python Note  
 Slug: gray-hat-python-note  
 Date: 2015-03-27 01:21:07  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Note, Gray Hat Python  
 Summary: Just a Note for "Gray Hat Python"  

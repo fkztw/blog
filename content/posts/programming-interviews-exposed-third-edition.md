@@ -1,7 +1,7 @@
 Title: 《程序員面試攻略》第三版（簡中）  
 Slug: programming-interviews-exposed-third-edition  
 Date: 2016-09-09 12:40:59  
-Authors: m157q  
+Authors: fkz  
 Category: Reading  
 Tags: Interview, Programming Job  
 Summary: 讀《程序員面試攻略》(Programming Interviews Exposed: Secrets to Landing Your Net Job, Third Edition)  

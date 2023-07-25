@@ -1,6 +1,6 @@
 Title: [MySQL] Retrieve data with timestamp
 Date: 2013-06-04 05:08
-Author: m157q
+Author: fkz
 Category: Mysql
 Tags: mysql
 Slug: mysql-retrieve-data-with-timestamp

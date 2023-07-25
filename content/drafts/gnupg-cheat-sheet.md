@@ -1,7 +1,7 @@
 Title: GnuPG 快速上手  
 Slug: gnupg-cheat-sheet  
 Date: 2015-12-13 23:28:50  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: GnuPG, GPG, PGP  
 Summary: Simple instructions for using GnuPG without explanation.  

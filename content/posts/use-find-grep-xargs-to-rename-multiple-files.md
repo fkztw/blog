@@ -1,6 +1,6 @@
 Title: Use find, grep, xargs to Rename Multiple Files  
 Date: 2014-11-10 13:44  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: CLI, find, grep, xargs, mv, rename  
 Slug: use-find-grep-xargs-to-rename-multiple-files  

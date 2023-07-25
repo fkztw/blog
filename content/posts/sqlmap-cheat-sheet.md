@@ -1,6 +1,6 @@
 Title: sqlmap Cheat Sheet  
 Date: 2014-12-01 05:04  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: SQL Injection, sqlmap, Security  
 Slug: sqlmap-cheat-sheet  

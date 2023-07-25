@@ -1,7 +1,7 @@
 Title: Neo4j Causal Cluster Failover  
 Slug: neo4j-causal-cluster-failover  
 Date: 2018-06-20 03:08:50  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Neo4j  
 Summary: Failover for Neo4j Causal Cluster might be easier than what you think.  

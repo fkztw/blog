@@ -1,7 +1,7 @@
 Title: setuptools 36.2.0 upgrading/downgrading uninstall rollback error with Python 3.6.2 on Travis CI  
 Slug: setuptools-36-2-0-upgrading-downgrading-uninstall-rollback-error-with-python-3-6-2-on-travis-ci  
 Date: 2017-08-27 18:12:22  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Travis CI, Python, setuptools  
 Summary: Note for situation and solution and more  

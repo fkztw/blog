@@ -1,6 +1,6 @@
 Title: Solution for the Failure to Attach USB Device in VirtualBox  
 Date: 2014-10-16 08:05  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: VirtualBox, USB  
 Slug: solution-for-the-failure-to-attach-usb-device-in-virtualbox  

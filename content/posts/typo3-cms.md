@@ -1,6 +1,6 @@
 Title: TYPO3 CMS  
 Date: 2014-03-03 12:32  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: PHP, Open Source, CMS, TYPO3  
 Slug: typo3-cms  

@@ -1,7 +1,7 @@
 Title: Make Google Cloud CDN serve gzip compressed content for Nginx server  
 Slug: make-google-cloud-cdn-serve-gzip-compressed-content-for-nginx-server
 Date: 2020-07-11 20:22:05  
-Authors: m157q  
+Authors: fkz  
 Category: Note
 Tags: GCP, Google Cloud Platform, CDN, gzip, Nginx
 Summary: How to make Google Cloud CDN serve gzip compressed content.

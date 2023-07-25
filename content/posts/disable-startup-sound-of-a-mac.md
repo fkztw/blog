@@ -1,6 +1,6 @@
 Title: Disable Startup Sound of a Mac  
 Date: 2013-11-06 07:30  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: OS X, Mac, Startup Sound  
 Slug: disable-startup-sound-of-a-mac  

@@ -1,7 +1,7 @@
 Title: MySQL client 預設允許 MySQL Server 讀取本地端的檔案  
 Slug: mysql-protocol-flaw  
 Date: 2019-01-22 03:17:54  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: MySQL, Security  
 Summary: MySQL 的協定在設計上有瑕疵，導致了一些安全性問題。  

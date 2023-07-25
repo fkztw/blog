@@ -1,7 +1,7 @@
 Title: Study-Area 2016 群英會  
 Slug: study-area-summit-2016  
 Date: 2016-07-16 16:28:58  
-Authors: m157q  
+Authors: fkz  
 Category: Conf/Meetup  
 Tags: SDN, DevOps, DC/OS, ePUB, Git, Ansible  
 Summary: 2016/07/16 在交大 EC122 教室舉辦的 Study-Area 2016 群英會的筆記。  

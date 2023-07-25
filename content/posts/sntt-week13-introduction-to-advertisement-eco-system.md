@@ -1,6 +1,6 @@
 Title: SNTT week13 - Introduction to Advertisement Eco System  
 Date: 2013-12-10 13:11  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: SNTT, Advertisement, digital advertising  
 Slug: sntt-week13-introduction-to-advertisement-eco-system  

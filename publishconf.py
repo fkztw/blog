@@ -10,12 +10,11 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://blog.m157q.tw'
+SITEURL = 'https://blog.fkz.tw'
 RELATIVE_URLS = False
 
 DELETE_OUTPUT_DIRECTORY = True
 
-DISQUS_SITENAME = "m157q-logdown"
+DISQUS_SITENAME = "fkz"
 GOOGLE_ANALYTICS = "UA-45367183-2"
 GOOGLE_ANALYTICS_DOMAIN = "auto"
-# GOOGLE_SEARCH = "005681925362179744994:3xdgt3w3iu0"

@@ -1,6 +1,6 @@
 Title: [Misc] Computer Science from the Bottom Up
 Date: 2015-01-15 06:10
-Author: m157q
+Author: fkz
 Category: Misc
 Tags: ComputerScience
 Slug: misc-computer-science-from-the-bottom-up

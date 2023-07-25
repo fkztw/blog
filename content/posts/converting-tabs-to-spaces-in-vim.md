@@ -1,6 +1,6 @@
 Title: Converting tabs to spaces in Vim  
 Date: 2014-12-09 07:28  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: CLI, Vim, Makefile  
 Slug: converting-tabs-to-spaces-in-vim  

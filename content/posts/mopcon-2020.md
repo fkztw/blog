@@ -1,7 +1,7 @@
 Title: MOPCON 2020  
 Slug: mopcon-2020  
 Date: 2020-10-26 15:29:03  
-Authors: m157q  
+Authors: fkz  
 Category: Conf/Meetup
 Tags: MOPCON  
 Summary: My Personal Note for [MOPCON 2020](https://mopcon.org/2020)

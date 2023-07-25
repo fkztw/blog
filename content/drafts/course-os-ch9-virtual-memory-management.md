@@ -1,6 +1,6 @@
 Title: [Course] OS Ch9 - Virtual-Memory Management
 Date: 2013-11-26 03:26
-Author: m157q
+Author: fkz
 Category: Course
 Tags: Operating-System, Virtual-Memory
 Slug: course-os-ch9-virtual-memory-management
@@ -13,7 +13,7 @@ Status: draft
   
 <script async class="speakerdeck-embed" data-id="81ccbd30387801315ae85eae0478e863" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>  
   
-[Slides can be found here.](https://speakerdeck.com/m157q/os-ch9-virtual-memory-management)  
+[Slides can be found here.](https://speakerdeck.com/fkz/os-ch9-virtual-memory-management)  
   
 <!--more-->  
   

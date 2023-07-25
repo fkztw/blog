@@ -1,6 +1,6 @@
 Title: [InfoSec] Weevely - PHP backdoor generated program 
 Date: 2015-01-21 22:29
-Author: m157q
+Author: fkz
 Category: Infosec
 Tags: 
 Slug: infosec-weevely-php-backdoor-generated-program

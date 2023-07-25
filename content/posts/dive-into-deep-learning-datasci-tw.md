@@ -1,7 +1,7 @@
 Title: 台灣資料科學年會之系列活動：深入淺出深度學習 (Dive into Deep Learning)  
 Slug: dive-into-deep-learning-datasci-tw  
 Date: 2017-08-12 17:02:14  
-Authors: m157q  
+Authors: fkz  
 Category: Conf/Meetup  
 Tags: Deep Learning, DNN, CNN, RNN, Machine Learning  
 Summary: 《資料科學年會系列活動：深入淺出深度學習》筆記  

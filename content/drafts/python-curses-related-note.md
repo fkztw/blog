@@ -1,7 +1,7 @@
 Title: Python Curses Related Note  
 Slug: python-curses-related-note  
 Date: 2015-09-17 00:51:12  
-Authors: m157q  
+Authors: fkz  
 Category: Python  
 Tags: Python, Note, Curses, CLI  
 Summary: A Note for curses related info in Python.  

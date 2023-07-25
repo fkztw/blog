@@ -1,7 +1,7 @@
 Title: 《資訊游俠列傳》
 Slug: the-legends-of-informationists  
 Date: 2021-01-20 18:51:37  
-Authors: m157q  
+Authors: fkz  
 Category: Reading  
 Tags: 資訊游俠列傳, 台灣
 Summary: 好幾年前就想拜讀這本西元 1995 年出版的書了，最近因緣際會看到 [ddaa 一年前在 iThome 鐵人賽的其中一篇文章有提到](https://ithelp.ithome.com.tw/m/articles/10227864)，於是決定要找來看。看完後覺得意猶未盡，而且書本的排版與文字敘述都很棒，閱讀起來非常輕鬆，決定紀錄一下。（好想把 PC Magazine 當年的資訊游俠列傳專欄文章都找出來看啊啊啊啊）

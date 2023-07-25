@@ -1,7 +1,7 @@
 Title: Technology Entrepreneurship Week 5
 Slug: technology-entrepreneurship-week-5
 Date: 2015-03-24 12:27:31
-Authors: m157q
+Authors: fkz
 Category: Course
 Tags: Entrepreneurship, speech
 Summary: Note for the Technology Entrepreneurship Course in NCTU.

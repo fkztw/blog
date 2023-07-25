@@ -1,7 +1,7 @@
 Title: The ycmd server SHUT DOWN (restart with ':YcmRestartServer')  
 Slug: youcompleteme-ycmd-server-shut-down-restart-with-ycmrestartserver  
 Date: 2017-11-27 12:47:33  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Vim, YouCompleteMe  
 Summary: Noticed YouCompleteMe not working in my Vim and got this message everytime in status bar when Vim starts, so noted the solution.  

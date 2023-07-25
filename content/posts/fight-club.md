@@ -1,7 +1,7 @@
 Title: 電影：Fight Club  
 Slug: fight-club  
 Date: 2016-01-23 18:17:00  
-Authors: m157q  
+Authors: fkz  
 Category: Life  
 Tags: Movie, Fight Club  
 Summary: 2016 年看的第 2 部電影，因為在許多電影中常常都提到這部電影，剛好在 Netflix 上看到，於是就看了一下。  

@@ -1,7 +1,7 @@
 Title: 如何及為什麼要使用 `git clone --shallow-submodules`  
 Slug: what-does-git-clone-shallow-submodules-do-and-how-to-use-it  
 Date: 2017-11-03 16:24:16  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Git  
 Summary: 偶然因為同事的問題知道了 `git-clone` 有 `--shallow-submodules` 這個選項，紀錄一下。  

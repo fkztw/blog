@@ -1,7 +1,7 @@
 Title: Vocabulary of Halt and Catch Fire S01E06  
 Slug: vocabulary-of-halt-and-catch-fire-s01e06  
 Date: 2015-02-19 21:22:14  
-Authors: m157q  
+Authors: fkz  
 Category: Vocabulary  
 Tags: Vocabulary, Halt and Catch Fire, TV Series, Geek, English  
 Summary: Just as the title.  

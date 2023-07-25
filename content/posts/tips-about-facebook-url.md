@@ -1,7 +1,7 @@
 Title: Facebook 網址的一些黑魔法  
 Slug: tips-about-facebook-url  
 Date: 2018-01-02 23:02:27  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Facebook, 2018 iT 邦幫忙鐵人賽  
 Summary: 其實 Facebook 的網址列針對單一使用者時，已經可以算是 API 了，所以可以透過在網址列加上一些東西，拿到某個使用者滿多進一步的訊息的，這篇文章會稍微介紹一下。  

@@ -1,7 +1,7 @@
 Title: GCPUG.tw #28  
 Slug: gcpug-tw-28  
 Date: 2017-08-04 21:37:05  
-Authors: m157q  
+Authors: fkz  
 Category: Conf/Meetup  
 Tags: Google Cloud Platform  
 Summary: Note for GCPUG.tw #28  

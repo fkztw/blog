@@ -1,7 +1,7 @@
 Title: Cat System Workshop #17 Full-Stack IoT Development 探索之旅  
 Slug: cat-system-workshop-17-full-stack-iot-development-探索之旅  
 Date: 2017-03-14 22:31:17  
-Authors: m157q  
+Authors: fkz  
 Category: Conf/Meetup  
 Tags: IoT, Node.js  
 Summary: Note for <http://skymizer.kktix.cc/events/cat170314>  

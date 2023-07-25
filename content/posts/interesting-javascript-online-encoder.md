@@ -1,6 +1,6 @@
 Title: Interesting JavaScript online encoder  
 Date: 2014-02-27 14:34  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: JavaScript  
 Slug: interesting-javascript-online-encoder  

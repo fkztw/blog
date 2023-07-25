@@ -1,6 +1,6 @@
 Title: 資訊工程研討 - Theoretical Foundation Behind Strong Growth of Smartphones  
 Date: 2013-11-12 07:14  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: Video, Audio, Security, Network  
 Slug: computer-science-seminars-theoretical-foundation-behind-strong-growth-of-smartphones  

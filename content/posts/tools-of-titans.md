@@ -1,7 +1,7 @@
 Title: 《人生勝利聖經》(Tools of Titans)  
 Slug: tools-of-titans  
 Date: 2020-10-06 15:56:53  
-Authors: m157q  
+Authors: fkz  
 Category: Reading
 Tags: Tools of Titans  
 Summary: 其實這本書 2020/09/25 就看完了，紀錄在當週的 Weekly Post 裏面，但後來還是覺得看完一本書要獨立發一篇部落格文章，比較有紀錄的感覺，所以就發了這篇文章。  

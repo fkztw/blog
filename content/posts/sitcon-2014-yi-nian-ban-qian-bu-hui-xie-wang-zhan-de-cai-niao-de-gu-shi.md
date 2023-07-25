@@ -1,6 +1,6 @@
 Title: SITCON 2014 - 一年半前不會寫網站的菜鳥的故事  
 Date: 2014-03-16 04:24  
-Author: m157q  
+Author: fkz  
 Category: Talk  
 Tags: Conf, Web, SITCON  
 Slug: sitcon-2014-yi-nian-ban-qian-bu-hui-xie-wang-zhan-de-cai-niao-de-gu-shi  

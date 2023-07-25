@@ -1,7 +1,7 @@
 Title: Taipei.py 20160421 Meetup Note  
 Slug: taipei-py-20160421-meetup-note  
 Date: 2016-04-21 19:08:26  
-Authors: m157q  
+Authors: fkz  
 Category: Conf/Meetup  
 Tags: Python, Taipei.py, Neural Network, KKBOX, Meetup  
 Summary: "Neural Art and Neural Doodle in Python" & "Experience from KKBOX"  

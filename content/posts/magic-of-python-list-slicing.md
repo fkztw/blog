@@ -1,7 +1,7 @@
 Title: Magic of Python list slicing  
 Slug: magic-of-python-list-slicing  
 Date: 2015-05-25 04:16:38  
-Authors: m157q  
+Authors: fkz  
 Category: Note  
 Tags: Python, List, Slicing, Magic  
 Summary: Some tricks for the list slicing in Python.  

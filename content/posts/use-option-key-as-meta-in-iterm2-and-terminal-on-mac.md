@@ -1,6 +1,6 @@
 Title: Use Option Key as Meta in iTerm2 and Terminal on Mac  
 Date: 2014-07-09 18:46  
-Author: m157q  
+Author: fkz  
 Category: Note  
 Tags: Mac, terminal, iTerm2, MetaKey, OptionKey  
 Slug: use-option-key-as-meta-in-iterm2-and-terminal-on-mac  

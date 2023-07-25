@@ -1,6 +1,6 @@
 Title: ITSE Ch8 - Conventional Techniques of Design  
 Date: 2013-11-25 01:21  
-Author: m157q  
+Author: fkz  
 Category: Course  
 Tags: Software Engineering  
 Slug: itse-ch8-conventional-techniques-of-design  

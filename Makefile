@@ -25,7 +25,7 @@ CLOUDFILES_CONTAINER=my_cloudfiles_container
 
 DROPBOX_DIR=~/Dropbox/Public/
 
-GITHUB_REPO_SLUG=M157q/m157q.github.io
+GITHUB_REPO_SLUG=fkztw/blog.fkz.tw
 GITHUB_REMOTE_NAME=origin
 GITHUB_SOURCE_CODES_BRANCH=source
 GITHUB_PAGES_BRANCH=master
@@ -44,7 +44,7 @@ DRAFTSDIR=$(INPUTDIR)/drafts
 DATE := $(shell date +'%Y-%m-%d %H:%M:%S')
 SLUG := $(shell echo '${NAME}' | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z)
 EXT ?= md
-AUTHOR=m157q
+AUTHOR=fkztw
 
 help:
 	@echo 'Makefile for a pelican Web site                                        '
@@ -126,8 +126,8 @@ github: publish
 	git push $(GITHUB_REMOTE_NAME) $(GITHUB_SOURCE_CODES_BRANCH)
 
 ci: publish
-	git config --global user.name "M157q - CI"
-	git config --global user.email "github@m157q.tw"
+	git config --global user.name "fkztw - CI"
+	git config --global user.email "gh@fkz.tw"
 	ghp-import -n -m "$(GITHUB_COMMIT_MSG)" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	@git push -fq https://${GITHUB_TOKEN}@github.com/$(GITHUB_REPO_SLUG).git $(GITHUB_PAGES_BRANCH):$(GITHUB_PAGES_BRANCH) > /dev/null
 

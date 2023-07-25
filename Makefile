@@ -25,7 +25,7 @@ CLOUDFILES_CONTAINER=my_cloudfiles_container
 
 DROPBOX_DIR=~/Dropbox/Public/
 
-GITHUB_REPO_SLUG=fkztw/blog.fkz.tw
+GITHUB_REPO_SLUG=fkztw/fkztw.github.io
 GITHUB_REMOTE_NAME=origin
 GITHUB_SOURCE_CODES_BRANCH=source
 GITHUB_PAGES_BRANCH=master

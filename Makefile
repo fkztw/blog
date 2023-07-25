@@ -130,7 +130,7 @@ ci: publish
 	git config --global user.email "gh@fkz.tw"
 	git config --global commit.gpgsign false
 	ghp-import -n -m "$(GITHUB_COMMIT_MSG)" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
-	git push -f https://$(GITHUB_TOKEN)@github.com/$(GITHUB_REPO_SLUG).git $(GITHUB_PAGES_BRANCH):$(GITHUB_PAGES_BRANCH) > /dev/null
+	git push -f https://$(GITHUB_TOKEN)@github.com/$(GITHUB_REPO_SLUG).git $(GITHUB_PAGES_BRANCH):$(GITHUB_PAGES_BRANCH)
 
 newdraft:
 ifdef NAME

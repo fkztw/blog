@@ -77,8 +77,8 @@ LINKS = (
 )
 
 # Social widget
-GITHUB_USERNAME = 'M157q'
-TWITTER_USERNAME = 'M157q'
+GITHUB_USERNAME = 'fkztw'
+TWITTER_USERNAME = 'fkz_tw'
 
 SOCIAL = (
     ('GitHub', 'https://github.com/{}'.format(GITHUB_USERNAME)),
